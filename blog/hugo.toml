@@ -6,7 +6,7 @@ timeZone = "America/Toronto"
 ignoreFiles = ["\\.json$", "pages/thank-you\\.md$"]
 
 [pagination]
-  pagerSize = 25
+  pagerSize = 7
 
 [permalinks]
   archives = "/archives/:year/:month/:filename/"
