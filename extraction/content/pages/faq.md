@@ -96,6 +96,8 @@ Willie Paul, a friend from home, caught up with us in Mexico City for a 3-month 
 
 Our route was determined by the opportunities we encountered along the way. We had no set route, other than to leave Toronto with Toronto as our final destination. East to West or West to East, we didn't care; the point was to go. The journal entries below tell the story of where we went.
 
+
+
   
 
 ## **What are you bringing with you?**

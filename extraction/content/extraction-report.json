@@ -1,23 +1,121 @@
 {
-  "extracted": 173,
-  "failed": [
+  "extracted": 186,
+  "failed": [],
+  "source_posts": 186,
+  "source_capture_unavailable": 11,
+  "recovered_from_aggregate_archives": [
+    {
+      "source_url": "https://theroadislife.com/archives/2005/08/comments.htm",
+      "title": "Comments",
+      "source_archive_page": "https://theroadislife.com/archives/pre-trip/site_design/index.htm",
+      "source_capture": "https://web.archive.org/web/20200923175944id_/http://www.theroadislife.com/archives/pre-trip/site_design/index.htm",
+      "source_capture_timestamp": "20200923175944",
+      "source_sha256": "e089e0426cde20e8abd29f4fe646ec2ed5f1d280782cd035a38455999f514f7a"
+    },
     {
       "source_url": "https://theroadislife.com/archives/2005/11/pardise_and_poi.htm",
-      "reason": "No #main content region in capture"
+      "title": "Pardise and Poison - Zipolite",
+      "source_archive_page": "https://theroadislife.com/archives/mexico/index.htm",
+      "source_capture": "https://web.archive.org/web/20200923182757id_/http://www.theroadislife.com/archives/mexico/index.htm",
+      "source_capture_timestamp": "20200923182757",
+      "source_sha256": "4ab27e1704c8e8cabd73628b1750adea9856b96ab0b87a10cf1211d5685cc34b"
     },
     {
       "source_url": "https://theroadislife.com/archives/2005/12/tikal.htm",
-      "reason": "No #main content region in capture"
+      "title": "Tikal",
+      "source_archive_page": "https://theroadislife.com/archives/2005/12/index.htm",
+      "source_capture": "https://web.archive.org/web/20200927004311id_/http://www.theroadislife.com/archives/2005/12/index.htm",
+      "source_capture_timestamp": "20200927004311",
+      "source_sha256": "86da928cc08b0ecf227ecd2bcd2a27970f88250a97d82641913d85280ad2c4ac"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/03/broken_bikes_an.htm",
+      "title": "Broken Bikes and Killer Bees",
+      "source_archive_page": "https://theroadislife.com/archives/panama/index.htm",
+      "source_capture": "https://web.archive.org/web/20170407014603id_/http://www.theroadislife.com/archives/panama/index.htm",
+      "source_capture_timestamp": "20170407014603",
+      "source_sha256": "98a0f3a33515acceceffe0db04ae9ea077b14f83527e86b9121d5ede92a3803e"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/03/my_new_home_abo.htm",
+      "title": "My New Home Aboard an Actual Sailing Yacht",
+      "source_archive_page": "https://theroadislife.com/archives/panama/index.htm",
+      "source_capture": "https://web.archive.org/web/20170407014603id_/http://www.theroadislife.com/archives/panama/index.htm",
+      "source_capture_timestamp": "20170407014603",
+      "source_sha256": "98a0f3a33515acceceffe0db04ae9ea077b14f83527e86b9121d5ede92a3803e"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/03/omotepe_bound.htm",
+      "title": "Ometepe Bound",
+      "source_archive_page": "https://theroadislife.com/archives/nicaragua/index.htm",
+      "source_capture": "https://web.archive.org/web/20170407015644id_/http://www.theroadislife.com/archives/nicaragua/index.htm",
+      "source_capture_timestamp": "20170407015644",
+      "source_sha256": "8f86976bd3a1a41d274f6285f71baf4ca0bbc9e4836482d07a88ffa376ba7006"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/03/panama_city_-_p.htm",
+      "title": "Panama City - Police Escorts and Pouring Rain",
+      "source_archive_page": "https://theroadislife.com/archives/panama/index.htm",
+      "source_capture": "https://web.archive.org/web/20170407014603id_/http://www.theroadislife.com/archives/panama/index.htm",
+      "source_capture_timestamp": "20170407014603",
+      "source_sha256": "98a0f3a33515acceceffe0db04ae9ea077b14f83527e86b9121d5ede92a3803e"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/03/the_land_before.htm",
+      "title": "The Land Before Time",
+      "source_archive_page": "https://theroadislife.com/archives/nicaragua/index.htm",
+      "source_capture": "https://web.archive.org/web/20170407015644id_/http://www.theroadislife.com/archives/nicaragua/index.htm",
+      "source_capture_timestamp": "20170407015644",
+      "source_sha256": "8f86976bd3a1a41d274f6285f71baf4ca0bbc9e4836482d07a88ffa376ba7006"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/07/comment_spam.htm",
+      "title": "Comment Spam",
+      "source_archive_page": "https://theroadislife.com/archives/pre-trip/site_design/index.htm",
+      "source_capture": "https://web.archive.org/web/20200923175944id_/http://www.theroadislife.com/archives/pre-trip/site_design/index.htm",
+      "source_capture_timestamp": "20200923175944",
+      "source_sha256": "e089e0426cde20e8abd29f4fe646ec2ed5f1d280782cd035a38455999f514f7a"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/07/gold_coast_aust.htm",
+      "title": "Arrived in Australia",
+      "source_archive_page": "https://theroadislife.com/archives/austraila/index.htm",
+      "source_capture": "https://web.archive.org/web/20200927010445id_/http://www.theroadislife.com/archives/austraila/index.htm",
+      "source_capture_timestamp": "20200927010445",
+      "source_sha256": "50e05f203f01e2f94e0cb9aec9cbfa47b4ad794943740b0a407ad9218beff4bc"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/07/new_caledonia.htm",
+      "title": "New Caledonia - Bastille Day",
+      "source_archive_page": "https://theroadislife.com/archives/new_caledonia/index.htm",
+      "source_capture": "https://web.archive.org/web/20200921085905id_/http://www.theroadislife.com/archives/new_caledonia/index.htm",
+      "source_capture_timestamp": "20200921085905",
+      "source_sha256": "adacbd1cf6b7166b199131daa9abc7036e380f0b4d8f70f8c30d6f145f9d126f"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2006/07/the_gold_coast.htm",
+      "title": "The Gold Coast",
+      "source_archive_page": "https://theroadislife.com/archives/austraila/index.htm",
+      "source_capture": "https://web.archive.org/web/20200927010445id_/http://www.theroadislife.com/archives/austraila/index.htm",
+      "source_capture_timestamp": "20200927010445",
+      "source_sha256": "50e05f203f01e2f94e0cb9aec9cbfa47b4ad794943740b0a407ad9218beff4bc"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2007/05/the_baltics.htm",
+      "title": "The Baltics",
+      "source_archive_page": "https://theroadislife.com/archives/the_baltics/index.htm",
+      "source_capture": "https://web.archive.org/web/20200921093207id_/http://www.theroadislife.com/archives/the_baltics/index.htm",
+      "source_capture_timestamp": "20200921093207",
+      "source_sha256": "a4e58541f3d2c83b0100ca504451c83cff6d9a5ee8b5b7a1ce13d3a62e297517"
     }
   ],
-  "source_posts": 186,
-  "source_capture_unavailable": 11,
   "images_downloaded": 1,
-  "note": "Flickr image URLs remain external; raw captures are unchanged.",
   "supporting_pages": [
     "content/pages/about.md",
     "content/pages/faq.md",
     "content/pages/thank-you.md"
   ],
-  "supporting_page_failures": []
+  "supporting_page_failures": [],
+  "note": "Flickr image URLs remain external; raw captures are unchanged.",
+  "recovery_note": "All 186 indexed post bodies are readable. Thirteen were recovered from saved monthly/category archive pages because their individual captures were unavailable or incomplete."
 }

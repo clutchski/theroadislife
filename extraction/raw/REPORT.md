@@ -4,6 +4,12 @@ Raw responses only. Downloaded does not guarantee complete post text or comments
 
 Flickr is deferred to live-source recovery; collection completeness is unknown.
 
+All 186 indexed post bodies are now available as Markdown. Thirteen posts whose
+individual captures were unavailable or incomplete were recovered from saved
+monthly/category archive pages. The unresolved URLs below describe failed direct
+capture attempts; they no longer represent missing post text. See
+`../content/extraction-report.json` for alternate-capture provenance.
+
 Archive index: 186 post URLs; 175 downloaded. See `post-inventory.json` for the checklist.
 
 | Kind | Downloaded | Pending | Failed | Deferred | Excluded |
