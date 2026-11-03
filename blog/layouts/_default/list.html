@@ -27,14 +27,19 @@
     </ol>
   {{ end }}
   <nav class="pagination" aria-label="Journal pages">
-    {{ if $paginator.HasPrev }}<a href="{{ $paginator.First.URL }}" aria-label="First page">««</a>{{ else }}<span aria-disabled="true">««</span>{{ end }}
-    {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" aria-label="Newer posts">«</a>{{ else }}<span aria-disabled="true">«</span>{{ end }}
+    {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" aria-label="Newer posts">← Newer</a>{{ else }}<span aria-disabled="true">← Newer</span>{{ end }}
     <span class="pagination-numbers">
+      {{ $current := $paginator.PageNumber }}
+      {{ $total := $paginator.TotalPages }}
+      {{ if gt $current 3 }}<a href="{{ $paginator.First.URL }}">1</a><span aria-hidden="true">…</span>{{ end }}
       {{ range $paginator.Pagers }}
-        {{ if eq . $paginator }}<span aria-current="page">{{ .PageNumber }}</span>{{ else }}<a href="{{ .URL }}">{{ .PageNumber }}</a>{{ end }}
+        {{ $number := .PageNumber }}
+        {{ if and (ge $number (sub $current 2)) (le $number (add $current 2)) }}
+          {{ if eq . $paginator }}<span aria-current="page">{{ $number }}</span>{{ else }}<a href="{{ .URL }}">{{ $number }}</a>{{ end }}
+        {{ end }}
       {{ end }}
+      {{ if lt $current (sub $total 2) }}<span aria-hidden="true">…</span><a href="{{ $paginator.Last.URL }}">{{ $total }}</a>{{ end }}
     </span>
-    {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" aria-label="Older posts">»</a>{{ else }}<span aria-disabled="true">»</span>{{ end }}
-    {{ if $paginator.HasNext }}<a href="{{ $paginator.Last.URL }}" aria-label="Last page">»»</a>{{ else }}<span aria-disabled="true">»»</span>{{ end }}
+    {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" aria-label="Older posts">Older →</a>{{ else }}<span aria-disabled="true">Older →</span>{{ end }}
   </nav>
 {{ end }}
