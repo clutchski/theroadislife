@@ -155,9 +155,67 @@ def copy_image(entry: dict) -> Path:
     return target
 
 
+def supporting_records(manifest: dict):
+    pages = {
+        "https://theroadislife.com/about.htm": ("about", "About Us"),
+        "https://theroadislife.com/faq.htm": ("faq", "FAQ"),
+        "https://theroadislife.com/thankyou.php": ("thank-you", "Thank You"),
+    }
+    results = []
+    failures = []
+    for url, (slug, title) in pages.items():
+        entry = manifest.get(url)
+        if not entry or entry.get("status") != "downloaded" or not entry.get("response"):
+            failures.append({"source_url": url, "reason": "No downloaded raw capture"})
+            continue
+        response = entry["response"]
+        source = ROOT / response["path"]
+        body = source.read_bytes()
+        if hashlib.sha256(body).hexdigest() != response.get("sha256"):
+            raise ValueError(f"Raw capture checksum mismatch: {source}")
+        soup = BeautifulSoup(body, "html.parser", parse_only=SoupStrainer(id="main"))
+        main = soup.select_one("#main")
+        if not main:
+            failures.append({"source_url": url, "reason": "No #main content region in capture"})
+            continue
+        for node in main.select("script,style,form"):
+            node.decompose()
+        image_urls = []
+        output = CONTENT / "pages" / f"{slug}.md"
+        for image in main.find_all("img"):
+            src = (image.get("src") or image.get("data-src") or "").strip()
+            if not src:
+                continue
+            image["src"] = src
+            image_urls.append(src)
+            image_entry = manifest.get(canonical(src))
+            if image_entry and image_entry.get("status") == "downloaded" and image_entry.get("response"):
+                local_path = copy_image(image_entry)
+                image["src"] = Path(os.path.relpath(local_path, output.parent)).as_posix()
+        markdown = markdownify(str(main), heading_style="ATX", bullets="-").strip()
+        frontmatter = [
+            "---", f"title: {yaml_string(title)}", "date: null", "author: null",
+            "page_type: supporting", f"source_url: {yaml_string(url)}",
+            f"source_capture: {yaml_string(response.get('final_url', ''))}",
+            f"source_capture_timestamp: {yaml_string(response.get('capture_timestamp') or '')}",
+            f"source_sha256: {yaml_string(response['sha256'])}",
+        ]
+        if image_urls:
+            frontmatter.append("images:")
+            frontmatter.extend(f"  - {yaml_string(src)}" for src in dict.fromkeys(image_urls))
+        else:
+            frontmatter.append("images: []")
+        frontmatter.extend(["---", "", markdown, ""])
+        output.parent.mkdir(parents=True, exist_ok=True)
+        output.write_text("\n".join(frontmatter), encoding="utf-8")
+        results.append(str(output.relative_to(ROOT)))
+    return results, failures
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--clean", action="store_true", help="Replace generated content/ and photos/ before extraction")
+    parser.add_argument("--supporting-only", action="store_true", help="Extract About, FAQ, and Thank You pages without reprocessing posts")
     args = parser.parse_args()
     manifest = json.loads((RAW / "manifest.json").read_text())
     inventory = json.loads((RAW / "post-inventory.json").read_text())
@@ -166,16 +224,26 @@ def main():
             shutil.rmtree(CONTENT)
         if PHOTOS.exists():
             shutil.rmtree(PHOTOS)
-    records, failures = post_records(manifest, inventory)
-    (CONTENT / "extraction-report.json").write_text(json.dumps({
-        "extracted": len(records), "failed": failures,
-        "source_posts": len(inventory),
-        "source_capture_unavailable": sum(1 for item in inventory.values() if item.get("status") != "downloaded"),
-        "images_downloaded": sum(1 for p in PHOTOS.glob("*")) if PHOTOS.exists() else 0,
-        "note": "Flickr image URLs remain external; raw captures are unchanged.",
-    }, indent=2, ensure_ascii=False) + "\n")
-    print(f"Extracted {len(records)} posts to content/; copied available local images to photos/")
-    print(f"{len(failures)} source pages could not be extracted; see content/extraction-report.json.")
+    report_path = CONTENT / "extraction-report.json"
+    report = json.loads(report_path.read_text()) if args.supporting_only and report_path.exists() else {}
+    if args.clean and args.supporting_only:
+        parser.error("--clean cannot be combined with --supporting-only")
+    if not args.supporting_only:
+        records, failures = post_records(manifest, inventory)
+        report.update({
+            "extracted": len(records), "failed": failures,
+            "source_posts": len(inventory),
+            "source_capture_unavailable": sum(1 for item in inventory.values() if item.get("status") != "downloaded"),
+            "images_downloaded": sum(1 for p in PHOTOS.glob("*")) if PHOTOS.exists() else 0,
+        })
+        print(f"Extracted {len(records)} posts to content/; copied available local images to photos/")
+        print(f"{len(failures)} post source pages could not be extracted.")
+    support, support_failures = supporting_records(manifest)
+    report["supporting_pages"] = support
+    report["supporting_page_failures"] = support_failures
+    report["note"] = "Flickr image URLs remain external; raw captures are unchanged."
+    report_path.write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\n")
+    print(f"Extracted {len(support)} supporting pages: {', '.join(support)}")
 
 
 if __name__ == "__main__":

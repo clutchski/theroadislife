@@ -1,16 +1,18 @@
 # Blog recovery TODO
 
-## Milestone 1: A portable Markdown and photo archive
+## Milestone 1: Raw archive and Markdown extraction
 
 Recover the blog, supporting pages, comments, and public Flickr photo collection
-from public sources. Static-site design, generation, and hosting are deferred.
+from public sources. The raw archive and Markdown extraction are committed; a
+basic GitHub Pages site is now in progress as a separate change.
 
-Current priority was to download raw blog responses into `raw/`. The raw capture
-pass is complete for this checkpoint: 253 responses are saved, including 175 of
-the 186 individual posts in the archive index. Eleven indexed post URLs remain
-unresolved; see `raw/REPORT.md`. Image downloads and alternate historical captures
-are deferred. Original pages retain the image URLs. Parsing, Markdown conversion,
-comment extraction, and spam analysis are later steps.
+Current priority was to download raw blog responses into `extraction/raw/`. The raw capture
+pass is complete for this checkpoint: 253 raw responses are saved. Of 186 posts
+listed by the archive index, 175 have usable raw captures and 173 were extracted
+to Markdown. Eleven indexed posts remain unavailable, and two captured 2005 pages
+have no usable content region. See `extraction/raw/REPORT.md` and
+`extraction/content/extraction-report.json`. Flickr image downloads, alternate historical
+captures, comment extraction, and spam analysis remain deferred.
 
 Reference capture: https://web.archive.org/web/20100406044023/http://theroadislife.com/
 
@@ -23,7 +25,7 @@ not a recovery priority.
 - [x] Configure and pin a project Python version using mise.
 - [x] Create a project-local `.venv` using the mise-managed Python.
 - [x] Ignore `.venv` and Python caches in Git.
-- [x] Declare and pin recovery/extraction dependencies (`pyproject.toml` and `uv.lock`).
+- [x] Declare and pin recovery/extraction dependencies (`extraction/pyproject.toml` and `extraction/uv.lock`).
 - [x] Document environment setup and running commands through mise.
 
 ### 2. Discover content
@@ -37,7 +39,7 @@ not a recovery priority.
 
 - [x] Implement resumable downloads with cached successes, conservative pacing,
       bounded retries, rate-limit backoff, and a persistent failure log.
-- [x] Preserve raw HTML before extraction or rewriting in `raw/objects/`.
+- [x] Preserve raw HTML before extraction or rewriting in `extraction/raw/objects/`.
 - [x] Prefer captures near April 6, 2010, record actual capture dates, and retain
       failed/alternate capture attempts in the manifest.
 - [ ] (Deferred) Recover Flickr images from the live source if desired; use external
@@ -50,19 +52,23 @@ not a recovery priority.
 
 ### 4. Extract Markdown
 
-- [x] Create UTF-8 Markdown files for recovered individual posts in `content/` (173 created).
+- [x] Create UTF-8 Markdown files for recovered individual posts in `extraction/content/` (173 created).
 - [x] Include title, original publication date, author when available, original URL,
       and capture provenance in metadata.
 - [x] Preserve post wording, links, captions, and meaningful formatting.
 - [x] Deduplicate extracted entries by their original archive-index permalink.
-- [ ] Prefer complete individual posts; use homepage, monthly archive, or feed copies
-      when needed and explicitly label partial recoveries.
+- [ ] Prefer complete individual posts; use homepage or feed copies if available
+      for gaps and explicitly label partial recoveries. Monthly archive pages are
+      not a priority.
 - [x] Keep Flickr images linked to Flickr; copy the already recovered local image
-      referenced by a post into `photos/` and use a relative path.
-- [ ] Deduplicate identical image files by checksum without losing source associations.
+      referenced by a post into `extraction/photos/` and use a relative path.
+- [x] Use content hashes for copied photo filenames; image-source metadata remains
+      in each post's frontmatter.
 - [x] Retain external image URLs in Markdown where photo downloads were deferred.
-- [x] Keep generated Markdown under `content/` and raw source captures unchanged.
-- [ ] Recover two malformed/partial 2005 post captures; see `content/extraction-report.json`.
+- [x] Keep generated Markdown under `extraction/content/` and raw source captures unchanged.
+- [x] Extract About, FAQ, and Thank You supporting pages to `extraction/content/pages/` with
+      source capture metadata.
+- [ ] Recover two malformed/partial 2005 post captures; see `extraction/content/extraction-report.json`.
 
 ### 5. Preserve comments and photo metadata
 
@@ -88,11 +94,23 @@ not a recovery priority.
 - [ ] Produce a coverage report listing partial text,
       conflicting captures, and remaining recovery tasks.
 - [x] Record extraction results and the two captured pages with no usable content
-      region in `content/extraction-report.json`.
-- [ ] Report Flickr completeness as unknown unless a reliable inventory establishes the total.
-- [ ] Document scripts, dependencies, rerun instructions, archive structure, and known gaps.
-- [ ] Package `content/`, `photos/`, `archive/`, `manifests/`, scripts, and reports
+      region in `extraction/content/extraction-report.json`.
+- [x] Report Flickr completeness as unknown; the public collection total is not established.
+- [x] Document scripts, dependencies, rerun instructions, archive structure, and known gaps.
+- [ ] Package `extraction/content/`, `extraction/photos/`, `extraction/raw/`, scripts, and reports
       with checksums and instructions for maintaining independent backup copies.
 
-Completion means every discovered item is accounted for and recovered content is
-independently readable. It does not imply the source services preserved everything.
+## Milestone 2: Basic static site
+
+- [x] Move the recovery tools, raw captures, Markdown, and photos into `extraction/`;
+      reserve `blog/` for the Hugo site.
+- [ ] Build a readable Hugo static edition in `blog/` from `extraction/content/` and `extraction/photos/`.
+- [ ] Add chronological navigation and individual post pages.
+- [ ] Add a GitHub Actions workflow to publish the generated site with GitHub Pages.
+- [ ] Verify the generated site locally and check image/internal links.
+
+The static build must publish only generated site files, not the raw capture archive.
+
+Completion for milestone 1 means every discovered item is accounted for and
+recovered content is independently readable. It does not imply the source services
+preserved everything.

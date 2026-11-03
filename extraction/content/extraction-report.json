@@ -13,5 +13,11 @@
   "source_posts": 186,
   "source_capture_unavailable": 11,
   "images_downloaded": 1,
-  "note": "Flickr image URLs remain external; raw captures are unchanged."
+  "note": "Flickr image URLs remain external; raw captures are unchanged.",
+  "supporting_pages": [
+    "content/pages/about.md",
+    "content/pages/faq.md",
+    "content/pages/thank-you.md"
+  ],
+  "supporting_page_failures": []
 }
