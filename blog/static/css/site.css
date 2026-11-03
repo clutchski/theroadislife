@@ -70,6 +70,9 @@ h1, h2, h3 { line-height: 1.3; }
 .archive-month ul { margin: 0; padding: 0; list-style: none; }
 .archive-month li { display: flex; justify-content: space-between; gap: .8rem; padding: .18rem 0; border-bottom: 1px dotted #e2dfd7; font-size: .82rem; line-height: 1.45; }
 .archive-month time { flex: 0 0 auto; margin-left: .35rem; color: var(--muted); font: .75rem/1.4 Arial, sans-serif; white-space: nowrap; }
+.category-archive ul { margin: .4rem 0 1.5rem; padding: 0; list-style: none; }
+.category-archive li { padding: .13rem 0; font-size: .85rem; }
+#main .category-archive h2 { margin-top: 1.5rem; padding-bottom: .25rem; border-bottom: 1px solid var(--rule); font-size: 1.05rem; }
 .entry-content { overflow-wrap: anywhere; }
 .entry-content img { max-width: 100%; height: auto; }
 .entry-content blockquote { margin-inline: 0; padding: .8rem 1rem; border: 8px solid #f7efef; background: #f7efef; color: #444; }

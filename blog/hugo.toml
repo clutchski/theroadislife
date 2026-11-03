@@ -22,6 +22,9 @@ ignoreFiles = ["\\.json$", "pages/thank-you\\.md$"]
     source = "static"
     target = "static"
   [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
     source = "../extraction/photos"
     target = "static/photos"
 

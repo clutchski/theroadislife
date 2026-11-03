@@ -109,6 +109,7 @@ not a recovery priority.
       keeping the source archive outside the published output.
 - [x] Add a readable journal index, individual post pages, and supporting pages.
 - [x] Add an Archives index with monthly groups and links to the recovered entries.
+- [x] Restore an archive-by-category index from captured category pages and recovered posts.
 - [x] Restore the Kerouac header quote and the original “What is this place?” introduction.
 - [x] Add a GitHub Actions workflow to build and publish with GitHub Pages.
 - [x] Build locally with the pinned Hugo version; verify the journal, supporting
