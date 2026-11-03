@@ -2,4 +2,8 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
-raw/.download.lock
+extraction/raw/.download.lock
+extraction/.venv/
+blog/public/
+blog/resources/_gen/
+blog/.hugo_build.lock
