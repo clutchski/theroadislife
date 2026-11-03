@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <article>
+    <header class="entry-header">
+      {{ if eq .Section "archives" }}<p class="entry-date"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></p>{{ end }}
+      {{ if ne .File.ContentBaseName "faq" }}<h1>{{ .Title }}</h1>{{ end }}
+      {{ with .Params.author }}{{ if ne . "" }}<p class="byline">By {{ . }}</p>{{ end }}{{ end }}
+    </header>
+    {{ if eq .File.ContentBaseName "about" }}
+      <section class="about-intro">
+        <h2>What is this place?</h2>
+        <p>This is the personal website of Ryan Henderson, set up as a travelogue to chronicle his attempt to circumnavigate the world without traveling by air. His trip started October 7th, 2005. <a href="{{ "pages/faq/" | relURL }}">More...</a></p>
+      </section>
+    {{ end }}
+    <div class="entry-content">{{ .Content }}</div>
+  </article>
+  {{ if eq .Section "archives" }}
+    {{ $pages := (where site.RegularPages "Section" "archives").ByDate }}
+    {{ $current := . }}
+    {{ range $i, $page := $pages }}
+      {{ if eq $page $current }}
+        <nav class="post-nav" aria-label="Post navigation">
+          {{ if gt $i 0 }}{{ with index $pages (sub $i 1) }}<a href="{{ .RelPermalink }}">← {{ .Title }}</a>{{ end }}{{ end }}
+          {{ if lt (add $i 1) (len $pages) }}{{ with index $pages (add $i 1) }}<a href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}{{ end }}
+        </nav>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

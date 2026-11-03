@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <header class="archive-heading">
+    <h1>Archives</h1>
+    <p>Browse journal entries by year and month.</p>
+  </header>
+  {{ $entries := (where site.RegularPages "Section" "archives").ByDate }}
+  {{ $years := $entries.GroupByDate "2006" }}
+  {{ range collections.Reverse $years }}
+    {{ $year := .Key }}
+    {{ $months := .Pages.GroupByDate "January" }}
+    <section class="archive-year">
+      <h2>{{ $year }}</h2>
+      {{ range collections.Reverse $months }}
+        <section class="archive-month">
+          <h3>{{ .Key }} {{ $year }}</h3>
+          <ul>
+            {{ range .Pages.ByDate }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}

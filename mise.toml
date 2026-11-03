@@ -1,0 +1,13 @@
+[tools]
+hugo = "0.169.0"
+
+[env]
+HUGO_ENV = "production"
+
+[tasks."blog:build"]
+description = "Build the Hugo site"
+run = "hugo --source blog --destination public --cleanDestinationDir"
+
+[tasks."blog:serve"]
+description = "Preview the Hugo site locally"
+run = "hugo server --source blog --buildFuture"

@@ -104,10 +104,19 @@ not a recovery priority.
 
 - [x] Move the recovery tools, raw captures, Markdown, and photos into `extraction/`;
       reserve `blog/` for the Hugo site.
-- [ ] Build a readable Hugo static edition in `blog/` from `extraction/content/` and `extraction/photos/`.
-- [ ] Add chronological navigation and individual post pages.
-- [ ] Add a GitHub Actions workflow to publish the generated site with GitHub Pages.
-- [ ] Verify the generated site locally and check image/internal links.
+- [x] Pin Hugo in the root `mise.toml`; run the same pinned Hugo version locally and in GitHub Actions.
+- [x] Configure Hugo to mount `extraction/content/` and `extraction/photos/` directly,
+      keeping the source archive outside the published output.
+- [x] Add a readable journal index, individual post pages, and supporting pages.
+- [x] Add an Archives index with monthly groups and links to the recovered entries.
+- [x] Restore an archive-by-category index from captured category pages and recovered posts.
+- [x] Restore the Kerouac header quote and the original “What is this place?” introduction.
+- [x] Add a GitHub Actions workflow to build and publish with GitHub Pages.
+- [x] Build locally with the pinned Hugo version; verify the journal, supporting
+      pages, and recovered local photo are present in the generated output.
+
+The root `mise.toml` pins Hugo directly through mise's Hugo backend; Go is not
+needed to build the site. The Python toolchain stays in `extraction/`.
 
 The static build must publish only generated site files, not the raw capture archive.
 

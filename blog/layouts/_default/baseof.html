@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+    <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="16x16" type="image/x-icon">
+    <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | relURL }}">
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="site-banner" href="{{ site.Home.RelPermalink }}">
+          <img src="{{ "images/header3.gif" | relURL }}" width="758" height="120" alt="The Road Is Life. ‘Our battered suitcases were piled on the sidewalk again; we had longer ways to go. But no matter, the road is life.’ — Jack Kerouac">
+        </a>
+      </header>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ site.Home.RelPermalink }}"><strong>Blog</strong></a>
+        <a href="https://www.flickr.com/photos/theroadislife/"><strong>Photos</strong></a>
+        <a href="{{ "archives/" | relURL }}"><strong>Archives</strong></a>
+        <a href="{{ "categories/" | relURL }}"><strong>Categories</strong></a>
+        <a href="{{ "pages/about/" | relURL }}">About <strong>Us</strong></a>
+        <a href="{{ "pages/faq/" | relURL }}"><strong>FAQ</strong></a>
+      </nav>
+      <div class="site-content">
+        <main id="main">
+          {{ block "main" . }}{{ end }}
+        </main>
+      </div>
+    </div>
+  </body>
+</html>
