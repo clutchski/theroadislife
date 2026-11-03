@@ -23,7 +23,6 @@ images:
 [What is your route?](#6)  
 [What are you bringing with you?](#7)  
 [How are you going to update this site while travelling?](#8)  
-[Where are you now?](#9)  
 [How much money do you have?](#10)  
 [Are you planning to make money on the way?](#11)  
 [Does this website make money?](#12)  
@@ -95,7 +94,7 @@ Willie Paul, a friend from home, caught up with us in Mexico City for a 3-month 
 
   
 
-Our route will be determined by the opportunities we encounter along the way. We have no set route, other than to leave Toronto with Toronto as our final destination. East to West or West to East, we don't care, the point is to go. I don't know where we're going, all I can do is show you [where we've been.](http://www.theroadislife.com/latest.htm "Latest Position")
+Our route was determined by the opportunities we encountered along the way. We had no set route, other than to leave Toronto with Toronto as our final destination. East to West or West to East, we didn't care; the point was to go. The journal entries below tell the story of where we went.
 
   
 
@@ -119,12 +118,6 @@ Without the luxury of a Satellite Internet connection, I'll be relying on Intern
 
 I've also purchased a tiny, used  [Dell Laptop](http://search.ebay.com/search/search.dll?sofocus=bs&sbrftog=1&fstype=1&from=R10&satitle=dell+l400&sacat=-1%26catref%3DC6&bs=Search&sargn=-1%26saslc%3D2&sadis=200&fpos=ZIP%2FPostal&ftrt=1&ftrv=1&saprclo=&saprchi=&fsop=1&fsoo=1) for a great price. It'll serve as a spot for me to compose emails and write posts so I don't end up spending too much time paying by the hour in Internet Cafe's.
 
-  
-
-## **Where are you now?**
-
-  
-Check our [Latest Position](http://www.theroadislife.com/latest.htm "Latest Position"). It's a map of the world that we update regularly from the road.
   
 
 ## **How much money do you have?**
@@ -157,8 +150,4 @@ Nope. This web page is a hole in the Internet that I've been throwing money at f
 
   
 
-Sure you can, if you happen to have a 40' sailing yacht sitting around, collecting dust, we could take it off your hands for a lap of the world. Really, it would be our pleasure. If donating a boat isn't an option there are several ways that we could use your help. We're always looking for a ride, whether by car, boat, train, plane or automobile (beggars can't be choosers) and of course, a warm place to stay while we look for the next ride will always be in demand. If you see we're [in your neck of the woods](http://www.theroadislife.com/latest.htm "Latest Position"), drop us a line.
-
-Of course the other option is to send money:
-
-We'd like you to sponsor us in our journey around the world. Click on the 'Make a Donation' button above to make a secure payment via PayPal. (*Don't worry if you don't have a PayPal account, they take all major credit cards.*) Any amount is appreciated, but keep in mind that any donation of $10 USD or more will get you a personal postcard from wherever we happen to be. Please remember to include the address you'd like the postcard sent to as your 'shipping address.'
+Sure you can, if you happen to have a 40' sailing yacht sitting around, collecting dust, we could take it off your hands for a lap of the world. Really, it would be our pleasure. We're always looking for a ride, whether by car, boat, train, plane or automobile (beggars can't be choosers), and a warm place to stay while we look for the next ride will always be in demand. If you crossed paths with us, drop us a line.
