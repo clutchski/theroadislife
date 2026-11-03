@@ -1,0 +1,17 @@
+{
+  "extracted": 173,
+  "failed": [
+    {
+      "source_url": "https://theroadislife.com/archives/2005/11/pardise_and_poi.htm",
+      "reason": "No #main content region in capture"
+    },
+    {
+      "source_url": "https://theroadislife.com/archives/2005/12/tikal.htm",
+      "reason": "No #main content region in capture"
+    }
+  ],
+  "source_posts": 186,
+  "source_capture_unavailable": 11,
+  "images_downloaded": 1,
+  "note": "Flickr image URLs remain external; raw captures are unchanged."
+}
