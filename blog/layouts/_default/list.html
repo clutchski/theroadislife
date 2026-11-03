@@ -4,8 +4,9 @@
   {{ end }}
   {{ $pages := (where site.RegularPages "Section" "archives").ByDate.Reverse }}
   {{ if not .IsHome }}{{ $pages = .Pages }}{{ end }}
+  {{ $paginator := .Paginate $pages }}
   <ol class="entry-list">
-    {{ range (.Paginate $pages).Pages }}
+    {{ range $paginator.Pages }}
       <li>
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -13,5 +14,15 @@
       </li>
     {{ end }}
   </ol>
-  {{ template "_internal/pagination.html" . }}
+  <nav class="pagination" aria-label="Journal pages">
+    {{ if $paginator.HasPrev }}<a href="{{ $paginator.First.URL }}" aria-label="First page">««</a>{{ else }}<span aria-disabled="true">««</span>{{ end }}
+    {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" aria-label="Newer posts">«</a>{{ else }}<span aria-disabled="true">«</span>{{ end }}
+    <span class="pagination-numbers">
+      {{ range $paginator.Pagers }}
+        {{ if eq . $paginator }}<span aria-current="page">{{ .PageNumber }}</span>{{ else }}<a href="{{ .URL }}">{{ .PageNumber }}</a>{{ end }}
+      {{ end }}
+    </span>
+    {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" aria-label="Older posts">»</a>{{ else }}<span aria-disabled="true">»</span>{{ end }}
+    {{ if $paginator.HasNext }}<a href="{{ $paginator.Last.URL }}" aria-label="Last page">»»</a>{{ else }}<span aria-disabled="true">»»</span>{{ end }}
+  </nav>
 {{ end }}

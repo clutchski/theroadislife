@@ -2,7 +2,7 @@
   <article>
     <header class="entry-header">
       {{ if eq .Section "archives" }}<p class="entry-date"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></p>{{ end }}
-      <h1>{{ .Title }}</h1>
+      {{ if ne .File.ContentBaseName "faq" }}<h1>{{ .Title }}</h1>{{ end }}
       {{ with .Params.author }}{{ if ne . "" }}<p class="byline">By {{ . }}</p>{{ end }}{{ end }}
     </header>
     {{ if eq .File.ContentBaseName "about" }}
