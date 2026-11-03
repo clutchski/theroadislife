@@ -1,0 +1,29 @@
+[tools]
+python = "3.14.3"
+uv = "0.11.6"
+
+[settings]
+python.venv_stdlib = true
+
+[env]
+_.python.venv = { path = ".venv", create = true }
+
+[tasks.setup]
+description = "Install the exact locked project dependencies"
+run = "uv sync --locked"
+
+[tasks."raw:inventory"]
+description = "Inventory archived blog captures without extracting content"
+run = "python scripts/download_raw.py inventory"
+
+[tasks."raw:download"]
+description = "Resume raw blog downloads; defer live Flickr recovery"
+run = "python scripts/download_raw.py download"
+
+[tasks."raw:verify"]
+description = "Verify saved response checksums"
+run = "python scripts/download_raw.py verify"
+
+[tasks.test]
+description = "Test the raw recovery tool"
+run = "python -m unittest discover -s tests"
