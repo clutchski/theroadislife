@@ -65,3 +65,17 @@ The optional `--history` pass preserves distinct 2005–2011 homepage, archive, 
 feed versions for later recovery of posts whose individual pages are missing.
 
 Run downloader tests with `mise exec -- python -m unittest discover -s tests`.
+
+## Extract Markdown
+
+After raw downloads are complete, create one Markdown file per available post:
+
+```sh
+mise exec -- python scripts/extract_markdown.py
+```
+
+This writes posts under `content/` with YAML frontmatter. Already recovered local
+images referenced by posts are copied into `photos/`; Flickr image links remain
+external. Raw captures are never edited. The extraction report records source pages
+that could not be parsed or were unavailable. Add `--clean` to regenerate the
+generated `content/` and `photos/` directories from raw sources.
