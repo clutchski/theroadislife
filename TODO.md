@@ -5,8 +5,8 @@
 - The recovery pass and the first Hugo site are complete. The public site is live at
   <https://clutchski.github.io/theroadislife/>.
 - The root README now tells the project story in a more personal voice.
-- Remaining work is optional recovery of missing source material and moving the
-  domain registration/DNS to Cloudflare.
+- All indexed post text is recovered. Remaining work is Flickr/comment recovery
+  and moving the domain registration/DNS to Cloudflare.
 
 ## Milestone 1: Raw archive and Markdown extraction
 
@@ -15,11 +15,12 @@ from public sources. The raw archive and Markdown extraction are committed. The
 Hugo site is deployed through GitHub Pages.
 
 The raw capture pass saved 253 responses in `extraction/raw/`. Of 186 posts
-listed by the archive index, 175 have usable raw captures and 173 were extracted
-to Markdown. Eleven indexed posts remain unavailable, and two captured 2005 pages
-have no usable content region. See `extraction/raw/REPORT.md` and
-`extraction/content/extraction-report.json`. Flickr image downloads, alternate historical
-captures, comment extraction, and spam analysis remain deferred.
+listed by the archive index, 175 individual-page responses were saved. Thirteen
+posts did not yield usable text from their individual captures; all 13 have now
+been recovered from saved monthly/category archive pages, so all 186 posts are
+available as Markdown. See `extraction/raw/REPORT.md` and
+`extraction/content/extraction-report.json`. Flickr image downloads, comments,
+and spam analysis remain deferred.
 
 Reference capture: https://web.archive.org/web/20100406044023/http://theroadislife.com/
 
@@ -59,14 +60,13 @@ not a recovery priority.
 
 ### 4. Extract Markdown
 
-- [x] Create UTF-8 Markdown files for recovered individual posts in `extraction/content/` (173 created).
+- [x] Create UTF-8 Markdown files for all 186 indexed posts in `extraction/content/`.
 - [x] Include title, original publication date, author when available, original URL,
       and capture provenance in metadata.
 - [x] Preserve post wording, links, captions, and meaningful formatting.
 - [x] Deduplicate extracted entries by their original archive-index permalink.
-- [ ] Prefer complete individual posts; use homepage or feed copies if available
-      for gaps and explicitly label partial recoveries. Monthly archive pages are
-      not a priority.
+- [x] Recover gaps from saved aggregate archive pages and record their alternate
+      capture provenance in Markdown frontmatter.
 - [x] Keep Flickr images linked to Flickr; copy the already recovered local image
       referenced by a post into `extraction/photos/` and use a relative path.
 - [x] Use content hashes for copied photo filenames; image-source metadata remains
@@ -75,7 +75,8 @@ not a recovery priority.
 - [x] Keep generated Markdown under `extraction/content/` and raw source captures unchanged.
 - [x] Extract About, FAQ, and Thank You supporting pages to `extraction/content/pages/` with
       source capture metadata.
-- [ ] Recover two malformed/partial 2005 post captures; see `extraction/content/extraction-report.json`.
+- [x] Recover two malformed/partial direct captures and eleven unavailable
+      individual-page captures from saved aggregate archives.
 
 ### 5. Preserve comments and photo metadata
 
@@ -93,7 +94,8 @@ not a recovery priority.
 - [x] Verify local Markdown image links resolve; external Flickr image links remain online references.
 - [x] Spot check early, middle, and final posts against source captures; verify
       title/date metadata, raw checksums, body text, and image links.
-- [ ] Test alternate-source recovery, malformed HTML, accented text, and comments.
+- [x] Verify alternate-source recovery for unavailable and malformed individual captures.
+- [ ] Check accented-text handling and extract/review comments.
 - [x] Verify interrupted downloads resume without re-downloading successful files.
 - [x] Produce a coverage report listing unresolved URLs and deferred work.
 - [x] Preserve 253 raw responses, capture indexes, and manifests in the separate

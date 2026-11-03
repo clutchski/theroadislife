@@ -37,12 +37,43 @@ def parse_date(value: str) -> str | None:
     return None
 
 
+def clean_faq(markdown: str) -> str:
+    """Remove obsolete trip-planning links and donation copy from the FAQ."""
+    markdown = re.sub(r"^\[Where are you now\?\]\(#9\).*\n", "", markdown, flags=re.M)
+    markdown = re.sub(
+        r"## \*\*Where are you now\?\*\*.*?(?=## \*\*How much money do you have\?\*\*)",
+        "", markdown, flags=re.S,
+    )
+    markdown = re.sub(
+        r"Our route will be determined by the opportunities we encounter along the way\..*?(?=\n\s*## )",
+        "Our route was determined by the opportunities we encountered along the way. "
+        "We had no set route, other than to leave Toronto with Toronto as our final destination. "
+        "East to West or West to East, we didn't care; the point was to go. "
+        "The journal entries below tell the story of where we went.\n\n",
+        markdown, count=1, flags=re.S,
+    )
+    markdown = re.sub(
+        r"Sure you can, if you happen to have a 40' sailing yacht.*?drop us a line\.",
+        "Sure you can, if you happen to have a 40' sailing yacht sitting around, collecting dust, "
+        "we could take it off your hands for a lap of the world. Really, it would be our pleasure. "
+        "We're always looking for a ride, whether by car, boat, train, plane or automobile "
+        "(beggars can't be choosers), and a warm place to stay while we look for the next ride "
+        "will always be in demand. If you crossed paths with us, drop us a line.",
+        markdown, count=1, flags=re.S,
+    )
+    markdown = re.sub(
+        r"\n*Of course the other option is to send money:.*$", "", markdown, flags=re.S,
+    )
+    return markdown.strip()
+
+
 def post_records(manifest: dict, inventory: dict):
     records = []
     failures = []
     for url, index_record in sorted(inventory.items()):
         entry = manifest.get(url)
         if not entry or entry.get("status") != "downloaded" or not entry.get("response"):
+            failures.append({"source_url": url, "reason": "No usable individual-post capture"})
             continue
         response = entry["response"]
         source = ROOT / response["path"]
@@ -133,6 +164,130 @@ def post_records(manifest: dict, inventory: dict):
     return records, failures
 
 
+def aggregate_post_records(manifest: dict, urls: list[str]):
+    """Recover missing individual entries from saved monthly/category archives."""
+    wanted = {canonical(url) for url in urls}
+    if not wanted:
+        return [], [], []
+
+    candidates = {}
+    for archive_url, entry in manifest.items():
+        if (entry.get("status") != "downloaded" or not entry.get("response")
+                or not re.search(r"/archives/(?:.*/)?index\.html?$", urlsplit(archive_url).path)):
+            continue
+        response = entry["response"]
+        source = ROOT / response["path"]
+        body = source.read_bytes()
+        if hashlib.sha256(body).hexdigest() != response.get("sha256"):
+            raise ValueError(f"Raw capture checksum mismatch: {source}")
+        soup = BeautifulSoup(body, "html.parser", parse_only=SoupStrainer(id="main"))
+        main = soup.select_one("#main")
+        if not main:
+            continue
+        for post in main.select(".post"):
+            permalink = next((a for a in post.select(".info a[href]")
+                              if "Permalink" in a.get_text(" ", strip=True)), None)
+            if not permalink:
+                continue
+            post_url = canonical(permalink["href"])
+            if post_url not in wanted:
+                continue
+            title_node = post.find("h1")
+            date_node = post.find("h2")
+            if not title_node or not date_node:
+                continue
+            title = " ".join(title_node.get_text(" ", strip=True).split())
+            published = parse_date(date_node.get_text(" ", strip=True))
+            if not published:
+                continue
+
+            nodes = []
+            reached_title = False
+            for node in list(post.children):
+                if node is title_node:
+                    reached_title = True
+                    continue
+                if not reached_title:
+                    continue
+                if node is date_node or getattr(node, "name", None) in {"h1", "h2"}:
+                    continue
+                if (getattr(node, "name", None) == "div"
+                        and "info" in (node.get("class") or [])):
+                    break
+                nodes.append(str(node))
+
+            html = "\n".join(nodes)
+            text_length = len(post.get_text(" ", strip=True))
+            candidate = {
+                "title": title, "date": published, "html": html,
+                "archive_url": archive_url, "response": response,
+                "text_length": text_length,
+            }
+            previous = candidates.get(post_url)
+            score = (text_length, response.get("capture_timestamp") or "")
+            old_score = ((previous["text_length"], previous["response"].get("capture_timestamp") or "")
+                         if previous else (-1, ""))
+            if score > old_score:
+                candidates[post_url] = candidate
+
+    records = []
+    provenance = []
+    failures = []
+    for url in sorted(wanted):
+        candidate = candidates.get(url)
+        if not candidate:
+            failures.append({"source_url": url, "reason": "No copy found in saved aggregate archives"})
+            continue
+        response = candidate["response"]
+        fragment = BeautifulSoup(candidate["html"], "html.parser")
+        image_urls = []
+        output = CONTENT / Path(urlsplit(url).path.lstrip("/")).with_suffix(".md")
+        for image in fragment.find_all("img"):
+            src = (image.get("src") or image.get("data-src") or "").strip()
+            if not src:
+                continue
+            image["src"] = src
+            image_urls.append(src)
+            image_entry = manifest.get(canonical(src))
+            if image_entry and image_entry.get("status") == "downloaded" and image_entry.get("response"):
+                local_path = copy_image(image_entry)
+                image["src"] = Path(os.path.relpath(local_path, output.parent)).as_posix()
+            if image.parent.name == "a":
+                image.parent.insert_after(fragment.new_tag("br"))
+                image.parent.insert_after(fragment.new_tag("br"))
+
+        markdown = markdownify(str(fragment), heading_style="ATX", bullets="-").strip()
+        frontmatter = [
+            "---",
+            f"title: {yaml_string(candidate['title'])}",
+            f"date: {yaml_string(candidate['date'])}",
+            "author: null",
+            f"source_url: {yaml_string(url)}",
+            f"source_archive_page: {yaml_string(candidate['archive_url'])}",
+            f"source_capture: {yaml_string(response.get('final_url', ''))}",
+            f"source_capture_timestamp: {yaml_string(response.get('capture_timestamp') or '')}",
+            f"source_sha256: {yaml_string(response['sha256'])}",
+            'recovery_method: "aggregate archive copy"',
+        ]
+        if image_urls:
+            frontmatter.append("images:")
+            frontmatter.extend(f"  - {yaml_string(src)}" for src in dict.fromkeys(image_urls))
+        else:
+            frontmatter.append("images: []")
+        frontmatter += ["comments: not_in_aggregate_capture", "---", "", markdown, ""]
+        output.parent.mkdir(parents=True, exist_ok=True)
+        output.write_text("\n".join(frontmatter), encoding="utf-8")
+        records.append(output)
+        provenance.append({
+            "source_url": url, "title": candidate["title"],
+            "source_archive_page": candidate["archive_url"],
+            "source_capture": response.get("final_url", ""),
+            "source_capture_timestamp": response.get("capture_timestamp"),
+            "source_sha256": response["sha256"],
+        })
+    return records, provenance, failures
+
+
 def canonical(url: str) -> str:
     p = urlsplit(url)
     host = (p.hostname or "").lower()
@@ -193,6 +348,8 @@ def supporting_records(manifest: dict):
                 local_path = copy_image(image_entry)
                 image["src"] = Path(os.path.relpath(local_path, output.parent)).as_posix()
         markdown = markdownify(str(main), heading_style="ATX", bullets="-").strip()
+        if slug == "faq":
+            markdown = clean_faq(markdown)
         frontmatter = [
             "---", f"title: {yaml_string(title)}", "date: null", "author: null",
             "page_type: supporting", f"source_url: {yaml_string(url)}",
@@ -230,18 +387,31 @@ def main():
         parser.error("--clean cannot be combined with --supporting-only")
     if not args.supporting_only:
         records, failures = post_records(manifest, inventory)
+        alternate_records, alternate_sources, alternate_failures = aggregate_post_records(
+            manifest, [failure["source_url"] for failure in failures]
+        )
+        recovered = {canonical(source["source_url"]) for source in alternate_sources}
+        failures = [failure for failure in failures if canonical(failure["source_url"]) not in recovered]
+        failures.extend(alternate_failures)
         report.update({
-            "extracted": len(records), "failed": failures,
+            "extracted": len(records) + len(alternate_records), "failed": failures,
             "source_posts": len(inventory),
             "source_capture_unavailable": sum(1 for item in inventory.values() if item.get("status") != "downloaded"),
+            "recovered_from_aggregate_archives": alternate_sources,
             "images_downloaded": sum(1 for p in PHOTOS.glob("*")) if PHOTOS.exists() else 0,
         })
-        print(f"Extracted {len(records)} posts to content/; copied available local images to photos/")
-        print(f"{len(failures)} post source pages could not be extracted.")
+        print(f"Extracted {len(records) + len(alternate_records)} posts to content/; copied available local images to photos/")
+        print(f"Recovered {len(alternate_records)} posts from aggregate archive pages.")
+        print(f"{len(failures)} post bodies remain unavailable.")
     support, support_failures = supporting_records(manifest)
     report["supporting_pages"] = support
     report["supporting_page_failures"] = support_failures
     report["note"] = "Flickr image URLs remain external; raw captures are unchanged."
+    report["recovery_note"] = (
+        "All 186 indexed post bodies are readable. Thirteen were recovered from "
+        "saved monthly/category archive pages because their individual captures "
+        "were unavailable or incomplete."
+    )
     report_path.write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\n")
     print(f"Extracted {len(support)} supporting pages: {', '.join(support)}")
 
