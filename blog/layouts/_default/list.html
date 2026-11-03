@@ -1,13 +1,8 @@
 {{ define "main" }}
-  {{ if .IsHome }}
-    <section class="intro">
-      <h1>The journal</h1>
-      <p>{{ site.Params.description }} Browse the entries in chronological order.</p>
-    </section>
-  {{ else }}
+  {{ if not .IsHome }}
     <h1>{{ .Title }}</h1>
   {{ end }}
-  {{ $pages := (where site.RegularPages "Section" "archives").ByDate }}
+  {{ $pages := (where site.RegularPages "Section" "archives").ByDate.Reverse }}
   {{ if not .IsHome }}{{ $pages = .Pages }}{{ end }}
   <ol class="entry-list">
     {{ range (.Paginate $pages).Pages }}

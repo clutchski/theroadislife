@@ -12,7 +12,6 @@
       </section>
     {{ end }}
     <div class="entry-content">{{ .Content }}</div>
-    {{ with .Params.source_url }}<p class="source-link"><a href="{{ . }}">View original permalink</a></p>{{ end }}
   </article>
   {{ if eq .Section "archives" }}
     {{ $pages := (where site.RegularPages "Section" "archives").ByDate }}

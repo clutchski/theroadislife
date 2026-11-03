@@ -9,24 +9,24 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | relURL }}">
   </head>
   <body>
-    <header class="site-header">
-      <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
-      <p class="tagline">“Our battered suitcases were piled on the sidewalk again; we had longer ways to go. But no matter, the road is life.”</p>
-      <p class="quote-attribution">— Jack Kerouac, <cite>On the Road</cite></p>
-      <p class="site-era">A travel journal from the road, 2005–2007</p>
-      <nav aria-label="Main navigation">
-        <a href="{{ site.Home.RelPermalink }}">Journal</a>
-        <a href="{{ "archives/" | relURL }}">Archives</a>
-        <a href="{{ "pages/about/" | relURL }}">About</a>
-        <a href="{{ "pages/faq/" | relURL }}">FAQ</a>
-        <a href="{{ "pages/thank-you/" | relURL }}">Thank you</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="site-banner" href="{{ site.Home.RelPermalink }}">
+          <img src="{{ "images/header3.gif" | relURL }}" width="758" height="120" alt="The Road Is Life. ‘Our battered suitcases were piled on the sidewalk again; we had longer ways to go. But no matter, the road is life.’ — Jack Kerouac">
+        </a>
+      </header>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ site.Home.RelPermalink }}">Latest <strong>News</strong></a>
+        <a href="{{ "archives/" | relURL }}"><strong>Archives</strong></a>
+        <a href="{{ "pages/about/" | relURL }}">About <strong>Us</strong></a>
+        <a href="{{ "pages/faq/" | relURL }}"><strong>FAQ</strong></a>
+        <a href="{{ "pages/thank-you/" | relURL }}">Thank <strong>You</strong></a>
       </nav>
-    </header>
-    <main id="main">
-      {{ block "main" . }}{{ end }}
-    </main>
-    <footer class="site-footer">
-      <p>Recovered from the Internet Archive. Original source: <a href="https://theroadislife.com/">theroadislife.com</a>.</p>
-    </footer>
+      <div class="site-content">
+        <main id="main">
+          {{ block "main" . }}{{ end }}
+        </main>
+      </div>
+    </div>
   </body>
 </html>

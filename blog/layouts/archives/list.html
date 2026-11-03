@@ -1,23 +1,25 @@
 {{ define "main" }}
   <header class="archive-heading">
     <h1>Archives</h1>
-    <p>Browse the recovered journal entries by month.</p>
+    <p>Browse journal entries by year and month.</p>
   </header>
   {{ $entries := (where site.RegularPages "Section" "archives").ByDate }}
-  {{ $months := $entries.GroupByDate "January 2006" }}
-  <nav class="archive-months" aria-label="Months">
-    {{ range $months.Reverse }}<a href="#{{ .Key | urlize }}">{{ .Key }}</a>{{ end }}
-  </nav>
-  <div class="archive-groups">
-    {{ range $months.Reverse }}
-      <section class="archive-month" id="{{ .Key | urlize }}">
-        <h2>{{ .Key }}</h2>
-        <ol>
-          {{ range .Pages.ByDate }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></li>
-          {{ end }}
-        </ol>
-      </section>
-    {{ end }}
-  </div>
+  {{ $years := $entries.GroupByDate "2006" }}
+  {{ range collections.Reverse $years }}
+    {{ $year := .Key }}
+    {{ $months := .Pages.GroupByDate "January" }}
+    <section class="archive-year">
+      <h2>{{ $year }}</h2>
+      {{ range collections.Reverse $months }}
+        <section class="archive-month">
+          <h3>{{ .Key }} {{ $year }}</h3>
+          <ul>
+            {{ range .Pages.ByDate }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    </section>
+  {{ end }}
 {{ end }}
