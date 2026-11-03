@@ -1,0 +1,22 @@
+{{ define "main" }}
+  {{ if .IsHome }}
+    <section class="intro">
+      <h1>The journal</h1>
+      <p>{{ site.Params.description }} Browse the entries in chronological order.</p>
+    </section>
+  {{ else }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
+  {{ $pages := (where site.RegularPages "Section" "archives").ByDate }}
+  {{ if not .IsHome }}{{ $pages = .Pages }}{{ end }}
+  <ol class="entry-list">
+    {{ range (.Paginate $pages).Pages }}
+      <li>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Summary }}<p>{{ . | plainify | htmlUnescape | truncate 220 }}</p>{{ end }}
+      </li>
+    {{ end }}
+  </ol>
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

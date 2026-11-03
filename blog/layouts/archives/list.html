@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <header class="archive-heading">
+    <h1>Archives</h1>
+    <p>Browse the recovered journal entries by month.</p>
+  </header>
+  {{ $entries := (where site.RegularPages "Section" "archives").ByDate }}
+  {{ $months := $entries.GroupByDate "January 2006" }}
+  <nav class="archive-months" aria-label="Months">
+    {{ range $months.Reverse }}<a href="#{{ .Key | urlize }}">{{ .Key }}</a>{{ end }}
+  </nav>
+  <div class="archive-groups">
+    {{ range $months.Reverse }}
+      <section class="archive-month" id="{{ .Key | urlize }}">
+        <h2>{{ .Key }}</h2>
+        <ol>
+          {{ range .Pages.ByDate }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></li>
+          {{ end }}
+        </ol>
+      </section>
+    {{ end }}
+  </div>
+{{ end }}

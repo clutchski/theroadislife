@@ -1,0 +1,29 @@
+baseURL = "https://clutchski.github.io/theroadislife/"
+locale = "en-US"
+title = "The Road Is Life"
+enableRobotsTXT = true
+timeZone = "America/Toronto"
+ignoreFiles = ["\\.json$"]
+
+[pagination]
+  pagerSize = 25
+
+[permalinks]
+  archives = "/archives/:year/:month/:filename/"
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "../extraction/content"
+    target = "content"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "../extraction/photos"
+    target = "static/photos"
+
+[params]
+  description = "A travel journal from the road, 2005–2007."
