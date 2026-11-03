@@ -213,7 +213,6 @@ Browse recovered entries by place and topic.
 - [iPod](../archives/2005/09/ipod/)
 - [Moving Time](../archives/2005/09/moving_time/)
 - [Self employed (with no income)](../archives/2005/09/self_employed_w/)
-- [Latest Position - New Feature!](../archives/2005/09/latest_position/)
 - [Going Away Party](../archives/2005/09/going_away_part/)
 - [Time To Start Looking For Our First Ride](../archives/2005/09/time_to_start_l/)
 - [You Get What You Pay For - In My Case, Not Much](../archives/2005/08/you_get_what_yo/)
@@ -237,7 +236,6 @@ Browse recovered entries by place and topic.
 
 - [Feedback](../archives/2005/09/feedback/)
 - [Ben Saunders - Athlete, Adventurer, Web-Designer](../archives/2005/09/south/)
-- [Latest Position - New Feature!](../archives/2005/09/latest_position/)
 - [Wedding Crashers](../archives/2005/09/_my_roommate_cr/)
 - [You Get What You Pay For - In My Case, Not Much](../archives/2005/08/you_get_what_yo/)
 - [A Functional Website (At Last)](../archives/2005/09/a_functional_we/)
