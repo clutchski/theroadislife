@@ -3,7 +3,7 @@ locale = "en-US"
 title = "The Road Is Life"
 enableRobotsTXT = true
 timeZone = "America/Toronto"
-ignoreFiles = ["\\.json$"]
+ignoreFiles = ["\\.json$", "pages/thank-you\\.md$"]
 
 [pagination]
   pagerSize = 25
