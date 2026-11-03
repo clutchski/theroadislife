@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>The Road Is Life: FAQ</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS 1.0" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.theroadislife.com/index.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.theroadislife.com/rsd.xml" />
+
+
+
+<style type="text/css">
+<!--
+#navcontainer li#faqnav a { color: #fff; cursor: default; background:#111 }
+-->
+</style>
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="header">
+<a href="/" title="The Road is Life" style="border-bottom: none;"><img src="/images/header3.gif" width="758" height="120" alt="The Road is Life" /></a>
+</div>
+
+<div id="navcontainer">
+ <ul id="navlist">
+	<li id="homenav"><a href="/" title="Latest News">Latest <strong>News</strong></a></li>
+        <li id="flickrnav"><a href="http://www.flickr.com/photos/theroadislife/" title="Flickr"><strong>Photos</strong></a></li>	
+        <li id="aboutnav"><a href="/about.htm" title="About Us">About <strong>Us</strong></a></li>
+	<li id="archivesnav"><a href="/archives.htm" title="Previous Entries">Previous <strong>Entries</strong></a></li>
+        <li id="faqnav"><a href="/faq.htm" title="FAQ"><strong>FAQ</strong></a></li>
+        <li id="faqlatest"><a href="/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest <strong>Position</strong></a></li>
+	<li id="contactnav"><a href="/contact.php" title="Contact Ryan">Contact <strong>Ryan</strong></a></li>
+        <li id="shopnav"><a href="/shop.htm" title="Shop"><strong>Shop</strong></a></li>
+</ul>
+</div>
+<div id="sidebar">
+
+
+<form method="get" action="http://www.theroadislife.com/cgi-bin/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="15" /> <input type="submit" value="Search" style="margin-left: 0px;" />
+</form>
+
+<h3>What is this place?</h3>
+
+<p>This is the personal website of <a href="http://www.theroadislife.com/about.htm">
+Ryan Henderson</a>, set up as a travelogue to chronicle his attempt to circumnavigate the world without traveling by air.  His trip started October 7th, 2005. <a href="http://www.theroadislife.com/faq.htm">
+More...</a></p>
+
+<h3>Donate $10 and get a personalized postcard from us...</h3>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+</form>
+
+<p>Any amount is welcome. However every donation of $10 USD or more and you'll recieve a personal postcard from <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">wherever</a> we are.</p>
+
+<h3>Photos</h3>
+
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=t&layout=v&source=user_tag&user=29888770%40N00&tag=theroadislife"></script>
+</table>
+<tr><td align=right><a href="http://www.flickr.com/photos/theroadislife/">More...</a></td></tr>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+<h3>People We've Met Along The Way</h3>
+<ul>
+ <li><a href="http://www.sambradsworldtrip.blogspot.com/" title="Sam and Brad's World Trip">Sam and Brad's World Trip</a><br>
+We met these two on a bus from Cambodia to Vietnam and travelled with them througout Southern Vietnam. </li>
+  <li><a href="http://www.einsteinno1.de/" title="Far Away">Polish Pete</a><br>
+I met up with Pete in Singapore.  We travelled through Singapore, Malaysia, Thailand and Laos together.</li>
+  <li><a href="http://www.danigrab.com/" title="Dani Grab">Dani Grab</a><br>
+We met him in El Salvador, while Brian was suffering with Dengue Fever. He's now finished cycling the Americas - Top to Bottom</li>
+  <li><a href="http://www.svsohcahtoa.com/" title="Sohcahtoa">Sohcahtoa</a><br>
+We found these guys in Vava'u, Tonga.  They're sailing their own boat around the world. Amazing.</li>
+ </ul>
+
+<h3>Sites I visit often</h3>
+ <ul>
+  <li><a href="http://wvs.topleftpixel.com/" title="daily dose of imagery">[Daily Dose of Imagery]</a><br>
+A new photo each day</li>
+  <li><a href="http://www.dooce.com/" title="www.dooce.com">Dooce</a><br>
+Aimed squarely at women and mothers but I like it anyway</li>
+  <li><a href="http://www.kottke.org/" title="www.kottke.org">kottke.org</a><br>
+Home of fine hypertext products</li>
+ </ul>
+<br>
+<script type="text/javascript" src="http://technorati.com/embed/7u8cdsnteg.js"> </script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ56j8zwEaCHvU9tBAqJJaKMu293M";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<a name="startcontent" id="startcontent"></a>
+
+<div id="main">
+
+<div class="post">
+<h1>Frequently Asked Questions</h1>
+<a href="#1">What exactly is the point of this site?</a><br>
+<a href="#2">Why no air travel?</a><br>
+<a href="#3">How are you going to get across the Oceans?</a><br>
+<a href="#4">How long will it take?</a><br>
+<a href="#5">Who are you travelling with?</a><br>
+<a href="#6">What is your route?</a><br>
+<a href="#7">What are you bringing with you?</a><br>
+<a href="#8">How are you going to update this site while travelling?</a><br>
+<a href="#9">Where are you now?</a><br>
+<a href="#10">How much money do you have?</a><br>
+<a href="#11">Are you planning to make money on the way?</a><br>
+<a href="#12">Does this website make money?</a><br>
+<a href="#13">Can I help out at all?</a><br>
+<br>
+<br>
+<h2><b><a name="1">What exactly is the point of this site?</a></b></h2>
+<br>
+<p>Well, it's the personal website of <a href="http://www.theroadislife.com/about.htm">Ryan Henderson</a>.  I created it as a means for me to provide regular updates on my attempt to circumnavigate the world without the use of air travel.  It's a spot for friends and family to stop by periodically to see what I'm up to and where I've been, without being subjected to mass emails and inboxes clogged with giant photos.  I left on October <strike>1st</strike> 7th 2005; I'm not sure when I'll return.</p>
+<br>
+<h2><b><a name="2">Why no air travel?</a></b></h2>
+<br>
+<p>I can't help but feel that booking one of those 'round-the-world' airfares that allow <i>x</i> number stops along the way, would somehow be cheating.  For many, it's a great experience, but you inevitably miss out on that essential element of travel that is the journey. It really wouldn't be much more than a very expensive commute, filled with jet lag, baggage delays and duty free perfume.<p/>
+
+<p>With flight, our world has gotten smaller.  I'm trying to grow the world back it's original vastness, to get a true sense of the scale of the planet ; to re-affirm that the earth is, in fact, round and that every place in every continent is physically connected to my front steps.</p>
+<br>
+<h2><b><a name="3">How are you going to get across the Oceans?</a></b></h2>
+<br>
+<p>After learning that I intend to take this trip <i>sans</i> air travel, most people will exclaim that it's a 'neat' thing to do, then after a few moments of reflection, the next question inevitably is "But then how do you get across the oceans?"</p>
+
+<p>The answer is painfully obvious when you actually think about it, If I can't fly, then I'll need to take a boat of some sort. I purposefully haven't limited myself to what 'kind' of boat, but most of my daydreams involve private sailing yachts. (not mine)</p>
+
+<p>Essentially, the plan is to hitchhike across the Oceans as crew on cruising sail boats.  There are numerous websites out there that connect people looking for crew with people like me.  (Try <a href="http://www.crewfile.com/cgi-local/crewfile?dbtype=yachts&ignore_start_range=0">
+here</a>, <a href="http://www.cruiserlog.com/forums/forum.asp?FORUM_ID=5">
+here</a>, <a href="http://www.floatplan.com/crew.htm">
+here</a> and <a href="http://www.7knots.com/cgi-bin/list_boat.pl?skip=1;sorting=touchup;order=desc;item=20;page=1">
+here</a> for examples.)
+<br>
+<h2><b><a name="4">How long will it take?</a></b></h2>
+<br>
+<p>I pretty much engineered my life to end just before my departure date, which means that as I travel I have nothing forcing me to return at any particular time.  For me this trip will take, as long as it takes.  Which actually means, I haven't the faintest idea; 8 months, 1 year, 2 years?? I can't say.</p>
+<br>
+<p>Of course mother nature will have her say, as sailing Oceans puts us at the mercy of the <a href="http://www.cruiser.co.za/crewfinder1.asp">
+Trade winds</a>.  There are certain times that yachts sail from various ports during the year.  (example: Most boats will cross from the Caribbean to the Mediterranean in the Spring.)</p>
+<br>
+<p>Brian on the other hand, expects that he may need to return, at least for a while in August 2006, for his sisters wedding.  It's okay, we're not attached at the hip, if I need to, I can continue without him.</p> 
+<br>
+<p>Willie's plan is to stay with us at least until the Spring of 2006, before returning to some pretty lucrative, seasonal work.</p>
+<br>
+<h2><b><a name="5">Who are you travelling with?</a></b></h2>
+<br>
+<p>This plan isn't my own. <a href="http://www.theroadislife.com/about.htm">
+Brian O'Neill</a> is coming along and
+Willie Paul, a friend from home, caught up with us in Mexico City for a 3-month stint. Of course were also always meeting travellers along the way and seem to have at least one or two others rounding off our intrepid crew at any given time.</p>
+<p><i>*Brian ended up flying home from Tahiti for a summer of earning money and his sisters wedding.  He promises to rejoin the trip sometime in October, 2006.</i></p>
+<br>
+<h2><b><a name="6">What is your route?</a></b></h2>
+<br>
+<p>Our route will be determined by the opportunities we encounter along the way.  We have no set route, other than to leave Toronto with Toronto as our final destination.  East to West or West to East, we don't care, the point is to go.  I don't know where we're going, all I can do is show you <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">where we've been.</a></p>
+<br>
+<h2><b><a name="7">What are you bringing with you?</a></b></h2>
+<br>
+<a href="http://www.flickr.com/photos/theroadislife/49558376/" title="Photo Sharing"><img src="http://static.flickr.com/28/49558376_ba586c4e95_t.jpg" width="100" height="85" alt="All You Need For A Trip Around The World" /></a>
+<a href="http://www.flickr.com/photos/theroadislife/49535727/" title="Photo Sharing"><img src="http://static.flickr.com/26/49535727_b44aa0d7db_t.jpg" width="100" height="75" alt="Clothes to Bring Around the World" /></a>
+<a href="http://www.flickr.com/photos/theroadislife/49540177/" title="Photo Sharing"><img src="http://static.flickr.com/29/49540177_1a2d593723_t.jpg" width="85" height="100" alt="Gadgets and Stuff - To Bring Around the World" /></a>
+<br>
+<br>Before I left, I took a few photos of what I was bringing along, however we quickly realized that we could dump some of our gear with no ill effect.  As soon as we realized we wouldn't use it; we left it behind. This  combined with natural attrition (i.e. losing and breaking stuff) makes it nearly impossible to archive what I'm actually travelling with as it's constantly in flux.</p>
+<br>
+<h2><b><a name="8">How are you going to update this site while travelling?</a></b></h2>
+<br>
+<p>Without the luxury of a Satellite Internet connection, I'll be relying on Internet cafe's as my primary means of updating this site.   I'll do my best to post regularly.  You can expect to see more activity here while I'm in cities, as opposed to camping in the bush, or sailing across an Ocean.</p>
+
+<p>I've also purchased a tiny, used <a href="http://search.ebay.com/search/search.dll?sofocus=bs&sbrftog=1&fstype=1&from=R10&satitle=dell+l400&sacat=-1%26catref%3DC6&bs=Search&sargn=-1%26saslc%3D2&sadis=200&fpos=ZIP%2FPostal&ftrt=1&ftrv=1&saprclo=&saprchi=&fsop=1&fsoo=1"> Dell Laptop</a> for a great price.  It'll serve as a spot for me to compose emails and write posts so I don't end up spending too much time paying by the hour in Internet Cafe's.</p>
+<br>
+<h2><b><a name="9">Where are you now?</a></b></h2>
+<br>
+Check our <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest Position</a>. It's a map of the world that we update regularly from the road.
+<br>
+<h2><b><a name="10">How much money do you have?</a></b></h2>
+<br>
+<p>I know, it's taboo to talk specifics about money, yet it seems to be one of the most popular questions I get.</p>
+
+<p>The truth is I don't have a lot of money, in fact, it may be the single biggest obstacle to success in this venture.  I started this trip with enough money to last for 3 months living in a city like Toronto.  So far it's lasted longer than that thanks to the cost of living associated with travelling in mostly 3rd world countries.  It won't last much longer... but that's a problem for another day, and problem I have yet to solve.</p>
+<br>
+<h2><b><a name="11">Are you going to make money on the way?</a></b></h2>
+<br>
+<p>I don't have specific plans to work, but it's seems inevitable barring some lottery related miracle. Occasionally, one can get actual paid positions as crew on boats but I expect that mostly I'll be riding for free, or nearly free.</p>
+<br>
+<h2><b><a name="12">Does this website make money?</a></b></h2>
+<br>
+<p>Nope. This web page is a hole in the Internet that I've been throwing money at for some time now.  You may have noticed that there are a few Google ads on the main page, they could theoretically earn the site some money, but I'd need significant traffic for that.  Right now, they don't quite cover my hosting fees each month.</p>
+<br>
+<h2><b><a name="13">Can I help out at all?</a></b></h2>
+<br>
+<p>Sure you can, if you happen to have a 40' sailing yacht sitting around, collecting dust, we could take it off your hands for a lap of the world.  Really, it would be our pleasure. If donating a boat isn't an option there are several ways that we could use your help.  We're always looking for a ride, whether by car, boat, train, <strike>plane</strike> or automobile (beggars can't be choosers) and of course, a warm place to stay while we look for the next ride will always be in demand.  If you see we're <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">in your neck of the woods</a>, drop us a line.</p>
+
+<p>Of course the other option is to send money:</p>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHLwYJKoZIhvcNAQcEoIIHIDCCBxwCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYAWHVejvHIKXsdLyWGmKzTV6OgJ39cd2BUdZQI2zDr90bsj2KbLrH1QJJhHGeHd6GB/6isn8Zwp9Whz2lnjgh3zwOBBiqTOFsY6b2LKYi/1urRbHleifcuLyHGe1Ti7ywEsyxTt5qnJ+kY2rZtn/YcYz6qUk3D2OdpgDti6fj7dTzELMAkGBSsOAwIaBQAwgawGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIYSxzj5p8J0OAgYjon/HKJfRHzvq72WXpWBPc/Wne8SbvW2wzFMS9Ef5Ox2871Col+9OcfVNIyQwC6/BsEXef41D0SI8hR6TI4Fpq1e2R+0fhs0WwpMfE0ldhXRj5GfH92xa8On5kEgzeiz7+LrRutjtDLCDAkK05k9i8dJZklPRg0fIfYdQiS5MAoB5gpa9kKHXwoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k+6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4+axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn+rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG+wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG+wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P+IobhOGJr85+XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa+LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMDUwOTIyMTgzNzE5WjAjBgkqhkiG9w0BCQQxFgQUuqbqumtfiqCEc8x+og1lLNXL6OUwDQYJKoZIhvcNAQEBBQAEgYBH/V5Zmbi3ovqpE5m1N15+Xr0/dNbzjwOoQTtqRu7gVWvF4LEF+UgfOn5GK+cWzfhqmk19kjoTomTPrRvmbcvmtwbut5/zkcqClOsoBdQxLgakr1BAlT/0Vi+P8Y9ImhWT3OjD9qxVPOedhmdJ9JUC+kqA5MDSP8JoncS4yyimVA==-----END PKCS7-----
+">
+</form>
+
+<p>We'd like you to sponsor us in our journey around the world.  Click on the 'Make a Donation' button above to make a secure payment via PayPal. (<i>Don't worry if you don't have a PayPal account, they take all major credit cards.</i>) Any amount is appreciated, but keep in mind that any donation of $10 USD or more will get you a personal postcard from wherever we happen to be.  Please remember to include the address you'd like the postcard sent to as your 'shipping address.'</p>
+</div>
+
+</div>
+
+<div id="footer">
+
+<p>&copy; 2005 Ryan Henderson | <a href="http://www.theroadislife.com/index.xml">RSS</a> | <a href="http://www.movabletype.org">Movable Type</a> </p>
+
+</div></div>
+
+</body>
+</html>

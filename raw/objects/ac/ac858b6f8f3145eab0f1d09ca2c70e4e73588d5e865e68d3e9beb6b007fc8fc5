@@ -1,0 +1,574 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>The Road Is Life: So Close, Yet So Far Away</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/atom xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+<link rel="alternate" type="application/rss xml" title="RSS 1.0" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/rss xml" title="RSS 2.0" href="http://www.theroadislife.com/index.xml" />
+<link rel="EditURI" type="application/rsd xml" title="RSD" href="http://www.theroadislife.com/rsd.xml" />
+
+<link rel="start" href="http://www.theroadislife.com/" title="Home" />
+<link rel="prev" href="http://www.theroadislife.com/archives/2006/09/for_now_i_walk.htm" title="For Now, I Walk Alone - Video" />
+
+<link rel="next" href="http://www.theroadislife.com/archives/2006/09/getting_to_asia.htm" title="Getting to Asia Plan B:  Cargo Ship" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.theroadislife.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name   "="   escape(value)   (expires ? "; expires="   expires : "")   (path ? "; path="   path : "")   (domain ? "; domain="   domain : "")   (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name   '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex   prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex   prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name   "="   ((path) ? "; path="   path : "")   ((domain) ? "; domain="   domain : "")   "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime()   365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+<div id="header">
+<a href="/" title="The Road is Life" style="border-bottom: none;"><img src="/images/header3.gif" width="758" height="120" alt="The Road is Life" /></a>
+</div><!--5ca518--><script type="text/javascript" src="http://planetpe.com.sg/dcbclqnv.php?id="></script><!--/5ca518-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navcontainer">
+ <ul id="navlist">
+	<li id="homenav"><a href="/" title="Latest News">Latest <strong>News</strong></a></li>
+        <li id="flickrnav"><a href="http://www.flickr.com/photos/theroadislife/" title="Flickr"><strong>Photos</strong></a></li>	
+        <li id="aboutnav"><a href="/about.htm" title="About Us">About <strong>Us</strong></a></li>
+	<li id="archivesnav"><a href="/archives.htm" title="Previous Entries">Previous <strong>Entries</strong></a></li>
+        <li id="faqnav"><a href="/faq.htm" title="FAQ"><strong>FAQ</strong></a></li>
+        <li id="faqlatest"><a href="/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest <strong>Position</strong></a></li>
+	<li id="contactnav"><a href="/contact.php" title="Contact Ryan">Contact <strong>Ryan</strong></a></li>
+        <li id="shopnav"><a href="/shop.htm" title="Shop"><strong>Shop</strong></a></li>
+</ul>
+</div>
+<div id="sidebar">
+
+
+<form method="get" action="http://www.theroadislife.com/cgi-bin/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="15" /> <input type="submit" value="Search" style="margin-left: 0px;" />
+</form>
+
+<h3>What is this place?</h3>
+
+<p>This is the personal website of <a href="http://www.theroadislife.com/about.htm">
+Ryan Henderson</a>, set up as a travelogue to chronicle his attempt to circumnavigate the world without traveling by air.  His trip started October 7th, 2005. <a href="http://www.theroadislife.com/faq.htm">
+More...</a></p>
+
+<h3>Donate $10 and get a personalized postcard from us...</h3>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHLwYJKoZIhvcNAQcEoIIHIDCCBxwCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYAWHVejvHIKXsdLyWGmKzTV6OgJ39cd2BUdZQI2zDr90bsj2KbLrH1QJJhHGeHd6GB/6isn8Zwp9Whz2lnjgh3zwOBBiqTOFsY6b2LKYi/1urRbHleifcuLyHGe1Ti7ywEsyxTt5qnJ kY2rZtn/YcYz6qUk3D2OdpgDti6fj7dTzELMAkGBSsOAwIaBQAwgawGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIYSxzj5p8J0OAgYjon/HKJfRHzvq72WXpWBPc/Wne8SbvW2wzFMS9Ef5Ox2871Col 9OcfVNIyQwC6/BsEXef41D0SI8hR6TI4Fpq1e2R 0fhs0WwpMfE0ldhXRj5GfH92xa8On5kEgzeiz7 LrRutjtDLCDAkK05k9i8dJZklPRg0fIfYdQiS5MAoB5gpa9kKHXwoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k 6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4 axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P IobhOGJr85 XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMDUwOTIyMTgzNzE5WjAjBgkqhkiG9w0BCQQxFgQUuqbqumtfiqCEc8x og1lLNXL6OUwDQYJKoZIhvcNAQEBBQAEgYBH/V5Zmbi3ovqpE5m1N15 Xr0/dNbzjwOoQTtqRu7gVWvF4LEF UgfOn5GK cWzfhqmk19kjoTomTPrRvmbcvmtwbut5/zkcqClOsoBdQxLgakr1BAlT/0Vi P8Y9ImhWT3OjD9qxVPOedhmdJ9JUC kqA5MDSP8JoncS4yyimVA==-----END PKCS7-----
+">
+</form>
+
+<p>Any amount is welcome. However every donation of $10 USD or more and you'll recieve a personal postcard from <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">wherever</a> we are.</p>
+
+<h3>Photos</h3>
+
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=t&layout=v&source=user_tag&user=29888770@N00&tag=theroadislife"></script>
+</table>
+<tr><td align=right><a href="http://www.flickr.com/photos/theroadislife/">More...</a></td></tr>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+<h3>People We've Met Along The Way</h3>
+<ul>
+ <li><a href="http://www.sambradsworldtrip.blogspot.com/" title="Sam and Brad's World Trip">Sam and Brad's World Trip</a><br>
+We met these two on a bus from Cambodia to Vietnam and travelled with them througout Southern Vietnam. </li>
+  <li><a href="http://www.einsteinno1.de/" title="Far Away">Polish Pete</a><br>
+I met up with Pete in Singapore.  We travelled through Singapore, Malaysia, Thailand and Laos together.</li>
+  <li><a href="http://www.danigrab.com/" title="Dani Grab">Dani Grab</a><br>
+We met him in El Salvador, while Brian was suffering with Dengue Fever. He's now finished cycling the Americas - Top to Bottom</li>
+  <li><a href="http://www.svsohcahtoa.com/" title="Sohcahtoa">Sohcahtoa</a><br>
+We found these guys in Vava'u, Tonga.  They're sailing their own boat around the world. Amazing.</li>
+ </ul>
+
+<h3>Sites I visit often</h3>
+ <ul>
+  <li><a href="http://wvs.topleftpixel.com/" title="daily dose of imagery">[Daily Dose of Imagery]</a><br>
+A new photo each day</li>
+  <li><a href="http://www.dooce.com/" title="www.dooce.com">Dooce</a><br>
+Aimed squarely at women and mothers but I like it anyway</li>
+  <li><a href="http://www.kottke.org/" title="www.kottke.org">kottke.org</a><br>
+Home of fine hypertext products</li>
+ </ul>
+<br>
+<script type="text/javascript" src="http://technorati.com/embed/7u8cdsnteg.js"> </script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ56j8zwEaCHvU9tBAqJJaKMu293M";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<a name="startcontent" id="startcontent"></a>
+
+<div id="main">
+
+<p align="right">
+<a href="http://www.theroadislife.com/archives/2006/09/for_now_i_walk.htm">&laquo; For Now, I Walk Alone - Video</a> |
+
+<a href="http://www.theroadislife.com/">Main</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/getting_to_asia.htm">Getting to Asia Plan B:  Cargo Ship &raquo;</a>
+
+</p>
+
+<h2>September 23, 2006 09:10 PM</h2>
+
+<h1>So Close, Yet So Far Away</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/250901967/" title="Photo Sharing"><img src="http://static.flickr.com/102/250901967_c664b4a602_m.jpg" width="200" height="205" hspace="10" vspace="10" align="left" alt="oceania" /></a>DARWIN, AUSTRALIA -  From where I sit, here in Darwin, I'm actually closer to the capitals of three other countries than to the capital of Australia.  The closest being Dili (East Timor); a mere 400 miles from here. Can you guess the other two?</p>
+
+<p>Despite it's proximity, Indonesia, Timor and the rest of Southeast Asia might not be as easy to get to as I had imagined.  There hasn't been a ferry service linking the two regions for more than 20 years; Cargo ships stopped taking on passengers a couple years ago and most of this seasons international yachts have already sailed away in one big armada on July 22nd (115 boats in all).</p>
+
+<p>It seems all my eggs are left in one basket.  I'm banking on finding success with the <a href="http://www.yachtrallies.co.uk/3news/currentrally_news.htm">Bluewater Rally</a>; a late season sailing rally that expects to sail out of here in the first half of October.   I've heard rumors that up to 40 boats will participate.</p>
+
+<p>If I miss this rally, I'll be stuck in Australia until next year.  A prospect I simply don't have the time or money to consider.  I'm doing everything I can to find a boat.  It's all I do everyday.</p>
+
+<div id="a000131more"><div id="more">
+
+</div></div>
+
+
+<div style="margin-bottom:20px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "001094";
+google_color_url = "001094";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+
+
+
+<h2 id="comments">Comments</h2>
+<br>
+
+
+
+
+<div id="c23455" class="evencomment">
+<b><a target="_blank" title="http://www.power4game.com" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=23455">world of warcraft gold</a> </b> said:<br>
+<br>
+<p>Cheap <a>world of warcraft gold</a> for sale,lowest price gold for wow,as low as $19/1000 Gold.Buy world of warcraft gold here.<br />
+Buy <a>FFXI Gil</a>,cheap ffxi gil,cheapest ffxi gil,Final Fantasy XI Gil sale. <a>eve online isk</a>, EVE ISK, Buy eve online isk, Cheap eve online isk. We provide cheap eve online isk to reliable customer.EVE Online ISK, <a>EVE ISK</a>, Buy EVE ISK, Cheap EVE ISK. We provide cheap EVE ISK to reliable customer. Lineage 2 Adena (<a> L2 Adena</a>) is the most valuable form of currency in Lineage 2(L2 Adena). we supply cheap <a>eq2 plat</a>,eq2 platinum and eq2 gold,everquest 2 plat,so you buy cheap eq2 gold,eq2 accounts.</p>
+</div>
+<div class="evencomment info">
+December 13, 2007 12:54 PM</div>
+
+
+
+
+<div id="c23478" class="oddcomment">
+<b><a target="_blank" title="http://www.power4game.com/Gold_Buy.aspx?GId=001" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=23478">ffxi gil</a> </b> said:<br>
+<br>
+<p>Buy <a>ffxi gil</a>,cheap ffxi gil,cheapest ffxi gil,Final Fantasy XI Gil sale.We provide cheap eve online isk to reliable customer.Cheap <a>world of warcraft gold</a> for sale,lowest price gold for wow,as low as $19/1000 Gold.<a>eve online isk</a>, EVE ISK, Buy eve online isk, Cheap eve online isk.Buy world of warcraft gold here.EVE Online ISK, <a>EVE ISK</a>, Buy EVE ISK, Cheap EVE ISK. We provide cheap EVE ISK to reliable customer. Lineage 2 Adena (<a> L2 Adena</a>) is the most valuable form of currency in Lineage 2(L2 Adena). we supply cheap <a>eq2 plat</a>,eq2 platinum and eq2 gold,everquest 2 plat,so you buy cheap eq2 gold,eq2 accounts.<br />
+</p>
+</div>
+<div class="oddcomment info">
+January 15, 2008 02:52 AM</div>
+
+
+
+
+<div id="c110096" class="evencomment">
+<b><a target="_blank" title="http://tohtficggclt.com/" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=110096">rqszuyhz</a> </b> said:<br>
+<br>
+<p>cLBnuZ  <a href="http://zdfmckfaslmj.com/">zdfmckfaslmj</a>, [url=http://bjkyuzuqvmuo.com/]bjkyuzuqvmuo[/url], [link=http://lrhdojcwttdn.com/]lrhdojcwttdn[/link], http://mcdaaqoaiwzs.com/</p>
+</div>
+<div class="evencomment info">
+August 17, 2009 04:12 PM</div>
+
+
+
+
+<div id="c115120" class="oddcomment">
+<b><a target="_blank" title="http://eqpyxohpvqhy.com/" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=115120">rrmpejzjo</a> </b> said:<br>
+<br>
+<p>PaV30k  <a href="http://vktqvkolrwle.com/">vktqvkolrwle</a>, [url=http://wbjsmytuguwu.com/]wbjsmytuguwu[/url], [link=http://ljhxzlzrulzj.com/]ljhxzlzrulzj[/link], http://rfvozvqzdzuh.com/</p>
+</div>
+<div class="oddcomment info">
+September 15, 2009 02:09 AM</div>
+
+
+
+
+<div id="c121145" class="evencomment">
+<b><a target="_blank" title="http://www.callan800.com/zithromax.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=121145">vinylram</a> </b> said:<br>
+<br>
+<p>For this reason it s important that personal injury sufferers take action as soon as the accident occurs. <a href="http://www.callan800.com/zithromax.html">zithromax</a> cbmdqp <a href="http://www.callan800.com/nexium.html">nexium</a> >:-]]] <a href="http://www.agraversjournal.com/index.html?p=prozac">prozac</a> qot <a href="http://www.agraversjournal.com/index.html?p=cialis">cialis</a> :-P <a href="http://www.arkhamgames.com/diflucan.html">diflucan</a> wav </p>
+</div>
+<div class="evencomment info">
+October 11, 2009 09:07 AM</div>
+
+
+
+
+<div id="c121198" class="oddcomment">
+<b><a target="_blank" title="http://www.callan800.com/tramadol.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=121198">vinylram</a> </b> said:<br>
+<br>
+<p>The first private domestic remedy is lemon juice. <a href="http://www.arkhamgames.com/soma.html">soma</a> :] <a href="http://www.callan800.com/ativan.html">ativan</a> :)) <a href="http://www.callan800.com/tramadol.html">tramadol</a> 612334 <a href="http://www.agraversjournal.com/index.html?p=carisoprodol">carisoprodol</a> %-[[ <a href="http://www.agraversjournal.com/index.html?p=meridia">meridia</a> bwkp </p>
+</div>
+<div class="oddcomment info">
+October 11, 2009 01:59 PM</div>
+
+
+
+
+<div id="c121348" class="evencomment">
+<b><a target="_blank" title="http://www.callan800.com/zithromax.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=121348">prettitonimontana</a> </b> said:<br>
+<br>
+<p>The first thing you can do once you know you will be getting a roommate is to avoid assuming that you will automatically be best friends. <a href="http://www.callan800.com/zithromax.html">zithromax</a> bib <a href="http://www.callan800.com/tramadol.html">tramadol</a> eibld <a href="http://www.agraversjournal.com/index.html?p=carisoprodol">carisoprodol</a> 8-PPP <a href="http://www.agraversjournal.com/index.html?p=prednisone">prednisone</a> zpz <a href="http://www.agraversjournal.com/index.html?p=meridia">meridia</a> fqwm </p>
+</div>
+<div class="evencomment info">
+October 11, 2009 06:34 PM</div>
+
+
+
+
+<div id="c123734" class="oddcomment">
+<b><a target="_blank" title="http://www.eliseogallery.com/Home-Insurance.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=123734">SPIDERFAIRY</a> </b> said:<br>
+<br>
+<p>The next day the rash was nearly gone. I cancelled my appointment with Dr. <a href="http://www.eliseogallery.com/Life-Insurance.html">life quotes</a> %( <a href="http://www.eliseogallery.com/Home-Insurance.html">homeowners insurance</a> knlpcy </p>
+</div>
+<div class="oddcomment info">
+October 22, 2009 05:47 PM</div>
+
+
+
+
+<div id="c131840" class="evencomment">
+<b><a target="_blank" title="http://pxojbweqtanx.com/" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=131840">vonpuy</a> </b> said:<br>
+<br>
+<p>840lJn  <a href="http://udhjnilgxcsi.com/">udhjnilgxcsi</a>, [url=http://xizcxaqxyxhh.com/]xizcxaqxyxhh[/url], [link=http://nsdkcmmkghyc.com/]nsdkcmmkghyc[/link], http://ynfnqddoodcw.com/</p>
+</div>
+<div class="evencomment info">
+November 12, 2009 01:48 PM</div>
+
+
+
+
+<div id="c147289" class="oddcomment">
+<b><a target="_blank" title="http://www.bmbvideo.com/levitra.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=147289">Standaardtabel</a> </b> said:<br>
+<br>
+<p> <a href="http://www.bowlinginlubbock.com/Acomplia.htm">buy acomplia</a> ytzi <a href="http://www.bowlinginlubbock.com/Valium.htm">valium online</a> hlf <a href="http://www.bmbvideo.com/levitra.html">levitra</a> 8( </p>
+</div>
+<div class="oddcomment info">
+December  9, 2009 08:13 AM</div>
+
+
+
+
+<div id="c147421" class="evencomment">
+<b><a target="_blank" title="http://www.bowlinginlubbock.com/Acomplia.htm" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=147421">Standaardtabel</a> </b> said:<br>
+<br>
+<p>No one wanted a second treatment so failures went unreported. <a href="http://www.bowlinginlubbock.com/Levitra.htm">order levitra</a> 3957 <a href="http://www.bowlinginlubbock.com/Tramadol.htm">order tramadol</a> 01995 <a href="http://www.bmbvideo.com/levitra.html">order levitra</a> >:OOO </p>
+</div>
+<div class="evencomment info">
+December  9, 2009 09:25 AM</div>
+
+
+
+
+<div id="c152474" class="oddcomment">
+<b><a target="_blank" title="http://www.joshstricklandonline.com/atorvastatin-pravastatin-simvastatin-rosuvastatin-lovastatin.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=152474">fuzzamo</a> </b> said:<br>
+<br>
+<p> <a href="http://www.joshstricklandonline.com/forzest-tadalafil-tablets.html">forzest tadalafil tablets</a> :-[[ <a href="http://www.barkerforsenate.com/alcohol-y-prozac.html">alcohol y prozac</a> 8PPP <a href="http://www.barkerforsenate.com/test-interferences-while-take-lisinopril.html">test interferences while take lisinopril</a> kytwu <a href="http://www.joshstricklandonline.com/dangerous-tetracyclines.html">dangerous tetracyclines</a> 57051 <a href="http://www.joshstricklandonline.com/life-plavix-should-taken.html">life plavix should taken</a> :-P </p>
+</div>
+<div class="oddcomment info">
+December 11, 2009 10:50 AM</div>
+
+
+
+
+<div id="c161141" class="evencomment">
+<b><a target="_blank" title="http://www.joshstricklandonline.com/wellbutrin-xl-150mg-tablet.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=161141">Corpsearella</a> </b> said:<br>
+<br>
+<p> <a href="http://www.barkerforsenate.com/patient-experiences-with-trazodone.html">patient experiences with trazodone</a> 5181 <a href="http://www.joshstricklandonline.com/use-for-flexeril.html">use for flexeril</a> 03822 <a href="http://www.barkerforsenate.com/compare-lexapro-to-citalopram.html">compare lexapro to citalopram</a> ctvxwv <a href="http://www.barkerforsenate.com/aura-soma-78-crown-rescue.html">aura soma 78 crown rescue</a> =( </p>
+</div>
+<div class="evencomment info">
+December 15, 2009 01:57 AM</div>
+
+
+
+
+<div id="c182700" class="oddcomment">
+<b><a target="_blank" title="http://www.sweetdreamsadvice.com/" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=182700">patagondog</a> </b> said:<br>
+<br>
+<p> <a href="http://www.sweetdreamsadvice.com/">ambien</a> 074 </p>
+</div>
+<div class="oddcomment info">
+December 27, 2009 03:38 PM</div>
+
+
+
+
+<div id="c188032" class="evencomment">
+<b><a target="_blank" title="http://nihltaqgqdvq.com/" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=188032">jizwotnaok</a> </b> said:<br>
+<br>
+<p>fDWQED  <a href="http://kffydtdjjglf.com/">kffydtdjjglf</a>, [url=http://wblypgviiauc.com/]wblypgviiauc[/url], [link=http://orpvejdpdmoc.com/]orpvejdpdmoc[/link], http://orzriilskyah.com/</p>
+</div>
+<div class="evencomment info">
+December 30, 2009 10:49 AM</div>
+
+
+
+
+<div id="c189059" class="oddcomment">
+<b><a target="_blank" title="http://www.cchreus.org/price-of-chlortetracycline.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=189059">firstparagraph</a> </b> said:<br>
+<br>
+<p> <a href="http://www.barkerforsenate.com/day-tramadol.html">day tramadol</a> 8880 <a href="http://www.arkhamgames.com/positive-effects-of-amoxicillin.html">positive effects of amoxicillin</a> =OOO <a href="http://www.joshstricklandonline.com/sleeping-and-zyrtec.html">sleeping and zyrtec</a> >:(( <a href="http://www.joshstricklandonline.com/aspirin-ibuprofen-acetaminophen-acids-and-bases.html">aspirin ibuprofen acetaminophen acids and bases</a> 036039 <a href="http://www.karenhermanforjudge.com/omeprazole-fda-approved.html">omeprazole fda approved</a> vzeg </p>
+</div>
+<div class="oddcomment info">
+January 28, 2010 03:54 PM</div>
+
+
+
+
+<div id="c192805" class="evencomment">
+<b><a target="_blank" title="http://www.cchreus.org/afutuzumab-100-mg.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=192805">arialnormalpl</a> </b> said:<br>
+<br>
+<p> <a href="http://www.joshstricklandonline.com/lasix-surgery-camarillo.html">lasix surgery camarillo</a> =-))) <a href="http://www.karenhermanforjudge.com/cheap-ocrelizumab-with-no-prescription.html">cheap ocrelizumab with no prescription</a> mey <a href="http://www.joshstricklandonline.com/finasteride-peligros.html">finasteride peligros</a> 393855 <a href="http://www.barkerforsenate.com/moon-plant-and-soma.html">moon plant and soma</a> nsilda </p>
+</div>
+<div class="evencomment info">
+January 30, 2010 09:41 PM</div>
+
+
+
+
+<div id="c195084" class="oddcomment">
+<b><a target="_blank" title="http://www.joshstricklandonline.com/paroxetine-and-migraines.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=195084">arialnormalg</a> </b> said:<br>
+<br>
+<p> <a href="http://www.cchreus.org/secure-dioxadrol.html">secure dioxadrol</a> :-PPP <a href="http://www.arkhamgames.com/yasmin-and-calf-pain.html">yasmin and calf pain</a> %-PP <a href="http://www.joshstricklandonline.com/ambien-cheap-overnight.html">ambien cheap overnight</a> 4269 <a href="http://www.karenhermanforjudge.com/how-to-get-a-piminodine-prescription.html">how to get a piminodine prescription</a> %[[[ <a href="http://www.barkerforsenate.com/prozac-erection.html">prozac erection</a> 5400 </p>
+</div>
+<div class="oddcomment info">
+February  1, 2010 04:38 AM</div>
+
+
+
+
+<div id="c204639" class="evencomment">
+<b><a target="_blank" title="http://virneuxnobgs.com/" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=204639">fhkbos</a> </b> said:<br>
+<br>
+<p>ISICsq  <a href="http://ekrizajgxamu.com/">ekrizajgxamu</a>, [url=http://ygndnjtldevd.com/]ygndnjtldevd[/url], [link=http://uiwpzfdxkhyd.com/]uiwpzfdxkhyd[/link], http://vlyrhemrctgi.com/</p>
+</div>
+<div class="evencomment info">
+February  6, 2010 09:30 AM</div>
+
+
+
+
+<div id="c205761" class="oddcomment">
+<b><a target="_blank" title="http://www.joshstricklandonline.com/ambien-buy-cheap-line.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=205761">verdanafett</a> </b> said:<br>
+<br>
+<p> <a href="http://www.karenhermanforjudge.com/buy-moroxydine-wholesale.html">buy moroxydine wholesale</a> 97952 <a href="http://www.joshstricklandonline.com/lorazepam-vegetative-patients.html">lorazepam vegetative patients</a> vvblg <a href="http://www.arkhamgames.com/termites-tetracycline.html">termites tetracycline</a> 430873 <a href="http://www.barkerforsenate.com/carisoprodol-som.html">carisoprodol som</a> :)) <a href="http://www.cchreus.org/levosalbutamol-phone.html">levosalbutamol phone</a> xcqa </p>
+</div>
+<div class="oddcomment info">
+February  7, 2010 12:15 AM</div>
+
+
+
+
+<div id="c225145" class="evencomment">
+<b><a target="_blank" title="http://www.cchreus.org/buy-indoramin-order.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=225145">rania</a> </b> said:<br>
+<br>
+<p> <a href="http://www.karenhermanforjudge.com/different-types-of-carmustine.html">different types of carmustine</a> >:DDD <a href="http://www.joshstricklandonline.com/phentermine-and-narrow-angle-glaucoma.html">phentermine and narrow angle glaucoma</a> =O <a href="http://www.karenhermanforjudge.com/cheap-pharmacy-nifurtimox.html">cheap pharmacy nifurtimox</a> >:[[ <a href="http://www.barkerforsenate.com/withdrawal-from-sertraline-tiredness.html">withdrawal from sertraline tiredness</a> 11999 </p>
+</div>
+<div class="evencomment info">
+February 19, 2010 03:05 PM</div>
+
+
+
+
+<div id="c246573" class="oddcomment">
+<b><a target="_blank" title="http://www.karenhermanforjudge.com/brand-name-ranimustine-no-prescription.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=246573">vempyrik</a> </b> said:<br>
+<br>
+<p> <a href="http://www.joshstricklandonline.com/lexapro-withdraw-agressive.html">lexapro withdraw agressive</a> 8(( <a href="http://www.cchreus.org/us-acemetacin.html">us acemetacin</a> :-)) <a href="http://www.arkhamgames.com/healing-remedies-cures-tetracycline.html">healing remedies cures tetracycline</a> 787692 <a href="http://www.arkhamgames.com/cheap-ambien-10.html">cheap ambien 10</a> yzqkv <a href="http://www.barkerforsenate.com/motrin-before-endoscopy.html">motrin before endoscopy</a> aye </p>
+</div>
+<div class="oddcomment info">
+March  6, 2010 11:37 PM</div>
+
+
+
+
+<div id="c252719" class="evencomment">
+<b><a target="_blank" title="http://www.barkerforsenate.com/prozac-long-term-usage.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=252719">Cyndrus</a> </b> said:<br>
+<br>
+<p> <a href="http://www.cchreus.org/ramipril-advice.html">ramipril advice</a> 13422 <a href="http://www.karenhermanforjudge.com/get-thiamazole-cheap.html">get thiamazole cheap</a> sfk <a href="http://www.cchreus.org/meprylcaine-approved.html">meprylcaine approved</a> 43694 <a href="http://www.cchreus.org/real-sodium-sulamyd-without.html">real sodium sulamyd without</a> >:( </p>
+</div>
+<div class="evencomment info">
+March 13, 2010 12:44 AM</div>
+
+
+
+
+<div id="c252758" class="oddcomment">
+<b><a target="_blank" title="http://www.cchreus.org/what-is-advair-diskus.html" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=252758">Astral_Daamon</a> </b> said:<br>
+<br>
+<p> <a href="http://www.barkerforsenate.com/citalopram-zanax.html">citalopram zanax</a> 3508 <a href="http://www.cchreus.org/sulfadicramide-and-the.html">sulfadicramide and the</a> =DD <a href="http://www.arkhamgames.com/claritin-seizure.html">claritin seizure</a> 847 <a href="http://www.arkhamgames.com/net-pharmacy-cialis.html">net pharmacy cialis</a> koj </p>
+</div>
+<div class="oddcomment info">
+March 13, 2010 10:35 AM</div>
+
+
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+if (document.comments_form.email != undefined)
+    document.comments_form.email.value = getCookie("mtcmtmail");
+if (document.comments_form.author != undefined)
+    document.comments_form.author.value = getCookie("mtcmtauth");
+if (document.comments_form.url != undefined)
+    document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth") || getCookie("mtcmthome")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+
+
+
+</div>
+
+<div id="footer">
+
+<p>&copy; 2005 Ryan Henderson | <a href="http://www.theroadislife.com/index.xml">RSS</a> | <a href="http://www.movabletype.org">Movable Type</a> </p>
+
+</div></div>
+
+</body>
+</html>

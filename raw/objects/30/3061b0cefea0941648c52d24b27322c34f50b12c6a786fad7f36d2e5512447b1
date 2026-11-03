@@ -1,0 +1,21 @@
+<!-- begin copy here --> 
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" 
+WIDTH="800" HEIGHT="400" 
+id="map" 
+ALIGN="center"> 
+<PARAM NAME=movie VALUE="map.swf"> 
+<PARAM NAME=menu VALUE=false> 
+<PARAM NAME=quality VALUE=high> 
+<PARAM NAME=bgcolor VALUE=#ffffff> 
+<PARAM name=FlashVars value="stage_height=400&map_title=Where%20in%20the%20world%3F&xml_file=locations.xml&map_style=false&map_color=000000&date_format=mdy&zoom=auto&show_routes=true&route_thickness=3&route_curve_factor=1&tooltip_bg_color=CECFCE&tooltip_shadow_opacity=50&mod=1¤t_point_color=001094&past_point_style=diamond&past_point_color=001094&future_point_style=circle&future_route_color=CE6500&past_route_color=CE6500"> 
+<EMBED src="map.swf" FlashVars="stage_height=400&map_title=Where%20in%20the%20world%3F&xml_file=locations.xml&map_style=false&map_color=000000&date_format=mdy&zoom=auto&show_routes=true&route_thickness=3&route_curve_factor=1&tooltip_bg_color=CECFCE&tooltip_shadow_opacity=50&mod=1¤t_point_color=001094&past_point_style=diamond&past_point_color=001094&future_point_style=circle&future_route_color=CE6500&past_route_color=CE6500" 
+menu=false 
+quality=high 
+bgcolor=#ffffff 
+NAME="map" WIDTH="800" HEIGHT="400" 
+ALIGN="center" 
+TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"> 
+</EMBED> 
+</OBJECT> 
+<!-- end copy here --> 

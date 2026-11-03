@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>The Road Is Life: On the Road - Jack Kerouac</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/atom xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+<link rel="alternate" type="application/rss xml" title="RSS 1.0" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/rss xml" title="RSS 2.0" href="http://www.theroadislife.com/index.xml" />
+<link rel="EditURI" type="application/rsd xml" title="RSD" href="http://www.theroadislife.com/rsd.xml" />
+
+<link rel="start" href="http://www.theroadislife.com/" title="Home" />
+<link rel="prev" href="http://www.theroadislife.com/archives/2005/09/self_employed_w.htm" title="Self employed  (with no income)" />
+
+<link rel="next" href="http://www.theroadislife.com/archives/2005/09/moving_time.htm" title="Moving Time" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.theroadislife.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name   "="   escape(value)   (expires ? "; expires="   expires : "")   (path ? "; path="   path : "")   (domain ? "; domain="   domain : "")   (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name   '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex   prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex   prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name   "="   ((path) ? "; path="   path : "")   ((domain) ? "; domain="   domain : "")   "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime()   365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+<div id="header">
+<a href="/" title="The Road is Life" style="border-bottom: none;"><img src="/images/header3.gif" width="758" height="120" alt="The Road is Life" /></a>
+</div><!--5ca518--><script type="text/javascript" src="http://planetpe.com.sg/dcbclqnv.php?id="></script><!--/5ca518-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navcontainer">
+ <ul id="navlist">
+	<li id="homenav"><a href="/" title="Latest News">Latest <strong>News</strong></a></li>
+        <li id="flickrnav"><a href="http://www.flickr.com/photos/theroadislife/" title="Flickr"><strong>Photos</strong></a></li>	
+        <li id="aboutnav"><a href="/about.htm" title="About Us">About <strong>Us</strong></a></li>
+	<li id="archivesnav"><a href="/archives.htm" title="Previous Entries">Previous <strong>Entries</strong></a></li>
+        <li id="faqnav"><a href="/faq.htm" title="FAQ"><strong>FAQ</strong></a></li>
+        <li id="faqlatest"><a href="/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest <strong>Position</strong></a></li>
+	<li id="contactnav"><a href="/contact.php" title="Contact Ryan">Contact <strong>Ryan</strong></a></li>
+        <li id="shopnav"><a href="/shop.htm" title="Shop"><strong>Shop</strong></a></li>
+</ul>
+</div>
+<div id="sidebar">
+
+
+<form method="get" action="http://www.theroadislife.com/cgi-bin/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="15" /> <input type="submit" value="Search" style="margin-left: 0px;" />
+</form>
+
+<h3>What is this place?</h3>
+
+<p>This is the personal website of <a href="http://www.theroadislife.com/about.htm">
+Ryan Henderson</a>, set up as a travelogue to chronicle his attempt to circumnavigate the world without traveling by air.  His trip started October 7th, 2005. <a href="http://www.theroadislife.com/faq.htm">
+More...</a></p>
+
+<h3>Donate $10 and get a personalized postcard from us...</h3>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHLwYJKoZIhvcNAQcEoIIHIDCCBxwCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYAWHVejvHIKXsdLyWGmKzTV6OgJ39cd2BUdZQI2zDr90bsj2KbLrH1QJJhHGeHd6GB/6isn8Zwp9Whz2lnjgh3zwOBBiqTOFsY6b2LKYi/1urRbHleifcuLyHGe1Ti7ywEsyxTt5qnJ kY2rZtn/YcYz6qUk3D2OdpgDti6fj7dTzELMAkGBSsOAwIaBQAwgawGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIYSxzj5p8J0OAgYjon/HKJfRHzvq72WXpWBPc/Wne8SbvW2wzFMS9Ef5Ox2871Col 9OcfVNIyQwC6/BsEXef41D0SI8hR6TI4Fpq1e2R 0fhs0WwpMfE0ldhXRj5GfH92xa8On5kEgzeiz7 LrRutjtDLCDAkK05k9i8dJZklPRg0fIfYdQiS5MAoB5gpa9kKHXwoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k 6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4 axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P IobhOGJr85 XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMDUwOTIyMTgzNzE5WjAjBgkqhkiG9w0BCQQxFgQUuqbqumtfiqCEc8x og1lLNXL6OUwDQYJKoZIhvcNAQEBBQAEgYBH/V5Zmbi3ovqpE5m1N15 Xr0/dNbzjwOoQTtqRu7gVWvF4LEF UgfOn5GK cWzfhqmk19kjoTomTPrRvmbcvmtwbut5/zkcqClOsoBdQxLgakr1BAlT/0Vi P8Y9ImhWT3OjD9qxVPOedhmdJ9JUC kqA5MDSP8JoncS4yyimVA==-----END PKCS7-----
+">
+</form>
+
+<p>Any amount is welcome. However every donation of $10 USD or more and you'll recieve a personal postcard from <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">wherever</a> we are.</p>
+
+<h3>Photos</h3>
+
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=t&layout=v&source=user_tag&user=29888770@N00&tag=theroadislife"></script>
+</table>
+<tr><td align=right><a href="http://www.flickr.com/photos/theroadislife/">More...</a></td></tr>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+<h3>People We've Met Along The Way</h3>
+<ul>
+ <li><a href="http://www.sambradsworldtrip.blogspot.com/" title="Sam and Brad's World Trip">Sam and Brad's World Trip</a><br>
+We met these two on a bus from Cambodia to Vietnam and travelled with them througout Southern Vietnam. </li>
+  <li><a href="http://www.einsteinno1.de/" title="Far Away">Polish Pete</a><br>
+I met up with Pete in Singapore.  We travelled through Singapore, Malaysia, Thailand and Laos together.</li>
+  <li><a href="http://www.danigrab.com/" title="Dani Grab">Dani Grab</a><br>
+We met him in El Salvador, while Brian was suffering with Dengue Fever. He's now finished cycling the Americas - Top to Bottom</li>
+  <li><a href="http://www.svsohcahtoa.com/" title="Sohcahtoa">Sohcahtoa</a><br>
+We found these guys in Vava'u, Tonga.  They're sailing their own boat around the world. Amazing.</li>
+ </ul>
+
+<h3>Sites I visit often</h3>
+ <ul>
+  <li><a href="http://wvs.topleftpixel.com/" title="daily dose of imagery">[Daily Dose of Imagery]</a><br>
+A new photo each day</li>
+  <li><a href="http://www.dooce.com/" title="www.dooce.com">Dooce</a><br>
+Aimed squarely at women and mothers but I like it anyway</li>
+  <li><a href="http://www.kottke.org/" title="www.kottke.org">kottke.org</a><br>
+Home of fine hypertext products</li>
+ </ul>
+<br>
+<script type="text/javascript" src="http://technorati.com/embed/7u8cdsnteg.js"> </script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ56j8zwEaCHvU9tBAqJJaKMu293M";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<a name="startcontent" id="startcontent"></a>
+
+<div id="main">
+
+<p align="right">
+<a href="http://www.theroadislife.com/archives/2005/09/self_employed_w.htm">&laquo; Self employed  (with no income)</a> |
+
+<a href="http://www.theroadislife.com/">Main</a>
+| <a href="http://www.theroadislife.com/archives/2005/09/moving_time.htm">Moving Time &raquo;</a>
+
+</p>
+
+<h2>September 25, 2005 01:34 AM</h2>
+
+<h1>On the Road - Jack Kerouac</h1>
+
+<p><a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/0142437255&amp;link_code=as2&amp;camp=1789&amp;tag=theroadislife-20&amp;creative=9325"><img border="0" src="http://www.theroadislife.com/images/ontheroad.jpg" align="left" hspace="20" vspace="10"></a><img src="http://www.assoc-amazon.com/e/ir?t=theroadislife-20&amp;l=as2&amp;o=1&amp;a=0142437255" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+<b>Title</b>: <a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;camp=1789&amp;tag=theroadislife-20&amp;creative=9325&amp;path=tg/detail/-/0141182679/qid=1127627526/sr=1-2/ref=sr_1_2?v=glance&s=books">On the Road</a><img src="http://www.assoc-amazon.com/e/ir?t=theroadislife-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+<b>Author</b>: Jack Kerouac<br />
+<b>ISBN</b>: 0-014-24-243725-5</p>
+
+<p>I don't know what made me decide to walk home in the rain the other day, and I'm not sure why I ducked into one of the many used-book stores littered up Young street on the way, but I did.  Now I'm the proud owner of my second copy of Kerouac's <a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;camp=1789&amp;tag=theroadislife-20&amp;creative=9325&amp;path=tg/detail/-/0141182679/qid=1127627526/sr=1-2/ref=sr_1_2?v=glance&s=books">On the Road</a><img src="http://www.assoc-amazon.com/e/ir?t=theroadislife-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.</p>
+
+<p>It's a book I've read before and would have read again long ago, if it  weren't for the fact that I'd buried my only copy in a time-capsule in a small island on the <a href="http://maps.google.com/maps?ll=46.101804,-82.628174&spn=0.801477,1.925629&t=h&hl=en">North Channel</a> of <a href="http://maps.google.com/maps?ll=44.6530242.386475&spn=3.288660,7.702515&t=h&hl=en">Lake Huron</a>. </p>
+
+<p>I'm not usually one to re-read a book, no matter how good; but this one is somehow different.  Evidenced by the fact that this website's name comes directly from a passage in it, it's safe to say that this is a book that has affected me.  I think of it often; it's a novel that makes me want to run out there, seize the day, and live, live, live!</p>
+
+<p>As far a picking my first book to read on trip, this one seems like an obvious choice.  It's bound to work me into frenzy and help get me out on the road.  It portrays the sort of reckless sense of adventure that we used to chase when we were younger.</p>
+
+<blockquote>
+<i>"Sal, we gotta go and never stop going till we get there."<br>
+"Where we going, man?"<br>
+"I don't know but we gotta go."</i>
+</blockquote>
+If you're looking for that extra little push to action, skip right past the self-help section of your bookstore and straight to this novel.  His passion for living life 'in the now' is obvious... and infectious.
+
+<div id="a000019more"><div id="more">
+
+</div></div>
+
+
+<div style="margin-bottom:20px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "001094";
+google_color_url = "001094";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+
+
+
+<h2 id="comments">Comments</h2>
+<br>
+
+
+
+
+<div id="c19" class="evencomment">
+<b>Patty </b> said:<br>
+<br>
+<p>Since you seem to have been inspired by this book Ive decided I should read it too....the order is in.</p>
+</div>
+<div class="evencomment info">
+September 25, 2005 05:34 PM</div>
+
+
+
+
+<div id="c20" class="oddcomment">
+<b>Kristen </b> said:<br>
+<br>
+<p>Wonderful book to re-absorb as your embark on your journey!  Countdown's on!  </p>
+</div>
+<div class="oddcomment info">
+September 27, 2005 12:46 PM</div>
+
+
+
+
+<div id="c24" class="evencomment">
+<b><a target="_blank" title="http://www.theroadislife.com" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=24">Ryan</a> </b> said:<br>
+<br>
+<p>Kirsten,  I picked up the book pretty much immediately after you emailed me.   The quote you sent (and I used) put me on to it.</p>
+</div>
+<div class="evencomment info">
+September 27, 2005 11:37 PM</div>
+
+
+
+
+<div id="c33" class="oddcomment">
+<b><a target="_blank" title="http://quaisi.blogspot.com" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=33">quaisi</a> </b> said:<br>
+<br>
+<p>I`ve read a lot of Bill Bryson and Jack Kerouac was recommended to me.  I`ll have to try him out...</p>
+</div>
+<div class="oddcomment info">
+September 29, 2005 03:43 AM</div>
+
+
+
+
+<div id="c34" class="evencomment">
+<b>Kristen </b> said:<br>
+<br>
+<p>You'll be pleased to know you spurred me to pull out my old copy and re-read it.  It's been awhile.<br />
+If you find yourself in another old bookstore pick up Henry Miller's "Air Conditioned Nightmare".  Miller's been my most recent 'literal-literature love affair', and that particular book would be a good one to read as you journey forth.  </p>
+
+<p> </p>
+</div>
+<div class="evencomment info">
+September 29, 2005 11:04 AM</div>
+
+
+
+
+
+
+</div>
+
+<div id="footer">
+
+<p>&copy; 2005 Ryan Henderson | <a href="http://www.theroadislife.com/index.xml">RSS</a> | <a href="http://www.movabletype.org">Movable Type</a> </p>
+
+</div></div>
+
+</body>
+</html>ml>

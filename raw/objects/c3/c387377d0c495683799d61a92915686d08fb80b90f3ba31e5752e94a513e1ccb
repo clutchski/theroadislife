@@ -1,0 +1,429 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>The Road Is Life: The Softer Side of Ryan and Brian</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS 1.0" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.theroadislife.com/index.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.theroadislife.com/rsd.xml" />
+
+<link rel="start" href="http://www.theroadislife.com/" title="Home" />
+<link rel="prev" href="http://www.theroadislife.com/archives/2005/11/mexico_city.htm" title="Mexico City" />
+
+<link rel="next" href="http://www.theroadislife.com/archives/2005/11/teotithuacan.htm" title="Teotihuacan - Outside of Mexico City" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.theroadislife.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + (expires ? "; expires=" + expires : "") + (path ? "; path=" + path : "") + (domain ? "; domain=" + domain : "") + (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+<div id="header">
+<a href="/" title="The Road is Life" style="border-bottom: none;"><img src="/images/header3.gif" width="758" height="120" alt="The Road is Life" /></a>
+</div>
+
+<div id="navcontainer">
+ <ul id="navlist">
+	<li id="homenav"><a href="/" title="Latest News">Latest <strong>News</strong></a></li>
+        <li id="flickrnav"><a href="http://www.flickr.com/photos/theroadislife/" title="Flickr"><strong>Photos</strong></a></li>	
+        <li id="aboutnav"><a href="/about.htm" title="About Us">About <strong>Us</strong></a></li>
+	<li id="archivesnav"><a href="/archives.htm" title="Previous Entries">Previous <strong>Entries</strong></a></li>
+        <li id="faqnav"><a href="/faq.htm" title="FAQ"><strong>FAQ</strong></a></li>
+        <li id="faqlatest"><a href="/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest <strong>Position</strong></a></li>
+	<li id="contactnav"><a href="/contact.php" title="Contact Ryan">Contact <strong>Ryan</strong></a></li>
+        <li id="shopnav"><a href="/shop.htm" title="Shop"><strong>Shop</strong></a></li>
+</ul>
+</div>
+<div id="sidebar">
+
+
+<form method="get" action="http://www.theroadislife.com/cgi-bin/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="15" /> <input type="submit" value="Search" style="margin-left: 0px;" />
+</form>
+
+<h3>What is this place?</h3>
+
+<p>This is the personal website of <a href="http://www.theroadislife.com/about.htm">
+Ryan Henderson</a>, set up as a travelogue to chronicle his attempt to circumnavigate the world without traveling by air.  His trip started October 7th, 2005. <a href="http://www.theroadislife.com/faq.htm">
+More...</a></p>
+
+<h3>Donate $10 and get a personalized postcard from us...</h3>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+</form>
+
+<p>Any amount is welcome. However every donation of $10 USD or more and you'll recieve a personal postcard from <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">wherever</a> we are.</p>
+
+<h3>Photos</h3>
+
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=t&layout=v&source=user_tag&user=29888770%40N00&tag=theroadislife"></script>
+</table>
+<tr><td align=right><a href="http://www.flickr.com/photos/theroadislife/">More...</a></td></tr>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+<h3>People We've Met Along The Way</h3>
+<ul>
+ <li><a href="http://www.sambradsworldtrip.blogspot.com/" title="Sam and Brad's World Trip">Sam and Brad's World Trip</a><br>
+We met these two on a bus from Cambodia to Vietnam and travelled with them througout Southern Vietnam. </li>
+  <li><a href="http://www.einsteinno1.de/" title="Far Away">Polish Pete</a><br>
+I met up with Pete in Singapore.  We travelled through Singapore, Malaysia, Thailand and Laos together.</li>
+  <li><a href="http://www.danigrab.com/" title="Dani Grab">Dani Grab</a><br>
+We met him in El Salvador, while Brian was suffering with Dengue Fever. He's now finished cycling the Americas - Top to Bottom</li>
+  <li><a href="http://www.svsohcahtoa.com/" title="Sohcahtoa">Sohcahtoa</a><br>
+We found these guys in Vava'u, Tonga.  They're sailing their own boat around the world. Amazing.</li>
+ </ul>
+
+<h3>Sites I visit often</h3>
+ <ul>
+  <li><a href="http://wvs.topleftpixel.com/" title="daily dose of imagery">[Daily Dose of Imagery]</a><br>
+A new photo each day</li>
+  <li><a href="http://www.dooce.com/" title="www.dooce.com">Dooce</a><br>
+Aimed squarely at women and mothers but I like it anyway</li>
+  <li><a href="http://www.kottke.org/" title="www.kottke.org">kottke.org</a><br>
+Home of fine hypertext products</li>
+ </ul>
+<br>
+<script type="text/javascript" src="http://technorati.com/embed/7u8cdsnteg.js"> </script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ56j8zwEaCHvU9tBAqJJaKMu293M";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<a name="startcontent" id="startcontent"></a>
+
+<div id="main">
+
+<p align="right">
+<a href="http://www.theroadislife.com/archives/2005/11/mexico_city.htm">&laquo; Mexico City</a> |
+
+<a href="http://www.theroadislife.com/">Main</a>
+| <a href="http://www.theroadislife.com/archives/2005/11/teotithuacan.htm">Teotihuacan - Outside of Mexico City &raquo;</a>
+
+</p>
+
+<h2>November 20, 2005 11:48 PM</h2>
+
+<h1>The Softer Side of Ryan and Brian</h1>
+
+<p>Hi everyone, it´s Caroline here, the random English girl that R&B picked up in San Diego. Hope you don´t mind me comandeering the website for a sec, but I just wanted to recount an incident that I figured the boys´ friends might be interested to hear. And you can bet your life they won´t be mentioning it themselves... </p>
+
+<p>It all started on a bus the other day. There have been quite a few of those in the past few weeks, but I believe this particular one was from Chihuahua to Zacatecas. We settled into our seats for the day-long drive, during which we were treated to a few movies to pass the time. It was after lunch when the driver decided to screen a love story called <a href="http://www.imdb.com/title/tt0332280/">The Notebook</a>, and since it was in English for once, all of us (Brian, Ryan, another Brit friend called Tom, and a gay Canadian couple we´d started chatting to at the bus station) sat back to watch.</p>
+
+<p>Now I have to admit I did fall asleep during part of the film, so perhaps I missed a vital part of the story and wasn´t quite as engaged in it as the others were. While I did enjoy what I saw, I can´t say I was particularly moved by it, and probably felt a closer bond with ET than I did with any of the characters in this film. However, it seemed I was alone in my thinking... as the closing credits rolled, I turned to the seat next to me to see Ryan looking heart-broken, grief-stricken, and wiping a tear from his eye.</p>
+
+<p>¨Are you crying?!¨ I said (probably in a pitch so high only dogs could hear me).</p>
+
+<p>¨It was sad!¨ he replied with a sorrowful sniff.</p>
+
+<p>And as if this wasn´t shocking enough, I looked across the aisle to see Brian looking equally red-faced and emotional, and apparently scrabbling for a Kleenex. What was this? My two strapping, rugged, outdoorsy Canadian travel buddies were weeping at some cheesy chick flick?! And worse, was I some kind of cold-hearted ice-queen that I <em>wasn´t</em> overcome with emotion?!</p>
+
+<p>I looked over at the two other Ontario natives to see their cheeks wet with tears, and realised it was only my fellow Londoner Tom who´d managed to keep his composure. </p>
+
+<p>Anyway, we had a good laugh about it and decided it must be a Canadian thing. Either that or the boys were tired and emotional after so many hours on the road. But bless their hearts, we´ve promised not to mention it again so no teasing, you hear?!</p>
+
+<div id="a000051more"><div id="more">
+
+</div></div>
+
+
+<div style="margin-bottom:20px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "001094";
+google_color_url = "001094";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+
+
+
+<h2 id="comments">Comments</h2>
+<br>
+
+
+
+
+<div id="c145" class="evencomment">
+<b>Garett </b> said:<br>
+<br>
+<p>Ha! I just saw a tv show the other day in which a girl made her date watch "The Notebook" because she knew he would end up all emotional at the end and would want to cuddle. She later joked with her friends about how she "Notebooked" her date. Maybe I should watch this movie.</p>
+
+<p>I think the Canadian crying connection might be due to the fact that the two lead actors (Gosling and McAdams) are also Canadian.</p>
+</div>
+<div class="evencomment info">
+November 21, 2005 12:44 PM</div>
+
+
+
+
+<div id="c146" class="oddcomment">
+<b>Nikki </b> said:<br>
+<br>
+<p>Whoa...that's weird....I just rented that movie on the walk home from school.  I'm scared to watch it now though if it's that sad!<br />
+Nikki</p>
+</div>
+<div class="oddcomment info">
+November 21, 2005 03:18 PM</div>
+
+
+
+
+<div id="c147" class="evencomment">
+<b>Andy McLean </b> said:<br>
+<br>
+<p>I'm more shocked to hear that you've been travelling with Ryan for 2 weeks now and this is the first time you've seen him cry. </p>
+</div>
+<div class="evencomment info">
+November 21, 2005 03:24 PM</div>
+
+
+
+
+<div id="c148" class="oddcomment">
+<b>sares </b> said:<br>
+<br>
+<p>Awwww dollface, don't be embarrassed...i freakin bawled...shocker eh!! It is a tres emotional film!! haha but i am a girl...don't worry no one is judging...well I'M not judging i can't speak for the rest of your chums...have fun in meh-hee-koh....buy me a sombraro!! see you soon????</p>
+</div>
+<div class="oddcomment info">
+November 21, 2005 08:08 PM</div>
+
+
+
+
+<div id="c149" class="evencomment">
+<b>drew </b> said:<br>
+<br>
+<p>Canadians have feelings and real men cry.</p>
+</div>
+<div class="evencomment info">
+November 22, 2005 11:13 AM</div>
+
+
+
+
+<div id="c151" class="oddcomment">
+<b><a target="_blank" title="http://www.theroadislife.com" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=151">Ryan</a> </b> said:<br>
+<br>
+<p>For the record.  It`s not a terribly sad movie,  it just seemed to strike a nerve,  I`m not sure why.  I`m happy Brian followed me down the same path...and I thought I was dead inside.  Who knew? </p>
+</div>
+<div class="oddcomment info">
+November 22, 2005 12:56 PM</div>
+
+
+
+
+<div id="c155" class="evencomment">
+<b>Jonathan </b> said:<br>
+<br>
+<p>you <i>are</i> dead inside.  don't forget it.</p>
+</div>
+<div class="evencomment info">
+November 22, 2005 02:09 PM</div>
+
+
+
+
+<div id="c158" class="oddcomment">
+<b>Berns </b> said:<br>
+<br>
+<p>ahhh, Ry...no worries bud..sometimes we need to unleash our sensitive side...it's human nature bud! It's not everyday that we get to witness the kind of love that Noah and Allie shared...<br />
+PS> I own that book if you guys ever want to borrow it..</p>
+</div>
+<div class="oddcomment info">
+November 22, 2005 09:54 PM</div>
+
+
+
+
+<div id="c159" class="evencomment">
+<b>Nate </b> said:<br>
+<br>
+<p>I remember Brian cried once when I stole his peanut butter and jelly sandwich.  It's truly not that big of a deal.</p>
+</div>
+<div class="evencomment info">
+November 23, 2005 11:04 PM</div>
+
+
+
+
+<div id="c160" class="oddcomment">
+<b>Erin </b> said:<br>
+<br>
+<p>Hey Boys,</p>
+
+<p>I own the movie...and agree, it is sad...but for 21 years of my life I have never ever seen Brian cry...even in the saddest situations. Wow, B you must be tired or homesick or on something! Haha! I miss you guys.</p>
+
+<p>-Er</p>
+</div>
+<div class="oddcomment info">
+November 25, 2005 10:23 AM</div>
+
+
+
+
+<div id="c162" class="evencomment">
+<b>Mer </b> said:<br>
+<br>
+<p>I always knew Ryan and Brian had it in them to tear up - but a bus in Mexico watching the Notebook! It all seems a bit strange to me.   Don't be ashamed - but you both know that there are some people you know that may bug you for years to come. (Ward - I mean you!!)<br />
+Maybe there is a way to talk to future bus drivers to ensure that it is a film that will keep your tears in check.<br />
+</p>
+</div>
+<div class="evencomment info">
+November 25, 2005 04:09 PM</div>
+
+
+
+
+<div id="c176" class="oddcomment">
+<b>Bingger </b> said:<br>
+<br>
+<p>Hey boy's great story, even though I didn't cry, it was sad..Hope you guys are having a great time.  Ryan your brother just gave me the web address, so I will be checking in later.  Peace,  and stay safe<br />
+</p>
+</div>
+<div class="oddcomment info">
+December  1, 2005 10:54 PM</div>
+
+
+
+
+<div id="c189" class="evencomment">
+<b><a target="_blank" title="http://www.daveward.info" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=189">Ward</a> </b> said:<br>
+<br>
+<p>Duly noted.</p>
+</div>
+<div class="evencomment info">
+December  4, 2005 05:17 PM</div>
+
+
+
+
+
+
+</div>
+
+<div id="footer">
+
+<p>&copy; 2005 Ryan Henderson | <a href="http://www.theroadislife.com/index.xml">RSS</a> | <a href="http://www.movabletype.org">Movable Type</a> </p>
+
+</div></div>
+
+</body>
+</html>

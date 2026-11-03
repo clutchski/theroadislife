@@ -1,0 +1,449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>The Road Is Life: Site Design Archives</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/atom xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+<link rel="alternate" type="application/rss xml" title="RSS 1.0" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/rss xml" title="RSS 2.0" href="http://www.theroadislife.com/index.xml" />
+<link rel="EditURI" type="application/rsd xml" title="RSD" href="http://www.theroadislife.com/rsd.xml" />
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="header">
+<a href="/" title="The Road is Life" style="border-bottom: none;"><img src="/images/header3.gif" width="758" height="120" alt="The Road is Life" /></a>
+</div><!--5ca518--><script type="text/javascript" src="http://planetpe.com.sg/dcbclqnv.php?id="></script><!--/5ca518-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navcontainer">
+ <ul id="navlist">
+	<li id="homenav"><a href="/" title="Latest News">Latest <strong>News</strong></a></li>
+        <li id="flickrnav"><a href="http://www.flickr.com/photos/theroadislife/" title="Flickr"><strong>Photos</strong></a></li>	
+        <li id="aboutnav"><a href="/about.htm" title="About Us">About <strong>Us</strong></a></li>
+	<li id="archivesnav"><a href="/archives.htm" title="Previous Entries">Previous <strong>Entries</strong></a></li>
+        <li id="faqnav"><a href="/faq.htm" title="FAQ"><strong>FAQ</strong></a></li>
+        <li id="faqlatest"><a href="/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest <strong>Position</strong></a></li>
+	<li id="contactnav"><a href="/contact.php" title="Contact Ryan">Contact <strong>Ryan</strong></a></li>
+        <li id="shopnav"><a href="/shop.htm" title="Shop"><strong>Shop</strong></a></li>
+</ul>
+</div>
+<div id="sidebar">
+
+
+<form method="get" action="http://www.theroadislife.com/cgi-bin/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="15" /> <input type="submit" value="Search" style="margin-left: 0px;" />
+</form>
+
+<h3>What is this place?</h3>
+
+<p>This is the personal website of <a href="http://www.theroadislife.com/about.htm">
+Ryan Henderson</a>, set up as a travelogue to chronicle his attempt to circumnavigate the world without traveling by air.  His trip started October 7th, 2005. <a href="http://www.theroadislife.com/faq.htm">
+More...</a></p>
+
+<h3>Donate $10 and get a personalized postcard from us...</h3>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHLwYJKoZIhvcNAQcEoIIHIDCCBxwCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYAWHVejvHIKXsdLyWGmKzTV6OgJ39cd2BUdZQI2zDr90bsj2KbLrH1QJJhHGeHd6GB/6isn8Zwp9Whz2lnjgh3zwOBBiqTOFsY6b2LKYi/1urRbHleifcuLyHGe1Ti7ywEsyxTt5qnJ kY2rZtn/YcYz6qUk3D2OdpgDti6fj7dTzELMAkGBSsOAwIaBQAwgawGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIYSxzj5p8J0OAgYjon/HKJfRHzvq72WXpWBPc/Wne8SbvW2wzFMS9Ef5Ox2871Col 9OcfVNIyQwC6/BsEXef41D0SI8hR6TI4Fpq1e2R 0fhs0WwpMfE0ldhXRj5GfH92xa8On5kEgzeiz7 LrRutjtDLCDAkK05k9i8dJZklPRg0fIfYdQiS5MAoB5gpa9kKHXwoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k 6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4 axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P IobhOGJr85 XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMDUwOTIyMTgzNzE5WjAjBgkqhkiG9w0BCQQxFgQUuqbqumtfiqCEc8x og1lLNXL6OUwDQYJKoZIhvcNAQEBBQAEgYBH/V5Zmbi3ovqpE5m1N15 Xr0/dNbzjwOoQTtqRu7gVWvF4LEF UgfOn5GK cWzfhqmk19kjoTomTPrRvmbcvmtwbut5/zkcqClOsoBdQxLgakr1BAlT/0Vi P8Y9ImhWT3OjD9qxVPOedhmdJ9JUC kqA5MDSP8JoncS4yyimVA==-----END PKCS7-----
+">
+</form>
+
+<p>Any amount is welcome. However every donation of $10 USD or more and you'll recieve a personal postcard from <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">wherever</a> we are.</p>
+
+<h3>Photos</h3>
+
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=t&layout=v&source=user_tag&user=29888770@N00&tag=theroadislife"></script>
+</table>
+<tr><td align=right><a href="http://www.flickr.com/photos/theroadislife/">More...</a></td></tr>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+<h3>People We've Met Along The Way</h3>
+<ul>
+ <li><a href="http://www.sambradsworldtrip.blogspot.com/" title="Sam and Brad's World Trip">Sam and Brad's World Trip</a><br>
+We met these two on a bus from Cambodia to Vietnam and travelled with them througout Southern Vietnam. </li>
+  <li><a href="http://www.einsteinno1.de/" title="Far Away">Polish Pete</a><br>
+I met up with Pete in Singapore.  We travelled through Singapore, Malaysia, Thailand and Laos together.</li>
+  <li><a href="http://www.danigrab.com/" title="Dani Grab">Dani Grab</a><br>
+We met him in El Salvador, while Brian was suffering with Dengue Fever. He's now finished cycling the Americas - Top to Bottom</li>
+  <li><a href="http://www.svsohcahtoa.com/" title="Sohcahtoa">Sohcahtoa</a><br>
+We found these guys in Vava'u, Tonga.  They're sailing their own boat around the world. Amazing.</li>
+ </ul>
+
+<h3>Sites I visit often</h3>
+ <ul>
+  <li><a href="http://wvs.topleftpixel.com/" title="daily dose of imagery">[Daily Dose of Imagery]</a><br>
+A new photo each day</li>
+  <li><a href="http://www.dooce.com/" title="www.dooce.com">Dooce</a><br>
+Aimed squarely at women and mothers but I like it anyway</li>
+  <li><a href="http://www.kottke.org/" title="www.kottke.org">kottke.org</a><br>
+Home of fine hypertext products</li>
+ </ul>
+<br>
+<script type="text/javascript" src="http://technorati.com/embed/7u8cdsnteg.js"> </script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ56j8zwEaCHvU9tBAqJJaKMu293M";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<a name="startcontent" id="startcontent"></a>
+
+<div id="main">
+
+
+
+<div class="post">
+<h2>July 14, 2006</h2>
+
+
+<h1 id="a000115">Comment Spam</h1>
+
+<p>NOUMEA, NEW CALEDONIA - I'm getting swamped.  The old entries on this site are being flooded with comment spam.   There are literally thousands of junk comments.  The trouble is, I have to read each and every one of them to determine if they're fake or not. With the time involved I simply can't afford to do this at Internet cafés.  I've spent 1500 francs (15 USD) today alone deleting them.</p>
+
+<p>I see two options: First, I could require each commenter to log in.   I don't like it either, but I don't know what else to do.  Let me know what you think; would you create a log in and sign in every time to leave a comment?  If you don't like it, let me know.</p>
+
+<p>The other option is for a trustworthy person with a reliable Internet and a little time on their hands to volunteer to help me filter the comments.  Once under control it'd only take a few minutes every couple days....  anybody?</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/07/comment_spam.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/07/comment_spam.htm#comments">Comments (7)</a>
+
+</div>
+</div>
+
+
+
+
+<div style="margin-bottom:20px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "CECBBD";
+google_color_bg = "FFFFFF";
+google_color_link = "6B9ACE";
+google_color_url = "947D73";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+<div class="post">
+<h2>September 20, 2005</h2>
+
+
+<h1 id="a000018">Feedback</h1>
+
+<p>Well this is it.  You're looking at what, I imagine, will be the design of this site for some time.  There are still a few small changes and additions that I'll make, but for the most part, it's done.</p>
+
+<p>I wouldn't have made it this far if it wasn't for the help of both <a href="http://www.cre8d-design.com/">Rachel Cunliffe</a> and <a href="http://www.bensaunders.com/">Ben Saunders</a>.   Rachel has been working with me over the last several weeks to get this site to do what I want; her expertise and insight has proved invaluable.  Ben, on the other hand was able to step in last minute to make some key aesthetic changes.    What you see now is a result of both of their efforts.   I can't thank them enough.</p>
+
+<p>So please, if you have a moment take a look around.  Let me know what works, and what doesn't.  Either send me an email, or leave a comment at the end of this post, all constructive feedback is, of course, welcome.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/09/feedback.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/09/feedback.htm#comments">Comments (5)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 18, 2005</h2>
+
+
+<h1 id="a000017">Ben Saunders - Athlete, Adventurer, Web-Designer</h1>
+
+<p>No matter what you do in life, there is somebody, somewhere is doing it much better.  This is a truth that proves itself to me nearly everyday.  Everywhere I go, people are doing things better than I'll ever do.  <i>(I'm not complaining... merely commenting on it.)</i></p>
+
+<p><a href="http://www.bensaunders.com/">Ben Saunders</a> is certainly no exception to this rule. Here's a guy, who's roughly my age who's managed to ski cross-country, on his own from Siberia to Canada.  At 25 he was the youngest person to reach the North Pole.  Over the past few weeks I've been watching his website.  So far he's: <br />
+<ul><li>Announced that in Oct 2006 he and a friend are doing a 1,800-mile, four-month round trip, from the coast of Antarctica to the South Pole and back. No dogs, no vehicles, no kites, no resupplies.  Details <a href="http://www.south.com/">here</a>.</li><br />
+  <li>Crashed his car at 70 mph on a London motorway.</li><br />
+  <li>Took off to Spain for a long weekend.</li><br />
+<li>Ducked over to NYC.</li><br />
+<li>Ran 18 miles in 2 hours in Central Park.</li><br />
+<li>Flew back to the U.K. to run a duathalon the next day.</li><br />
+</ul></p>
+
+<p>At some point he's found the time to start a <a href="http://www.ninezerodesign.com/">web-design business</a> and agreed to help me with the colour scheme of this site.  Check back over the next couple days,  I expect you'll see a new and improved site very soon.  In the meantime, I'll be watching Ben's site closely;   he's doing a lot of things that I wish I was doing.  I'm hoping I'll be able to draw some inspiration from him and his website.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/09/south.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/09/south.htm#comments">Comments (2)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+
+
+<h1 id="a000017">Ben Saunders - Athlete, Adventurer, Web-Designer</h1>
+
+<p>No matter what you do in life, there is somebody, somewhere is doing it much better.  This is a truth that proves itself to me nearly everyday.  Everywhere I go, people are doing things better than I'll ever do.  <i>(I'm not complaining... merely commenting on it.)</i></p>
+
+<p><a href="http://www.bensaunders.com/">Ben Saunders</a> is certainly no exception to this rule. Here's a guy, who's roughly my age who's managed to ski cross-country, on his own from Siberia to Canada.  At 25 he was the youngest person to reach the North Pole.  Over the past few weeks I've been watching his website.  So far he's: <br />
+<ul><li>Announced that in Oct 2006 he and a friend are doing a 1,800-mile, four-month round trip, from the coast of Antarctica to the South Pole and back. No dogs, no vehicles, no kites, no resupplies.  Details <a href="http://www.south.com/">here</a>.</li><br />
+  <li>Crashed his car at 70 mph on a London motorway.</li><br />
+  <li>Took off to Spain for a long weekend.</li><br />
+<li>Ducked over to NYC.</li><br />
+<li>Ran 18 miles in 2 hours in Central Park.</li><br />
+<li>Flew back to the U.K. to run a duathalon the next day.</li><br />
+</ul></p>
+
+<p>At some point he's found the time to start a <a href="http://www.ninezerodesign.com/">web-design business</a> and agreed to help me with the colour scheme of this site.  Check back over the next couple days,  I expect you'll see a new and improved site very soon.  In the meantime, I'll be watching Ben's site closely;   he's doing a lot of things that I wish I was doing.  I'm hoping I'll be able to draw some inspiration from him and his website.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/09/south.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/09/south.htm#comments">Comments (2)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 14, 2005</h2>
+
+
+<h1 id="a000016">Latest Position - New Feature!</h1>
+
+<p>The 'Latest Position' link on the horizontal navigation bar is finally operational.   Previously when anybody clicked on the link it brought up one of those disappointing 'coming soon' messages.   Now it brings up a map of the world, which I, of course, intend to update as we travel.  Have a look...</p>
+
+<p>Feedback is welcome.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/09/latest_position.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/09/latest_position.htm#comments">Comments (2)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 07, 2005</h2>
+
+
+<h1 id="a000013">Wedding Crashers</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/41154460/" title="Photo Sharing"><img src="http://static.flickr.com/25/41154460_d91830ee64_m.jpg" align="left" width="240" height="152" hspace="10" vspace="10" alt="Todd and Ryan (Wedding Crashers)" /></a></p>
+
+<p>My roommate created this image on his 'spare' time at work.  I personally think it's a little strange.  I can't help but feel like he's going to snap sooner, rather than later, and kill me in my sleep.  I'm just waiting for the slightest thing to set him off. </p>
+
+<p>The true purspose of this post, however, is to see if I can master enough html to have the text appear to the right and below the picture, rather than just below it. </p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/09/_my_roommate_cr.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/09/_my_roommate_cr.htm#comments">Comments (0)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 05, 2005</h2>
+
+
+<h1 id="a000012">A Functional Website (At Last)</h1>
+
+<p>T-minus 4 weeks 'til departure and I can finally say that I've got a website that functions (and a keyboard too; <a href="http://www.theroadislife.com/archives/2005/08/you_get_what_yo.htm">the new one</a> came in).  Go ahead give the site a whirl.  I'm most proud of the horizontal navigation bar.  Every single link works now!  </p>
+
+<p>Probably the best decision I've made thus far was to shell out a bit of money for <a href="http://www.cre8d-design.com/">help</a> getting this site up and running. I would have been here a lifetime, and still not have been successful, if I'd done it myself.   For the next few days, if you're looking for content, try the horizontal nav bar above this entry; the links work, but as of right now there isn't any content.  Most of my effort will be focused on updating the <a href="http://www.theroadislife.com/faq.htm">FAQ</a> section.</p>
+
+<p>As always, I'm interested in hearing what others have to say about the  site.  Feel free to leave your comments below or use the '<a href="http://www.theroadislife.com/contact.php">Contact Ryan</a>' link.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/09/a_functional_we.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/09/a_functional_we.htm#comments">Comments (0)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 31, 2005</h2>
+
+
+<h1 id="a000011">Comments</h1>
+
+<p>I think I've finally figured out how to get the comments configured for this site.  From what I've read online, there seems to be a lot of paranoia about '<a href="http://en.wikipedia.org/wiki/Blog_spam">comment spam</a>' out there these days by people who seem to know about what they're talking about.</p>
+
+<p>With that in mind, I've configured the site so that anyone can comment on pretty much anything I post. If you're registered with <a href="http://www.sixapart.com/typekey/">TypeKey</a>, then you should be able to comment without difficulty.  If you'd prefer not to register, then you can still comment, it just won't appear until I've approved it.  The point of the approval process is to prevent spammers from flooding this site with comments that link to life-time supplies of Vi*gra and interest free mortgages.</p>
+
+<p>I'm interested in finding out how it all works, if it needs to be changed then I'll change it.  So...ummmm... you can all start commenting now...  Anybody?</p>
+
+<p><i>*Edit - I've changed my mind.  I'll add restrictions as I need them, for now anybody can comment.</i></p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/08/comments.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/08/comments.htm#comments">Comments (2)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 23, 2005</h2>
+
+
+<h1 id="a000009">Moving Right Along - Cre8d Design</h1>
+
+<p>It's now less than 6 weeks before our set departure date, the countdown is on. I can't help but spend most of my time going over all the various loose ends and tasks I need to complete before we leave.</p>
+
+<p>The web sight design is moving along nicely.  I've enlisted the help of Rachel Cunliffe at <a href="http://www.cre8d-design.com/">Cre8d Design</a>.  She's a Kiwi web developer who specializes in blogs, community and small business websites.   Provided she can wade through my sea of indecision and flagrant flip-flopping of ideas, I think you might see a nice, user friendly site in the near future. </p>
+
+<p>And in other news, I've purchased a small (<a href="http://search.ebay.com/Dell-Latitude-L400-256_W0QQfkrZ1QQfromZR8">and very cheap</a>) laptop <a href="http://www.pcmag.com/article2/0,1759,91369,00.asp">computer</a> on eBay to accompany me on my adventure,  it'll serve as a spot to hold photos, compose entries for this site and generally keep me organized. </p>
+
+<p>Next on the list is a new pair of shoes.  My New Balance runners are getting worse everyday.  It's hard to give up a favorite pair of shoes, but alas, it's time to let go.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/08/moving_right_al.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/08/moving_right_al.htm#comments">Comments (0)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>July 19, 2005</h2>
+
+
+<h1 id="a000005">Problem #1: Website Design</h1>
+
+<p>Over the last few days, I've been putting a lot of thought into what I want this site to actually look like.  Surprisingly, I've got a lot of ideas.  But again, I'm faced with the real possiblity that I could spend a lifetime trying to get the little blue globe in the banner centered over the sidebar, and still not succeed.  </p>
+
+<p>I've decided that the best way to solve my first <a href="http://www.theroadislife.com/archives/2005/07/barriers_to_ent.htm">barrier to entry</a> is to throw money at the problem and see if I can't get it to go away.   I've started exploring some options to have this site professionally designed so that it looks good and stays functional.  Provided I can find somebody willing to take on the task I might be able to get away without too much damage to my bankroll.  Surprisingly I wasn't able to find many people willing to perform this type of service... even for money.</p>
+
+<p>I did manage to find a few though:</p>
+
+<ul>
+<li><a href="http://www.cre8d-design.com/">Cre8d Design</a></li>
+<li><a href="http://sekimori.com/">Sekimori Design</a></li>
+<li><a href="http://www.blogmoxie.com/">Moxie Design Studios</a></li>
+</ul>
+
+<p>For some reason every designer I've found appears, at least on the surface, to be directing their marketing efforts at the female demographic.  Though that doesn't mean they aren't perfectly capable of putting my own ideas into practice. Besides, beggars can't be choosers.  </p>
+
+<p>I've included a screenshot of what the site looks like at the time of posting to provide context to this post, just in case I actually go through with it and end up with a new site design.</p>
+
+<p><a href="http://www.theroadislife.com/archives/images/theroadiscrap3.jpg"><img alt="theroadiscrap3.jpg" src="http://www.theroadislife.com/archives/images/theroadiscrap3-thumb.jpg" width="307" height="230" /></a></p>
+
+<p>p.s. Maybe things won't be so bad.  I've managed to include links, an unordered list and an embedded image that actually functions as a thumbnail; definitely pushing the envelope, but still, it all seems to work.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/07/problem_website.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/07/problem_website.htm#comments">Comments (0)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>July 18, 2005</h2>
+
+
+<h1 id="a000004">Barriers To Entry</h1>
+
+<p>When I break it down, there are really only two serious barriers to entry into this whole travelog thing; (1) I have no experience with any sort of technical web-design and (2) I can't write, though I'm confident both can be overcome with a healthy dose of initiative and/or money.</p>
+
+<p>Everything but the most basic HTML continues to elude me.  I've taken enough <a href="http://www.w3schools.com">online tutorials</a> to know that I know nothing. This dismal fact is amplified by the fact that I don't have a single friend who does this kind of thing.</p>
+
+<p>As far as the actual writing goes, it may be a little bit of an exageration (but not much) to say I can't write. I've spent many nights staying up way too late, cranking out university research papers.  I hardly count this as experience though, not because it was more than 4 years ago, but as I remember it, I spent most of my time in awe of the kind of garbage one could smear on paper and still escape with decent marks.  It was a perverse game with no winners.  I'm now stuck with nothing but a tired and cliched longing that I'd paid more attention in school.</p>
+
+<p>If I'm going to <a href="http://www.kottke.org/02/04/on-writing">learn to write</a>, I need practice.  For some very egotistical reasons I've chosen to practice here, in this public forum available to anybody who stumbles by.   For now, I'll take solace in the fact that I'm on my own out here, I'm fairly certain that even <a href="http://www.google.com">google</a> doesn't yet know I exist.  That's okay; for the time being, I'm happy writing to myself.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2005/07/barriers_to_ent.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2005/07/barriers_to_ent.htm#comments">Comments (0)</a>
+
+</div>
+</div>
+
+
+</div>
+
+<div id="footer">
+
+<p>&copy; 2005 Ryan Henderson | <a href="http://www.theroadislife.com/index.xml">RSS</a> | <a href="http://www.movabletype.org">Movable Type</a> </p>
+
+</div></div>
+
+</body>
+</html>

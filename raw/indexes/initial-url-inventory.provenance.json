@@ -1,0 +1,4 @@
+{
+  "requested_url": "https://web.archive.org/cdx/search/cdx?url=theroadislife.com&matchType=domain&output=json&filter=statuscode:200&collapse=urlkey&fl=timestamp,original,mimetype,statuscode,digest",
+  "note": "Initial discovery response saved via curl before the downloader was implemented. HTTP headers and exact retrieval timestamp were not recorded. This is an all-date inventory of unique URLs, not every capture."
+}

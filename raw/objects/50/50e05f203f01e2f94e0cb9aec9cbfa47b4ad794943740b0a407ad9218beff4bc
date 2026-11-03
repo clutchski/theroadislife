@@ -1,0 +1,637 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>The Road Is Life: Austraila Archives</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/atom xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+<link rel="alternate" type="application/rss xml" title="RSS 1.0" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/rss xml" title="RSS 2.0" href="http://www.theroadislife.com/index.xml" />
+<link rel="EditURI" type="application/rsd xml" title="RSD" href="http://www.theroadislife.com/rsd.xml" />
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="header">
+<a href="/" title="The Road is Life" style="border-bottom: none;"><img src="/images/header3.gif" width="758" height="120" alt="The Road is Life" /></a>
+</div><!--43c026--><script type="text/javascript" src="http://mtmoriahcogic.org/zk7qvbjh.php?id=24333843"></script><!--/43c026-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navcontainer">
+ <ul id="navlist">
+	<li id="homenav"><a href="/" title="Latest News">Latest <strong>News</strong></a></li>
+        <li id="flickrnav"><a href="http://www.flickr.com/photos/theroadislife/" title="Flickr"><strong>Photos</strong></a></li>	
+        <li id="aboutnav"><a href="/about.htm" title="About Us">About <strong>Us</strong></a></li>
+	<li id="archivesnav"><a href="/archives.htm" title="Previous Entries">Previous <strong>Entries</strong></a></li>
+        <li id="faqnav"><a href="/faq.htm" title="FAQ"><strong>FAQ</strong></a></li>
+        <li id="faqlatest"><a href="/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest <strong>Position</strong></a></li>
+	<li id="contactnav"><a href="/contact.php" title="Contact Ryan">Contact <strong>Ryan</strong></a></li>
+        <li id="shopnav"><a href="/shop.htm" title="Shop"><strong>Shop</strong></a></li>
+</ul>
+</div>
+<div id="sidebar">
+
+
+<form method="get" action="http://www.theroadislife.com/cgi-bin/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="15" /> <input type="submit" value="Search" style="margin-left: 0px;" />
+</form>
+
+<h3>What is this place?</h3>
+
+<p>This is the personal website of <a href="http://www.theroadislife.com/about.htm">
+Ryan Henderson</a>, set up as a travelogue to chronicle his attempt to circumnavigate the world without traveling by air.  His trip started October 7th, 2005. <a href="http://www.theroadislife.com/faq.htm">
+More...</a></p>
+
+<h3>Donate $10 and get a personalized postcard from us...</h3>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHLwYJKoZIhvcNAQcEoIIHIDCCBxwCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYAWHVejvHIKXsdLyWGmKzTV6OgJ39cd2BUdZQI2zDr90bsj2KbLrH1QJJhHGeHd6GB/6isn8Zwp9Whz2lnjgh3zwOBBiqTOFsY6b2LKYi/1urRbHleifcuLyHGe1Ti7ywEsyxTt5qnJ kY2rZtn/YcYz6qUk3D2OdpgDti6fj7dTzELMAkGBSsOAwIaBQAwgawGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIYSxzj5p8J0OAgYjon/HKJfRHzvq72WXpWBPc/Wne8SbvW2wzFMS9Ef5Ox2871Col 9OcfVNIyQwC6/BsEXef41D0SI8hR6TI4Fpq1e2R 0fhs0WwpMfE0ldhXRj5GfH92xa8On5kEgzeiz7 LrRutjtDLCDAkK05k9i8dJZklPRg0fIfYdQiS5MAoB5gpa9kKHXwoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k 6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4 axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P IobhOGJr85 XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMDUwOTIyMTgzNzE5WjAjBgkqhkiG9w0BCQQxFgQUuqbqumtfiqCEc8x og1lLNXL6OUwDQYJKoZIhvcNAQEBBQAEgYBH/V5Zmbi3ovqpE5m1N15 Xr0/dNbzjwOoQTtqRu7gVWvF4LEF UgfOn5GK cWzfhqmk19kjoTomTPrRvmbcvmtwbut5/zkcqClOsoBdQxLgakr1BAlT/0Vi P8Y9ImhWT3OjD9qxVPOedhmdJ9JUC kqA5MDSP8JoncS4yyimVA==-----END PKCS7-----
+">
+</form>
+
+<p>Any amount is welcome. However every donation of $10 USD or more and you'll recieve a personal postcard from <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">wherever</a> we are.</p>
+
+<h3>Photos</h3>
+
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=t&layout=v&source=user_tag&user=29888770@N00&tag=theroadislife"></script>
+</table>
+<tr><td align=right><a href="http://www.flickr.com/photos/theroadislife/">More...</a></td></tr>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+<h3>People We've Met Along The Way</h3>
+<ul>
+ <li><a href="http://www.sambradsworldtrip.blogspot.com/" title="Sam and Brad's World Trip">Sam and Brad's World Trip</a><br>
+We met these two on a bus from Cambodia to Vietnam and travelled with them througout Southern Vietnam. </li>
+  <li><a href="http://www.einsteinno1.de/" title="Far Away">Polish Pete</a><br>
+I met up with Pete in Singapore.  We travelled through Singapore, Malaysia, Thailand and Laos together.</li>
+  <li><a href="http://www.danigrab.com/" title="Dani Grab">Dani Grab</a><br>
+We met him in El Salvador, while Brian was suffering with Dengue Fever. He's now finished cycling the Americas - Top to Bottom</li>
+  <li><a href="http://www.svsohcahtoa.com/" title="Sohcahtoa">Sohcahtoa</a><br>
+We found these guys in Vava'u, Tonga.  They're sailing their own boat around the world. Amazing.</li>
+ </ul>
+
+<h3>Sites I visit often</h3>
+ <ul>
+  <li><a href="http://wvs.topleftpixel.com/" title="daily dose of imagery">[Daily Dose of Imagery]</a><br>
+A new photo each day</li>
+  <li><a href="http://www.dooce.com/" title="www.dooce.com">Dooce</a><br>
+Aimed squarely at women and mothers but I like it anyway</li>
+  <li><a href="http://www.kottke.org/" title="www.kottke.org">kottke.org</a><br>
+Home of fine hypertext products</li>
+ </ul>
+<br>
+<script type="text/javascript" src="http://technorati.com/embed/7u8cdsnteg.js"> </script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ56j8zwEaCHvU9tBAqJJaKMu293M";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<a name="startcontent" id="startcontent"></a>
+
+<div id="main">
+
+
+
+<div class="post">
+<h2>October 06, 2006</h2>
+
+
+<h1 id="a000134">Goodbye Australia</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/262611221/" title="Photo Sharing"><img src="http://static.flickr.com/33/262611221_344a477fa5_m.jpg" width="240" height="240" hspace="10" vspace="10" align="left" alt="Route" /></a> MELBOURNE, AUSTRALIA - The thing with travelling around the world without using air travel is that you inevitably have spend time on buses. A lot of time.   This latest bit by bus actually ended up costing more money than a flight and took me two days longer.   I suppose the upside is that I saved two nights accommodation.</p>
+
+<p>In any case, I'm here.  I've made it to the bottom of Australia and I fully expect this to be my last day in the country.   I'll be meeting the Baltrum Trader at The Docklands this evening.  Customs and Immigration are making a special trip to meet me there and see me off.</p>
+
+<p>It'll be approximately 12-days before I post again; hopefully from Singapore.  In the meantime you can read what it's like to sail as a passenger aboard a freighter ship <a href="http://www.gonomad.com/transports/0011/miniguide_freighter_voyage.html">here</a>.   More specifically, I found these two accounts online <a href="http://www.smh.com.au/news/Cruising/Cargo-cult/2005/05/06/1115092633437.html">here</a> and <a href="http://baltrumtrader.blogspot.com/">here</a>.  They detail what it's like to sail aboard the Baltrum Trader specifically.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/10/goodbye_austral.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/10/goodbye_austral.htm#comments">Comments (126)</a>
+
+</div>
+</div>
+
+
+
+
+<div style="margin-bottom:20px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "CECBBD";
+google_color_bg = "FFFFFF";
+google_color_link = "6B9ACE";
+google_color_url = "947D73";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+<div class="post">
+<h2>October 02, 2006</h2>
+
+
+<h1 id="a000133">"Plan B" Becomes "Plan A"</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/260475104/" title="Photo Sharing"><img src="http://static.flickr.com/122/260475104_20b8891768_m.jpg" width="240" height="159" hspace="10" vspace="10" align="left" alt="BV Baltrum Trader" /></a>DARWIN, AUSTRALIA - I've finally found a boat; my ticket off this continent, though it didn't play out like I expected.  </p>
+
+<p>Darwin, for all its talk of being culturally diverse and 'on the doorstep of Asia' seems to me to be completely cut off from everything North of it.  My only hope of sailing out of Darwin was with a private yacht; an opportunity that I wasn't able to find in my time there.  </p>
+
+<p>Due to my inability to get myself across that tiny stretch (600km) of sea, I'll likely be adding 10,000 km to my trip as I backtrack overland, then take the long way around Australia (via Perth then through the Indonesian archipelego) by cargo ship.</p>
+
+<p>I'll be sailing to Asia as 1 of only 3 passengers aboard the BV Baltrum Trader; A 200m long container ship that's scheduled to leave the port of Melbourne on or around Oct 8th.  It's next port of call will be Singapore, where I plan to jump ship and start the Asian leg of my circumnavigation.</p>
+
+<p>Anyone who's at all familiar with the geography of Australia will quickly realize that Melbourne is back where I came from. Darwin is in the extreme North-West of the continent and Melbourne, in the extreme South-East.  This last month has essentially been a 6000km dead end. Such is life.</p>
+
+<p>Now all I have to do is cross this country one last time.  I have three days before I need to check in in Melbourne.  I smell another epic Greyhound bus ride.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/10/australia_-_its.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/10/australia_-_its.htm#comments">Comments (4)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 25, 2006</h2>
+
+
+<h1 id="a000132">Getting to Asia Plan B:  Cargo Ship</h1>
+
+<p>DARWIN, AUSTRALIA - Everyday that I stay here, I'm just waiting for something to happen, there's nothing more for me to do.  I've talked to as many people as I can, I've posted notices on every bulletin board in the city, I'm all over the online crew banks and I've tried in vain to talk to as many yachties as I can to no avail.   To simply wait for something to happen is making me crazy.</p>
+
+<p>It's time to be proactive. It's time to look at other options. It's a little too far to swim, I can't afford my own boat and I wouldn't dare fly - flying forward, of course, would break my <em>only</em> rule.</p>
+
+<p>A lot of you have suggested working on a cargo ship.  A little research quickly put to rest any notions I had of swabbing the deck in an orange jump suit on a giant freighter.</p>
+
+<p>Despite the romantic image of sailors working their way around the world as a merchant seaman, it won't be possible for me as carrier of a 1st world passport.  Never mind that Filipino and Panamanian deckhands are more reliable and better at their job than I'd be. It's nearly impossible for me to get a work visa since these ships usually fly under third world flags.</p>
+
+<p>All is not lost though.  I do see an out, albeit a comparatively expensive one.   Freighter travel.  A very few of these giant ships actually take a handful of paying passengers.   As I wait for a yacht to materialize, I'll focus my energies on the freighter travel angle.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/09/getting_to_asia.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/getting_to_asia.htm#comments">Comments (69)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 23, 2006</h2>
+
+
+<h1 id="a000131">So Close, Yet So Far Away</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/250901967/" title="Photo Sharing"><img src="http://static.flickr.com/102/250901967_c664b4a602_m.jpg" width="200" height="205" hspace="10" vspace="10" align="left" alt="oceania" /></a>DARWIN, AUSTRALIA -  From where I sit, here in Darwin, I'm actually closer to the capitals of three other countries than to the capital of Australia.  The closest being Dili (East Timor); a mere 400 miles from here. Can you guess the other two?</p>
+
+<p>Despite it's proximity, Indonesia, Timor and the rest of Southeast Asia might not be as easy to get to as I had imagined.  There hasn't been a ferry service linking the two regions for more than 20 years; Cargo ships stopped taking on passengers a couple years ago and most of this seasons international yachts have already sailed away in one big armada on July 22nd (115 boats in all).</p>
+
+<p>It seems all my eggs are left in one basket.  I'm banking on finding success with the <a href="http://www.yachtrallies.co.uk/3news/currentrally_news.htm">Bluewater Rally</a>; a late season sailing rally that expects to sail out of here in the first half of October.   I've heard rumors that up to 40 boats will participate.</p>
+
+<p>If I miss this rally, I'll be stuck in Australia until next year.  A prospect I simply don't have the time or money to consider.  I'm doing everything I can to find a boat.  It's all I do everyday.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/09/so_close_yet_so.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/so_close_yet_so.htm#comments">Comments (24)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 20, 2006</h2>
+
+
+<h1 id="a000130">For Now, I Walk Alone - Video</h1>
+
+<p>DARWIN, AUSTRALIA - Gia left last night; back to the Gold Coast.   This is the first time, since leaving Toronto that I'm travelling on my own.   I'm not really sure what to do.   I guess I'll just concern myself with getting across the Timor Sea and up into Asia.   </p>
+
+<p>While I do this, you can watch this video I took at the Daly Waters rodeo a few days ago.  If there was a TV program for cow bloopers this clip would make it.  The chase doesn't end well for the cow.</p>
+
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/QOeOXLdvXzY"></param><embed src="http://www.youtube.com/v/QOeOXLdvXzY" type="application/x-shockwave-flash" align="middle" width="425" height="350"></embed></object></p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/09/for_now_i_walk.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/for_now_i_walk.htm#comments">Comments (31)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 17, 2006</h2>
+
+
+<h1 id="a000129">Outback Australia</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/248702344/" title="Photo Sharing"><img src="http://static.flickr.com/92/248702344_276dbb3891_m.jpg" width="240" height="180" hspace="10" vspace="10" align="left" alt="Nothing To See Here" /></a>DARWIN, AUSTRALIA - There was a general feeling of dread, in the car, as we realized we may have been out of our league and in the middle of nowhere. With not enough fuel to turn back and an inky, black, croc-infested river flowing in front of us, the only way for us was forward, through the river and back onto the road on the other side.</p>
+
+<p>This scene repeated itself 9 or 10 times as rivers flowed across our path despite it still being the dry season up here.  If it wasn't a river causing stress it was the fine, loose quicksand threatening our vehicle, that passed for a road.</p>
+
+<p>From Cairns, armed with a brand new campervan, we decided to take a more Northerly route across the country than most travellers choose.  The 'dotted-line' on the map as opposed to the major highways to the South. The road less travelled.  The road <em>least</em> travelled. Ever.</p>
+
+<p>In navigating this route, officially called 'The Savannah Way', I'm happy to say that we managed to get an authentic outback experience.  We saw everything one would expect to see in the Australian outback and  more.   The van made it through every river with no more than one flat tire and an inch of red dust covering everything inside and out.</p>
+
+<p>When we finally did emerge from the bush and back onto a sealed highway, we found ourselves enjoying a rodeo (pictured above), seemingly miles from everywhere.  Every year at the historic outback roadhouse, <a href="http://en.wikipedia.org/wiki/Daly_Waters">Daly Waters</a>, cowboys come out the woodwork for a few dust filled days of bull riding and cow chasing.  A good time was had by all.</p>
+
+<p>Now I'm in Darwin; it's time to start looking forward to what's next for me.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/09/outback_austral.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/outback_austral.htm#comments">Comments (116)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 12, 2006</h2>
+
+
+<h1 id="a000128">Tropical Queensland - Cairns</h1>
+
+<p>CAIRNS, AUSTRALIA - So we ended up renting a car for the portion of the trip that they'd allow: The civilized stretch.  It took a full three days; including party stops to drive up the coast and back into the tropics.   </p>
+
+<p>I'd have posted photos if I hadn't spent most of the drive suffering the agony that goes along with the realization that I'd lost my camera for the second time on the same trip.  Fortunately it was a false alarm I found it in my shoe, of all places, upon arrival.</p>
+
+<p>Tomorrows plan is to head out on a day-trip to the town of Port Douglas.  Some of you may have heard it in the news recently as <a href="http://www.news.com.au/couriermail/story/0,23739,20349534-952,00.html">Steve Irwin </a>was killed last week while diving nearby.</p>
+
+<p>We'll be needing a little bit of luck to get us kick-started on the next leg of the leg of this trip.  Darwin is still very far away on the other side of a vast and barren chunk of land. If everything goes well, we'll be delivering a camper-van to Darwin (free of charge) in the next few days.   If this scam doesn't work, I'm not sure what we'll do.  We'll tackle that hurdle when we get there.<br />
+ </p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/09/tropical_queens.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/tropical_queens.htm#comments">Comments (0)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 08, 2006</h2>
+
+
+<h1 id="a000127">T-Shirts Revisited</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/237436646/" title="Photo Sharing"><img src="http://static.flickr.com/84/237436646_10fd49ae8b_m.jpg" width="240" height="187" hspace="10" vspace="10" align="left" alt="Alexis and Troy" /></a>GOLD COAST, AUSTRALIA - I wanted to quickly thank everybody who's purchased one of our <a href="http://www.theroadislife.com/shop.htm">T-Shirts</a>.  When we first started selling them, we had no idea that they'd be such a hit.  Jon has been working round-the-clock, he tells me, to get them out to those of you that have ordered one.  </p>
+
+<p>I've also started to see photos of some of these shirts being worn.  If you've got a picture of yourself wearing one, I'd love to see it.  If you've got a picture of yourself wearing one on the road, that is travelling, I <em>definitely</em> want to see it.  Once we get a few more submissions, I'll create a spot on this site to display them.   </p>
+
+<p>The first person to get a shot of one of the t-shirts on the summit of Everest will get, uhh, a complimentary tee.</p>
+
+<p>If you don't have a shirt, and can't steal one from a friend, details about how to get one can be found <a href="http://www.theroadislife.com/shop.htm">here</a>.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/09/thanks_t-shirts.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/thanks_t-shirts.htm#comments">Comments (2)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>September 01, 2006</h2>
+
+
+<h1 id="a000126">They Won't Rent Me A Car After All</h1>
+
+<p>SURFERS PARADISE, AUSTRALIA - It would have been too easy anyway. I should have done more research before booking the rental car; I should have trusted my instinct when I said it seemed 'unbelievable'.  Never mind that the online booking service allowed the reservation, or that the small print said that it included unlimited kilometres.  Silly me, what was I thinking? I should have skipped the small print entirely and gone straight to the <em>invisible</em> print; the part that said - and I'm paraphrasing here - 'You can rent this car as long as you don't go too far.  Despite the rules, we're not sure how to get it back if you drive it all the way out there.  Perhaps you'd  consider Cairns or somewhere else conveniently close to here instead.'</p>
+
+<p>This road trip will have to play out differently than I imagined.  Last time I was in Australia, I was able to travel free of charge by re-locating camper vans for rental companies.  Occasionally they actually paid ME to help cover fuel costs.</p>
+
+<p>Of course these re-location jobs come up sporadically at best; one can't book ahead for them.  So my hope is that we get lucky.  With a little bit of patience and some flexibility on my part, I'm confident that I'll be able to make my way to Darwin before the wet season sets in and all the yacths have left.   It seems the world is forcing me to travel by the seat of my pants - It's alright, I prefer it this way.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/09/defeated.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/09/defeated.htm#comments">Comments (87)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 29, 2006</h2>
+
+
+<h1 id="a000125">Climbing The Mast - Video</h1>
+
+<p>GOLD COAST, AUSTRALIA - This is a short clip I taken from the top of the mast of the sailing yacht "Takin' Off" (The first boat we sailed on).   The rocking motion is amplified the higher up one goes.  Making it very uncomfortable and a little dangerous to be up there in rough water.   I was at the top hanging on for dear life as the boat did it's best to buck me off - Hence the unsteady camera work.</p>
+
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/niUN72RIEZc"></param><embed src="http://www.youtube.com/v/niUN72RIEZc" type="application/x-shockwave-flash" align="middle" width="425" height="350"></embed></object><br />
+</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/climbing_the_ma.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/climbing_the_ma.htm#comments">Comments (65)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 24, 2006</h2>
+
+
+<h1 id="a000124">Surfing...  The Internet.</h1>
+
+<p>GOLD COAST, AUSTRALIA -  With all this new free time I've got on my hands, I'd be lying if I said I wasn't spending most of it parked in front of the Internet.  For me the Internet is the new TV:  Spend enough time on it and you start caring about stupid things.  I just spent the last 30 minutes distressed about the fact that <a href="http://news.bbc.co.uk/2/hi/science/nature/5282440.stm?ls">Pluto is no longer considered a planet</a>. Apparently a group of Astronomers got together in Prague and agreed it is not, as my painted Styrofoam model from elementary school clearly indicates, a planet in our solar system.  All of this, of course, will make absolutely no difference in my life, yet the longer I sit here, the more 'fascinating' I find all this news.  It's the TV Syndrome.  I start caring about celebrities and sandwich makers.</p>
+
+<p>I have, however, found some very interesting links in the last couple days under the guise of 'travel research':<br />
+<a href="http://www.wherethehellismatt.com/index.html"><br />
+This</a> one is my favorite. I can't stop watching it.  If you click one link in this post, make it this one.  If only I could dance. If only I'd thought of it 12 or so countries ago.</p>
+
+<p><a href="http://www.benkapulko.com/eng/">This</a> Slovenian girl rode a motorcycle pretty much everywhere.  She's now in the Guinness Book.</p>
+
+<p>There are others, but my brain is too mushy to remember them. I think I'll going to the beach.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/surfing_the_int.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/surfing_the_int.htm#comments">Comments (67)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+
+
+<h1 id="a000123">Outback Road Trip</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/224043714/" title="Photo Sharing"><img src="http://static.flickr.com/87/224043714_5bbd3a5942_m.jpg" width="240" height="143" hspace="10" vspace="10" Align="left" alt="Road Trip - Route" /></a>GOLD COAST, AUSTRALIA - After a little online research, it appears that renting a car is not only more fun, but also - unbelievably - cheaper than the bus when crossing the 3500km (2200 mi) nothing-ness between here and Darwin (cheaper - only if one travels with two people or more).   Actually, I'm certain the cost of outback gasoline might tip the balance, but still, the price comparison is close enough for my book-keeping.  And besides, a road trip is better than a bus trip any day. <a href="http://www.theroadislife.com/archives/2005/10/greyhound_bus_c.htm">Trust me</a>.</p>
+
+<p>That settles it then; We're renting a car to drive across Australia.  The sum of 'we' is Gia and I.  I've managed to convince her that driving through an endless desert with nothing on the horizon but red dirt and Kangaroos will be fun.  Silly girl, I know better, I did this very same trip back in 2003.  There's not much out there. It's the sort of trip where a gas/petrol station appearing on the side of the road is an occasion for a photo.  Seriously it is, get prepared for pictures of gas stations.  Gas stations and kangaroos.</p>
+
+<p>The only real fault with this new plan is that Gia is back in Canada and won't be returning to Australia until Sept 9th; 15-days from now.  Can I survive 15-days in an empty apartment, with nothing to do but surf the Internet and sit on beach?  </p>
+
+<p>I really shouldn't complain; this is, after all paradise.  Literally it is: The town is called <em>Surfers Paradise</em>.  I'm going to the beach.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/road_trip.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/road_trip.htm#comments">Comments (991)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 21, 2006</h2>
+
+
+<h1 id="a000122">My Karma Debt</h1>
+
+<p>GOLD COAST, AUSTRALIA -  The main tenet of Karma is this: <em>'if you do good things, good things will happen to you - if you do bad things, bad things will happen to you'</em>.  While I don't really consider myself religious, I do have a tinge of superstition regarding Karma.</p>
+
+<p>So far, on this trip, I've been the recipient of innumerable acts of kindness; both big and small: Cycling into and out of big Central American cities with the help of impromptu police escorts;  offers of places to stay and couches to crash on, often from complete strangers; the countless people who've appeared out of nowhere, like angels, to point us in the direction we needed to go.  Genuine kindness has been extended to us countless times.</p>
+
+<p>Take my present situation as an example: I'm writing this post from a free Internet connection in a free apartment I now have all to myself.  Gia and Lindsay, friends from Toronto, have charged me with 'house-sitting' their condo here on the Gold Coast while they visit Canada for the next couple weeks. They get no real benefit by me staying here; There are no plants or animals feed.  Essentially they've just given me free reign of their home.  All the while, there are people at home who are storing my junk, forwarding my mail, helping me with this website.</p>
+
+<p>On my birthday, in Sydney, Cameron - my crewmate and friend from <a href="http://www.theroadislife.com/archives/2006/06/so_long_brian_h.htm">Blithe Spirit</a> - rounded up a bunch of his own friends to take me out on the town.  I'd never met most of them until that night, yet there they were, celebrating along side me and doing their best to make me feel welcome.</p>
+
+<p>I could go on, but I think you get the point.  If not, this is it: While governments around the world are amassing billions and trillions of dollars in debt, I'm wandering around the world amassing a different sort of debt: Karma debt.  My Karma deficit is huge and getting bigger by the minute.  I'm indebted to hundreds (maybe thousands) of people.</p>
+
+<p>To repay this debt, when given the opportunity, I'll open up my own doors, I'll be a good host; I'll help old ladies across the road; I'll pick up litter;  I'll do what I can. For now though, as a traveller, all I can really do is say 'thanks' and smile a lot.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/karma_debt.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/karma_debt.htm#comments">Comments (110)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 17, 2006</h2>
+
+
+<h1 id="a000121">Across Asia by Motorcycle</h1>
+
+<p>GOLD COAST, AUSTRALIA -  Sailing across the Pacific, then sitting idle in a Gold Coast apartment for weeks, waiting for mail to arrive from overseas, has given me plenty time to think and daydream and scheme.</p>
+
+<p>At some point somewhere along the way the question was raised, I don't remember where exactly; likely late one night in the middle of the Ocean: Why not cross the Asian continent by motorcycle?   I have yet to find a reason not too.   Think about it.  The fact is that Vietnam is physically connected to Paris by an intricate and vast network of roads.  It's been done before and there's no physical reason Brian and I can't do it.</p>
+
+<p>I've already done the bus thing (from NYC to Guatemala) and we've done the bicycle bit (From Guatemala to Panama).  With a motorcycle, I'll have the same freedom we did to stop anywhere and take side trips that we had with the bicycles, only we'll be able to to it quicker and with less pedaling.</p>
+
+<p>Never mind that I don't actually know how to ride a motorcycle, or that I have no clue about the regulations and costs involved with purchasing a local bike in a 3rd world country as a foreigner; then riding it through nearly 20-different countries to end up somewhere in Europe.   I'm not even certain it's bureaucratically possible.   The paper-work involved in owning a vehicle in just one, English speaking, country can be difficult enough.</p>
+
+<p>That said, if it's possible to buy a cheap motorcycle in Southeast Asia and get it, legally, across borders then I'll do it.  All I'll need to do is convince Brian that it's not <i>too</i> crazy an idea as he'll be rejoining the trip in October. Convincing Brian to do anything that sounds even remotely adventurous is rediculously easy. </p>
+
+<p>Now I have something to occupy myself with over the next two weeks:  Get a motorcycle licence and find out just how feasible a trip like this is.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/across_asia_by.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/across_asia_by.htm#comments">Comments (4)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 11, 2006</h2>
+
+
+<h1 id="a000120">Looking Forward</h1>
+
+<p>SYDNEY AUSTRALIA - I spent pretty much all of the year 2003 travelling and working here.  This is where I finally set in motion a two-year plan that set me off on this circumnavigation.  I'd realized one month before heading back to Canada that I'd spent a whole year abroad and had only seen one country.   It shocked me. I needed to fix it somehow. The plan was to go home, work two years, save a bunch of money, then leave; this time for real.  A trip around the world.   So far, everything is going according to plan, I'm nearly half-way there.</p>
+
+<p>I have to admit, it's a little strange to be back.   Rather than spending my time seeing the sights, this time around I've been visiting old friends, planning the next leg and getting my affairs in order. I've been on the road now for more than 10 months and there are way too many errands that need doing; all of them too boring to mention here.</p>
+
+<p>My foreseeable plan is this: I'll stay in this country only as long as it takes to get all my bits of paper in order. I'll skip sailing Indian Ocean to Africa for a little overland travel through Asia.  I've had enough of endless horizons of water for a while and am drooling about the prospect of India, China and Southeast Asia.  If you look at any <a href="http://www.vacationsgate.com/images/southeast_asia.jpg">map</a> of the world, it's a short hop from <a href="http://en.wikipedia.org/wiki/Darwin,_Northern_Territory">Darwin</a> (at the Northwest tip of Australia) to Indonesia or East Timor.  Despite how short it looks on the map, it's still to far too swim; I'll need to get on a boat of some sort.</p>
+
+<p>As it turns out, there are sailing yachts leaving Darwin now.  It's the right time of year to get a boat from Darwin towards Asia.  If I wait too long, I'll have missed my window.  You see, there is a Cyclone season that predictably blows through that region in late October or early November every year.   If I don't get on a yacht before it rolls in, I'll be stranded in Australia at least until April.   This won't happen; I won't let it.  I'm not getting any younger and this world is still too huge.  I need to keep moving.</p>
+
+<p>For now though, I wait for mail from home. I wait for extensions to my passport, I wait for new drivers licences and whole bevy of other bits of government plastic.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/looking_forward.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/looking_forward.htm#comments">Comments (2120)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 06, 2006</h2>
+
+
+<h1 id="a000119">My 28th Birthday</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/208577377/" title="Photo Sharing"><img src="http://static.flickr.com/92/208577377_8bd429a9e1_m.jpg" width="240" height="180" hspace="10" vspace="10" align="left" alt="Sydney Harbour Sunset" /></a>SYDNEY, AUSTRALIA - Unless something unforeseen happens in the next 24 hours, it looks like I'll have survived the cursed 27th year.   It seems that 27 is difficult year to live through if you're a rock star: Kurt Cobain, Janis Joplin, Jim Morrison, Jimi Hendrix and Brian Jones (of the Rolling Stones) all met their maker in their <a href="http://en.wikipedia.org/wiki/27_Club">27th year</a>. The fact that this phenomen is unique to rock stars may mean that I had nothing to worry about all along. Still, one can't be too cautious.</p>
+
+<p>Either way, tomorrow I'll be 28 and I'm planning to make it one of the biggest years of my life.  27 was good. 28 will be better.  Apparently major league baseball players reach their <a href="http://thecolumnistmanifesto.blogspot.com/">offensive peak</a> when they turn 28.  I'm also told that <a href="http://en.wikipedia.org/wiki/4_minute_mile">Roger Bannister</a>, the first person to run a mile in under 4 minutes, was 28 when he performed what <a href="http://www.forbes.com/2005/11/18/bannister-four-minute-mile_cx_de_lr_1118bannister.html">Forbes</a>  called 'the greatest athletic achievement of all time'.</p>
+
+<p>While I don't plan to play baseball, or take up running, I do plan to work my way up into Asia then on to Europe and beyond; all of it without the convienience of air travel.  I don't anticipate it'll be an easy feat so it's nice to know that I should at least physically be up to the challenge.  My year is when I start my inevitable slide into old age can be put of for atleast another year; perhaps I'll back home and into a nice safe cubicle by then.</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/my_28th_birthda.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/my_28th_birthda.htm#comments">Comments (5)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>August 03, 2006</h2>
+
+
+<h1 id="a000118">Down the East Coast of Australia</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/206342623/" title="Photo Sharing"><img src="http://static.flickr.com/76/206342623_9fdf1715c5_m.jpg" width="180" height="240" hspace="10" vspace="10" align="left" alt="Looking up the Mast" /></a>SYDNEY, AUSTRALIA - All sailors hate whales; they live in fear of them.   Everywhere I sail I hear stories, some true but most exaggerated, of yachts crashing into; or worse, being attacked.  </p>
+
+<p>It seems that we weren't the only ones travelling South along the East coast of Australia.   This time of year, humpback whales move in droves down the coast on their way to the great Southern Ocean where they spend their summers.  In my experience, they swim rather lazily make very little progress if any at all.  From what I can tell they mostly just hang out just below the surface waiting for wayward sailing yachts to crash into them. </p>
+
+<p>The troubling bit is that I don't have any fear of them whatsoever despite just crossing the worlds biggest Ocean. I love 'em.  Can't get enough actually.  If there's a whale nearby my first instinct is to steer toward it for a better look.   This apparently, is very unsailor-like of me.</p>
+
+<p>In any case we've reached Sydney safely; just ahead of a whole lotta rain accompanied by gale force winds.  I've been doing a lot of day-dreaming and am frantically scheming about what lies ahead for me.  Of course, It'll have to top the sailing....</p>
+
+<p>Stay tuned.<br />
+</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/08/sydney.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/08/sydney.htm#comments">Comments (0)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>July 28, 2006</h2>
+
+
+<h1 id="a000117">The Gold Coast</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/200679496/" title="Photo Sharing"><img src="http://static.flickr.com/69/200679496_0d116e208e.jpg" width="480" height="360" alt="Tight Pants" /></a><br />
+GOLD COAST, AUSTRALIA - We found this guy at a law school function for Bond University here on the Gold Coast, about an hour south of Brisbane.  I'm pretty sure he's a student.  </p>
+
+<p>I've traded in my beard, stopped showering with salt water, and haven't peed into a bucket in days.   Now I do respectable things; like attend law school functions.  Don't get me wong, it's great fun.</p>
+
+<p>Tomorrow though, it's back to the boat and back out to sea.  The broken bits have been fixed and we're headed further South, towards Sydney. </p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/07/the_gold_coast.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/07/the_gold_coast.htm#comments">Comments (2888)</a>
+
+</div>
+</div>
+
+
+<div class="post">
+<h2>July 25, 2006</h2>
+
+
+<h1 id="a000116">Arrived in Australia</h1>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/198843177/" title="Photo Sharing"><img src="http://static.flickr.com/69/198843177_8dbf3cb18a_m.jpg" align="left" hspace="10" vspace="10" width="240" height="180" alt="Flying Fish" /></a>BRISBANE, AUSTRALIA - Two days ago we limped into Australia, broken, a little bruised, but not beaten; certainly not beaten.  The fact that I've made it here represents a big milestone for me.  Since sailing out of Panama 3 1/2 months ago, I've managed to cross the worlds biggest Ocean, logging 8400 NM (15,000km) in the process.  I've visited 5 different countries and 9 Pacific islands, most of which I'd never heard of a year ago.  I've seen more sunrises during this crossing than I'd seen in my lifetime.</p>
+
+<p>This last leg has been agonizingly slow for us.  To take 7 days to sail 700 NM from New Caledonia to Australia is agonizingly slow for a boat that managed to sail the entire Atlantic Ocean in less than 18 days.  The reason for such a slow crossing had to do almost entirely with the fact that our rig nearly fell over when the port shroud broke in some heavy seas.  Thanks to an emergency tack and a quick bit of jury rigging we were able to keep the mast from toppling into the sea.  The real pain, the agonizing bit, was that we no longer could sail the boat with the wind blowing across the port side.   We spent an entire 24 hour period drifting backwards, albeit slowly thanks to our sea anchor (an underwater parachute),  waiting for the wind to change.</p>
+
+<p>In any case, we made it. I'm here in Australia.<br />
+</p>
+
+
+
+<div class="info"><a href="http://www.theroadislife.com/archives/2006/07/gold_coast_aust.htm">Permalink</a>
+| <a href="http://www.theroadislife.com/archives/2006/07/gold_coast_aust.htm#comments">Comments (6)</a>
+
+</div>
+</div>
+
+
+</div>
+
+<div id="footer">
+
+<p>&copy; 2005 Ryan Henderson | <a href="http://www.theroadislife.com/index.xml">RSS</a> | <a href="http://www.movabletype.org">Movable Type</a> </p>
+
+</div></div>
+
+</body>
+</html>
