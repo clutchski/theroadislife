@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<travels>
+<location arrival="2005-10-01">
+  <name>Toronto, ON</name>
+  <latitude>43.654N</latitude>
+  <longitude>79.384W</longitude>
+</location>
+<location arrival="2005-10-07">
+  <name>New York, NY</name>
+  <latitude>40.783N</latitude>
+  <longitude>73.966W</longitude>
+</location>
+<location arrival="2005-10-17">
+  <name>Pittsburgh, PA</name>
+  <latitude>40.355N</latitude>
+  <longitude>79.922W</longitude>
+</location>
+<location arrival="2005-10-17">
+  <name>Indianapolis, IN</name>
+  <latitude>39.690N</latitude>
+  <longitude>86.065W</longitude>
+</location>
+<location arrival="2005-10-18">
+  <name>St Louis, MO</name>
+  <latitude>38.657N</latitude>
+  <longitude>90.656W</longitude>
+</location>
+<location arrival="2005-10-19">
+  <name>Tulsa, OK</name>
+  <latitude>36.140N</latitude>
+  <longitude>95.920W</longitude>
+</location>
+<location arrival="2005-10-19">
+  <name>Albuquerque, NM</name>
+  <latitude>35.111N</latitude>
+  <longitude>106.737W</longitude>
+</location>
+<location arrival="2005-10-20">
+  <name>Phoenix, AZ</name>
+  <latitude>33.4990N</latitude>
+  <longitude>111.982W</longitude>
+</location>
+<location arrival="2005-10-20">
+  <name>Riverside (L.A.), CA</name>
+  <latitude>33.975N</latitude>
+  <longitude>117.636W</longitude>
+</location>
+<location arrival="2005-10-20">
+  <name>San Diego, CA</name>
+  <latitude>32.715N</latitude>
+  <longitude>117.156W</longitude>
+</location>
+<location arrival="2005-10-27">
+  <name>Rosarito/Tijuana, MX</name>
+  <latitude>32.333N</latitude>
+  <longitude>117.033W</longitude>
+</location>
+<location arrival="2005-10-29">
+  <name>Guerrero Negro, MX</name>
+  <latitude>27.970N</latitude>
+  <longitude>114.050W</longitude>
+</location>
+<location arrival="2005-10-30">
+  <name>La Paz, Cabo San Lucas, MEXICO</name>
+  <latitude>24.150N</latitude>
+  <longitude>110.370W</longitude>
+</location>
+<location arrival="2005-11-06">
+  <name>Los Mochis, Creel, Chihuahua, MX</name>
+  <latitude>28.700N</latitude>
+  <longitude>105.967W</longitude>
+</location>
+<location arrival="2005-11-12">
+  <name>MEXICO - Zacatecas, Guanajuato, Morelia, Mexico City</name>
+  <latitude>19.430N</latitude>
+  <longitude>99.070W</longitude>
+</location>
+<location arrival="2005-11-19">
+  <name>Oaxaca, MX</name>
+  <latitude>16.967N</latitude>
+  <longitude>96.733W</longitude>
+</location>
+<location arrival="2005-11-23">
+  <name>MEXICO - Zipolite, San Cristóbal de Las Casas, Palenque</name>
+  <latitude>16.750N</latitude>
+  <longitude>92.630W</longitude>
+</location>
+<location arrival="2005-12-03">
+  <name>GUATEMALA - Flores, Rio Dulce/Livingstone, Coban, Antigua,  Guatemala City, Lago Atitlan</name>
+  <latitude>16.920N</latitude>
+  <longitude>89.900W</longitude>
+</location>
+<location arrival="2006-01-11">
+  <name>El Salvador</name>
+  <latitude>13.604N</latitude>
+  <longitude>89.243W</longitude>
+</location>
+<location arrival="2006-01-26">
+  <name>HONDURAS - Tegucigalpa, Gracias, Utila</name>
+  <latitude>14.050N</latitude>
+  <longitude>87.217W</longitude>
+</location>
+<location arrival="2006-02-17">
+  <name>NICARAGUA - Leon, Granada, San Juan Del Sur, Ometepe</name>
+  <latitude>12.400N</latitude>
+  <longitude>86.900W</longitude>
+</location>
+<location arrival="2006-03-08">
+  <name>COSTA RICA - Guapiles, Puerto Viejo</name>
+  <latitude>10.150N</latitude>
+  <longitude>83.920W</longitude>
+</location>
+<location arrival="2006-03-22">
+  <name>PANAMA - Bocas Del Toro, David, Panama City</name>
+  <latitude>8.580N</latitude>
+  <longitude>79.320W</longitude>
+</location>
+<location arrival="2006-04-26">
+  <name>Galapagos, Ecuador</name>
+  <latitude>0.758S</latitude>
+  <longitude>90.316W</longitude>
+</location>
+<location arrival="2006-05-26">
+  <name>Hiva Oa, Marquesas, French Polynesia</name>
+  <latitude>13.100S</latitude>
+  <longitude>140.400W</longitude>
+</location>
+<location arrival="2006-06-07">
+  <name>Papeete, Tahiti, French Polynesia</name>
+  <latitude>17.480S</latitude>
+  <longitude>149.400W</longitude>
+</location>
+<location arrival="2006-06-28">
+  <name>Vava'u, Kingdom of Tonga</name>
+  <latitude>18.600S</latitude>
+  <longitude>174.000W</longitude>
+</location>
+<location arrival="2006-07-13">
+  <name>Noumea, New Caledonia</name>
+  <latitude>22.270S</latitude>
+  <longitude>166.450E</longitude>
+</location>
+<location arrival="2006-07-23">
+  <name>Brisbane, Australia</name>
+  <latitude>27.380S</latitude>
+  <longitude>153.100E</longitude>
+</location>
+<location arrival="2006-09-12">
+  <name>Cairns, Australia</name>
+  <latitude>16.886S</latitude>
+  <longitude>145.755E</longitude>
+</location>
+<location arrival="2006-09-16">
+  <name>Daly Waters, Australia</name>
+  <latitude>16.500S</latitude>
+  <longitude>132.500E</longitude>
+</location>
+<location arrival="2006-09-18">
+  <name>Darwin, Australia</name>
+  <latitude>12.400S</latitude>
+  <longitude>130.860E</longitude>
+</location>
+<location arrival="2006-10-07">
+  <name>Melbourne, Australia</name>
+  <latitude>37.673.400S</latitude>
+  <longitude>144.843E</longitude>
+</location>
+<location arrival="2006-10-11">
+  <name>Furthest Point From Home</name>
+  <latitude>38.000S</latitude>
+  <longitude>115.000E</longitude>
+</location>
+<location arrival="2006-10-13">
+  <name>Tropic of Capricorn</name>
+  <latitude>23.000S</latitude>
+  <longitude>110.000E</longitude>
+</location>
+<location arrival="2006-10-15">
+  <name>Between Lombuk and Bali</name>
+  <latitude>8.000S</latitude>
+  <longitude>116.000E</longitude>
+</location>
+<location arrival="2006-10-20">
+  <name>Singapore</name>
+  <latitude>1.337N</latitude>
+  <longitude>103.917E</longitude>
+</location>
+<location arrival="2006-10-24">
+  <name>MALAYSIA - Kuala Lumpur, Cameron Highlands, Pangkor, Penang</name>
+  <latitude>2.717N</latitude>
+  <longitude>101.700E</longitude>
+</location>
+<location arrival="2006-11-02">
+  <name>THAILAND - Phuket, Phi Phi, Koh Samui, Koh Tao, Bangkok, Chiang Mai, Chiang Khong</name>
+  <latitude>13.3837N</latitude>
+  <longitude>100.600E</longitude>
+</location>
+<location arrival="2006-12-01">
+  <name>LAOS - Huay Xai, Luang Prabang, Vang Vieng, Vientienne, Si Phan Don, Pakse</name>
+  <latitude>19.900N</latitude>
+  <longitude>102.100E</longitude>
+</location>
+<location arrival="2006-12-16">
+  <name>THAILAND - Ubon Ratchathani, Bangkok</name>
+  <latitude>13.383N</latitude>
+  <longitude>100.600E</longitude>
+</location>
+<location arrival="2007-01-13">
+  <name>CAMBODIA - Siem Reap, Angkor Wat, Phnom Penh</name>
+  <latitude>11.6N</latitude>
+  <longitude>104.800E</longitude>
+</location>
+<location arrival="2007-01-20">
+  <name>VIETNAM - Ho Chi Minh City (Saigon), Dalat, Nha Trang, Hoi An, Hanoi, Halong Bay</name>
+  <latitude>21.020N</latitude>
+  <longitude>105.800E</longitude>
+</location>
+<location arrival="2007-02-01">
+  <name>Beijing, China</name>
+  <latitude>40.000N</latitude>
+  <longitude>116.250E</longitude>
+</location>
+<location arrival="2007-02-08">
+  <name>SOUTH KOREA - Seoul, Busan</name>
+  <latitude>35.100N</latitude>
+  <longitude>129.000E</longitude>
+</location>
+<location arrival="2007-03-22">
+  <name>JAPAN - Fukuoka, Hiroshima, Tokyo, Nagoya, Kyoto, Osaka</name>
+  <latitude>35.600N</latitude>
+  <longitude>139.880E</longitude>
+</location>
+<location arrival="2007-04-01">
+  <name>Shanghai, China</name>
+  <latitude>31.417N</latitude>
+  <longitude>121.450E</longitude>
+</location>
+<location arrival="2007-04-07">
+  <name>Beijing, China</name>
+  <latitude>40.000N</latitude>
+  <longitude>116.250E</longitude>
+</location>
+<location arrival="2007-04-12">
+  <name>Ulanbataar, Mongolia</name>
+  <latitude>46.109N</latitude>
+  <longitude>108.720E</longitude>
+</location>
+<location arrival="2007-04-22">
+  <name>Irkutsk, Russia</name>
+  <latitude>52.274N</latitude>
+  <longitude>104.267E</longitude>
+</location>
+<location arrival="2007-04-28">
+  <name>Moscow, Russia</name>
+  <latitude>55.752N</latitude>
+  <longitude>37.617E</longitude>
+</location>
+<location arrival="2007-05-03">
+  <name>St. Petersburg, Russia</name>
+  <latitude>59.940N</latitude>
+  <longitude>30.340E</longitude>
+</location>
+<location arrival="2007-05-06">
+  <name>Tallinn (Estonia), Riga (Latvia), Vilnius (Lithuania)</name>
+  <latitude>57.270N</latitude>
+  <longitude>24.780E</longitude>
+</location>
+<location arrival="2007-05-14">
+  <name>POLAND - Warsaw, Krakow</name>
+  <latitude>52.200N</latitude>
+  <longitude>21.000E</longitude>
+</location>
+<location arrival="2007-05-18">
+  <name>CZECH REPUBLIC - Prague</name>
+  <latitude>50.320N</latitude>
+  <longitude>13.500E</longitude>
+</location>
+<location arrival="2007-05-23">
+  <name>GERMANY - Berlin, Cologne</name>
+  <latitude>56.500N</latitude>
+  <longitude>14.150E</longitude>
+</location>
+<location arrival="2007-05-28">
+  <name>HOLLAND - Amsterdam</name>
+  <latitude>52.740N</latitude>
+  <longitude>5.680E</longitude>
+</location>
+<location arrival="2007-06-01">
+  <name>ENGLAND - London, South Hampton</name>
+  <latitude>51.533N</latitude>
+  <longitude>0.083E</longitude>
+</location>
+<location arrival="2007-06-10">
+  <name>New York</name>
+  <latitude>40.783N</latitude>
+  <longitude>73.966W</longitude>
+</location>
+<location arrival="2007-06-11">
+  <name>Toronto</name>
+  <latitude>43.654N</latitude>
+  <longitude>79.384W</longitude>
+</location>
+</travels>
+

@@ -1,0 +1,503 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>The Road Is Life: Greyhound Bus Crash in Missouri</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS 1.0" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.theroadislife.com/index.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.theroadislife.com/rsd.xml" />
+
+<link rel="start" href="http://www.theroadislife.com/" title="Home" />
+<link rel="prev" href="http://www.theroadislife.com/archives/2005/10/mexico_bound.htm" title="Mexico Bound" />
+
+<link rel="next" href="http://www.theroadislife.com/archives/2005/10/pacific_beach_-.htm" title="Pacific Beach - San Diego" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.theroadislife.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + (expires ? "; expires=" + expires : "") + (path ? "; path=" + path : "") + (domain ? "; domain=" + domain : "") + (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.theroadislife.com/archives/2005/10/greyhound_bus_c.htm"
+    trackback:ping="http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/37"
+    dc:title="Greyhound Bus Crash in Missouri"
+    dc:identifier="http://www.theroadislife.com/archives/2005/10/greyhound_bus_c.htm"
+    dc:subject="USA"
+    dc:description="Day 16 Sorry for the long delay between posts. Greyhound bus terminals have yet to catch on to the 21st century. Most of them sell cassette tapes, but none that I saw had even a hint of internet access. We..."
+    dc:creator="Ryan"
+    dc:date="2005-10-21T16:59:47-05:00" />
+</rdf:RDF>
+-->
+
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+<div id="header">
+<a href="/" title="The Road is Life" style="border-bottom: none;"><img src="/images/header3.gif" width="758" height="120" alt="The Road is Life" /></a>
+</div>
+
+<div id="navcontainer">
+ <ul id="navlist">
+	<li id="homenav"><a href="/" title="Latest News">Latest <strong>News</strong></a></li>
+	<li id="aboutnav"><a href="/about.htm" title="About Us">About <strong>Us</strong></a></li>
+	<li id="archivesnav"><a href="/archives.htm" title="Previous Entries">Previous <strong>Entries</strong></a></li>
+        <li id="faqnav"><a href="/faq.htm" title="FAQ"><strong>FAQ</strong></a></li>
+        <li id="faqlatest"><a href="/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">Latest <strong>Position</strong></a></li>
+	<li id="contactnav"><a href="/contact.php" title="Contact Ryan">Contact <strong>Ryan</strong></a></li>
+</ul>
+</div>
+<div id="sidebar">
+
+
+<form method="get" action="http://www.theroadislife.com/cgi-bin/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="15" /> <input type="submit" value="Search" style="margin-left: 0px;" />
+</form>
+
+<h3>What is this place?</h3>
+
+<p>This is the personal website of <a href="http://www.theroadislife.com/about.htm">
+Ryan Henderson</a>, set up as a travelogue to chronicle his attempt to circumnavigate the world without the use travel by air.  His trip started October 7th, 2005. <a href="http://www.theroadislife.com/faq.htm">
+More...</a></p>
+
+<h3>Donate $10 and get a personalized postcard from us...</h3>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+</form>
+
+<p>Any amount is welcome. However every donation of $10 USD or more and you'll recieve a personal postcard from <a href="http://www.theroadislife.com/latest.htm" onclick="window.open('http://www.theroadislife.com/latest.htm','popup','width=800,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=50'); return false" title="Latest Position">wherever</a> we are.</p>
+
+<h3><a href="http://www.theroadislife.com/forum/phpBB2/">Discussion Forums</a></h3>
+
+<h3>Photos</h3>
+
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+#flickr_icon_td {padding:0 5px 0 0 !important;}
+.flickr_badge_image {text-align:center !important;}
+.flickr_badge_image img {border: 1px solid black !important;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+</style>
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=t&layout=v&source=user_tag&user=29888770%40N00&tag=theroadislife"></script>
+</table>
+<tr><td align=right><a href="http://www.flickr.com/photos/theroadislife/">More...</a></td></tr>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+<h3>Sites I visit often</h3>
+ <ul>
+  <li><a href="http://wvs.topleftpixel.com/" title="daily dose of imagery">[Daily Dose of Imagery]</a><br>
+A new photo each day</li>
+  <li><a href="http://www.bensaunders.com/" title="www.bensaunders.com">Ben Saunders</a><br>
+Artic adventurer extraordinaire</li>
+  <li><a href="http://www.kottke.org/ title="www.kottke.org">kottke.org</a><br>
+Home of fine hypertext products</li>
+ </ul>
+<br>
+<script type="text/javascript" src="http://technorati.com/embed/7u8cdsnteg.js"> </script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ56j8zwEaCHvU9tBAqJJaKMu293M";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<a name="startcontent" id="startcontent"></a>
+
+<div id="main">
+
+<p align="right">
+<a href="http://www.theroadislife.com/archives/2005/10/mexico_bound.htm">&laquo; Mexico Bound</a> |
+
+<a href="http://www.theroadislife.com/">Main</a>
+| <a href="http://www.theroadislife.com/archives/2005/10/pacific_beach_-.htm">Pacific Beach - San Diego &raquo;</a>
+
+</p>
+
+<h2>October 21, 2005 04:59 PM</h2>
+
+<h1>Greyhound Bus Crash in Missouri</h1>
+
+<p><b>Day 16</b></p>
+
+<p><a href="http://www.flickr.com/photos/theroadislife/54923489/" title="Photo Sharing"><img src="http://static.flickr.com/31/54923489_dd94a9e699_m.jpg" width="240" height="180" hspace="10" vspace="10" align="left" alt="Front Tire" /></a><br />
+Sorry for the long delay between posts.  Greyhound bus terminals have yet to catch on to the 21st century.  Most of them sell cassette tapes, but none that I saw had even a hint of internet access.</p>
+
+<p>We arrived in San Diego (not Mexico) last night too late for me to update this site, but not too late to dip into the booze and meet some people at our new home for the next couple days; the Banana Bungalow on Pacific Beach.</p>
+
+<p>The bus ride wasn't nearly as boring as can be expected.  I could probably write a novel about the trip (if I could write a novel) but I'm going to stick to the dramatic events; the most dramatic, of course being the real, bonafide bus crash we were involved in.<a href="http://www.flickr.com/photos/theroadislife/54923657/" title="Photo Sharing"><img src="http://static.flickr.com/29/54923657_ad25d09552_m.jpg" width="240" height="180" hspace="10" vspace="10" align="right" alt="Broken Rims - Rear Tire" /></a></p>
+
+<p>We were about 30 or 40 minutes out of Springfield, MO on interstate 40 , speeding toward the West Coast and Mexico, I'm pretty sure everybody was asleep, including the driver.   One minute I was curled up dreaming of sunshine and lollipops, the next I was contemplating my chances of surviving a head on collision with a rock cut at 70 mph (115 km).   We were driving at full speed in a ditch.  The situation was scary to say the least, but turned into horror as we all realized that the driver was making no attempt to slow down.  We continued at speed for what may have been an entire mile within inches of an 8 foot high rock cut running along the side of the highway, before somebody from the rear of the bus made it to the front, busted through the gate 'protecting' the driver and steered the bus back into the road.<a href="http://www.flickr.com/photos/theroadislife/54924270/" title="Photo Sharing"><img src="http://static.flickr.com/29/54924270_595bce1931_m.jpg" width="240" height="180" vspace="10" hspace="10" align="left" alt="Front Bumper" /></a></p>
+
+<p>It wasn't until this point that the driver seemlingly woke up and began to take action.  The bus started to slow and he screamed something about blowing a tire and began applying the break.  Of course before the ordeal actually resolved we crossed the road into the centre median and nearly rolled over on the slope.  A good friend of mine, Turbo, would have described the bus as a 'silver screaming death machine.'</p>
+
+<p>People were screaming, babies were crying, as you can see, every tire on the right side was busted up bad, and overhead luggage was everywhere.  Greyhound marketed the event as as flat tire/breakdown and gave us a free lunch at the Terminal in Tulsa OK, to compensate for the 12 hour delay and having to spend the night. They didn't even call the police.  I however, did.</p>
+
+<p>We waited on the side of the road, people were complaining of back pain, the bus driver was clearly in shock.  Nobody was coming to save us.   After two hours I called the cops and the calvary arrived.  After the first cruiser got to the scene, he called for back-up.  Ambulances, fire-trucks and even news cameras arrived on the scene.</p>
+
+<p>In the end it didn't really amount to much, the tires were changed the cops shifts were about to end and we were mere miles from the state line.  The 12 or so of us who still hadn't been evacuated boarded<a href="http://www.flickr.com/photos/theroadislife/54924353/" title="Photo Sharing"><img src="http://static.flickr.com/27/54924353_70a7c84741_m.jpg" width="240" height="180" vspace="10" hspace="10" align="right" alt="Waiting...." /></a> the same busted up bus and drove to Tulsa.  We had no choice, there were no other buses coming, we were surround by Missouri wilderness.</p>
+
+<p>It delayed us more than 12 hours and would have put us crossing the border to Mexico in the wee hours; something we weren't prepared to do.  So, in the style we're quickly becoming used to we switched plans on the fly, unfortunately our luggage didn't get the message.  I'm not sure where it is.  Maybe the Mexican border, maybe LA, maybe deep in the bowels of the San Diego bus station.</p>
+
+<div id="a000040more"><div id="more">
+
+</div></div>
+
+
+<div style="margin-bottom:20px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9765345073665590";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "001094";
+google_color_url = "001094";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+
+<h2 id="trackbacks">Trackback Pings</h2>
+<p class="techstuff">TrackBack URL for this entry:<br />
+http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/37</p>
+
+
+
+
+
+<h2 id="comments">Comments</h2>
+<br>
+
+
+
+
+<div id="c95" class="evencomment">
+<b>Nikki </b> said:<br>
+<br>
+<p>hey,<br />
+i'm glad you guys are okay...my awesome (married) cousin from sudbury lives in san diego...i'll email you her number bt in case you want a place to stay or just something to do.<br />
+xoxo<br />
+nikki</p>
+</div>
+<div class="evencomment info">
+October 21, 2005 10:10 PM</div>
+
+
+
+
+<div id="c96" class="oddcomment">
+<b>Shannon O'Neill </b> said:<br>
+<br>
+<p>Wow....a real adventure already! Glad you two are ok. Btw...the Yucatan peninsula (and Cancun!) is being blasted by Hurricane Wilma so maybe you're better off for a few days! Good luck guys...hopefully you find your luggage!</p>
+</div>
+<div class="oddcomment info">
+October 22, 2005 09:53 AM</div>
+
+
+
+
+<div id="c97" class="evencomment">
+<b>jeni </b> said:<br>
+<br>
+<p>Jeez!!  Let the adventures begin.  Glad you guys are okay...reminded me of "Speed" when I was reading the bus story.  You've always said you wanted to live a bit more on the edge!<br />
+MISS YOU!!!<br />
+Hey, if you want to catch up with Ivana (Cleveland chum) let me know and I'll pass on her email.  she lives in San Diego somewhere.  <br />
+Have fun and BE CAREFUL!!!!  No more crazy bus crashes please!</p>
+</div>
+<div class="evencomment info">
+October 23, 2005 12:22 AM</div>
+
+
+
+
+<div id="c98" class="oddcomment">
+<b>sares </b> said:<br>
+<br>
+<p>holy ryan!!  you know how much i worry, what the heck!! and it isn't even a month into your adventure...but it is a good story (now that you are ok of course!!) have fun!! talk to you soon! miss you like the DICKENS!!<br />
+Saresxoxo</p>
+</div>
+<div class="oddcomment info">
+October 23, 2005 03:44 PM</div>
+
+
+
+
+<div id="c99" class="evencomment">
+<b><a target="_blank" title="http://metallica.com" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=99">TuRbo</a> </b> said:<br>
+<br>
+<p>test</p>
+</div>
+<div class="evencomment info">
+October 23, 2005 06:31 PM</div>
+
+
+
+
+<div id="c100" class="oddcomment">
+<b>gia </b> said:<br>
+<br>
+<p>That's crazy Ryan. I'm glad the both of you are ok. Please be careful. </p>
+
+<p>Sorry you lost your luggage. I guess it's a small price to pay for your safety. Keep safe, It's too early for tragic stories.</p>
+</div>
+<div class="oddcomment info">
+October 23, 2005 07:20 PM</div>
+
+
+
+
+<div id="c101" class="evencomment">
+<b><a target="_blank" title="http://www.theroadislife.com" href="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=red;id=101">Ryan</a> </b> said:<br>
+<br>
+<p>Yep...  4 days now and still no luggage.  I've managed to put together a great 'used clothing' wardrobe.   San Diego is good fun.  I promise a full update tomorrow.</p>
+</div>
+<div class="evencomment info">
+October 23, 2005 10:06 PM</div>
+
+
+
+
+<div id="c102" class="oddcomment">
+<b>jonathan </b> said:<br>
+<br>
+<p>I never missed the dickens.</p>
+</div>
+<div class="oddcomment info">
+October 23, 2005 11:25 PM</div>
+
+
+
+
+<div id="c103" class="evencomment">
+<b>ward </b> said:<br>
+<br>
+<p>Darn bus crashes...get yerself a good personal injury lawyer and sue the bastards...too bad Johnny Cochrane passed away this spring...it'd be right up his ally...</p>
+</div>
+<div class="evencomment info">
+October 24, 2005 05:25 PM</div>
+
+
+
+
+<div id="c105" class="oddcomment">
+<b>Nicole Alexis-Drummond </b> said:<br>
+<br>
+<p>Thank GOD you both are safe!!!!!! The trip will only get better for you.</p>
+
+<p>Mrs. D</p>
+</div>
+<div class="oddcomment info">
+October 25, 2005 09:06 AM</div>
+
+
+
+
+<div id="c107" class="evencomment">
+<b>Brenda Henderson </b> said:<br>
+<br>
+<p>Wow... what a bus ride.  Ryan, you are a great writer and after your trip is done, you should try to get this published.  I'm sure you'll have many more adventures to write about... just try to stay safe.   Got your postcard today... very nice.<br />
+Thank you.<br />
+</p>
+</div>
+<div class="evencomment info">
+October 25, 2005 05:08 PM</div>
+
+
+
+
+<div id="c108" class="oddcomment">
+<b>joe thacker </b> said:<br>
+<br>
+<p>Hey Ryan, just wanted to say thank you for putting those pics on the sight like you promised.  Between those pics and your commentary you summarized one of the worst nights i can recall.  Hope you are having fun traveling.</p>
+
+<p>               Joe(headlamp guy from the bus)</p>
+</div>
+<div class="oddcomment info">
+October 25, 2005 10:51 PM</div>
+
+
+
+
+<h2>Post a comment</h2>
+
+ 
+
+<script type="text/javascript" src="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi?__mode=cmtr_name_js"></script>
+
+
+
+<form method="post" action="http://www.theroadislife.com/cgi-bin/mt/mcom.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="40" />
+
+<div id="name_email">
+<p><label for="author">Name:</label><br />
+<input tabindex="1" id="author" name="author" /></p>
+
+<p><label for="email">Email Address:</label><br />
+<input tabindex="2" id="email" name="email" /></p>
+</div>
+
+<script language="javascript" type="text/javascript">
+<!--
+if (commenter_name) {
+    document.getElementById('name_email').style.display = 'none';
+}
+// -->
+</script>
+
+
+<p><label for="url">URL:</label><br />
+<input tabindex="3" type="text" name="url" id="url" />
+</p>
+
+<p>Remember This Information?
+<input type="radio" id="remember" onclick="rememberMe(this.form)" name="bakecookie" /><label for="remember">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Everybody is welcome to comment,  but please keep it safe for everybody to read.  Offensive, crass, anonymous and off-topic comments will be deleted.  HTML is allowed for style only.</label> <br/>
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<div align="center">
+<input type="submit" name="preview" tabindex="5"
+
+    value=" Preview " />
+<input style="font-weight: bold;" type="submit" name="post"
+    tabindex="6" value=" Post " />
+</div>
+</form>
+
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+if (document.comments_form.email != undefined)
+    document.comments_form.email.value = getCookie("mtcmtmail");
+if (document.comments_form.author != undefined)
+    document.comments_form.author.value = getCookie("mtcmtauth");
+if (document.comments_form.url != undefined)
+    document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth") || getCookie("mtcmthome")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+
+
+
+</div>
+
+<div id="footer">
+
+<p>&copy; 2005 Ryan Henderson | <a href="http://www.theroadislife.com/index.xml">RSS</a> | <a href="http://www.movabletype.org">Movable Type</a> </p>
+
+</div></div>
+
+</body>
+</html>

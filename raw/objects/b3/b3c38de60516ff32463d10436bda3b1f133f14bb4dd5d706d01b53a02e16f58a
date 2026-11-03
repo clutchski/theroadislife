@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>TheRoadisLife: Welcome!</title>
+
+<link rel="stylesheet" href="http://www.theroadislife.com/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.theroadislife.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.theroadislife.com/atom.xml" />
+
+<link rel="start" href="http://www.theroadislife.com/" title="Home" />
+
+<link rel="next" href="http://www.theroadislife.com/archives/2005/01/this_post_is_si.html" title="This Post is Simply a Test" />
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.theroadislife.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + (expires ? "; expires=" + expires : "") + (path ? "; path=" + path : "") + (domain ? "; domain=" + domain : "") + (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="banner">
+<h1><a href="http://www.theroadislife.com/" accesskey="1">TheRoadisLife</a></h1>
+<h2></h2>
+</div>
+
+<div class="content">
+
+<p align="right">
+
+<a href="http://www.theroadislife.com/">Main</a>
+| <a href="http://www.theroadislife.com/archives/2005/01/this_post_is_si.html">This Post is Simply a Test &raquo;</a>
+
+</p>
+
+<h2>January 29, 2005</h2>
+
+<h3>Welcome!</h3>
+
+<p>This is a new entry to test your Movable Type installation.<br />
+ <br />
+ We have installed Movable Type on your server and configured the paths for the initial weblog in the system per your request. Do <em>not</em> delete this weblog ("First Weblog") unless you know what you are doing, because it is already configured for your server.<br />
+ <br />
+ You also do <em>not</em> want to delete the author that has been created for this weblog. Edit the user information to change the name, password, or other information. It is <strong>strongly recommended</strong> that you enter your birthplace in the author information so that your password can be recovered if you lose it or forget it.<br />
+ <br />
+ This weblog is using the default Movable Type templates; if you wish to edit the style of this weblog yourself, you may find the <a href="http://www.movabletype.org/default_styles.shtml">Default Styles</a> to be useful. You can also edit the templates themselves; more information on template tags and customization is in <a href="http://www.theroadislife.com/mt-static/docs/mtmanual.html">the manual</a>.<br />
+ <br />
+ This entry is just for testing purposes, and can be deleted or edited whenever you wish. Thank you for choosing <a href="http://www.movabletype.org">Movable Type</a>!<br />
+ </p>
+
+<div id="a000001more"><div id="more">
+
+</div></div>
+
+<p class="posted">Posted by theroadislife at January 29, 2005 08:19 AM</p>
+
+
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Testing comments</p>
+</div>
+<p class="posted">Posted by: <a href="mailto&#58;rhenders&#64;gmail&#46;com">Ryan</a>  at January 29, 2005 09:42 AM</p>
+
+
+
+
+<h2>Post a comment</h2>
+
+ 
+
+
+
+<form method="post" action="http://www.theroadislife.com/cgi-bin/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1" />
+
+<div id="name_email">
+<p><label for="author">Name:</label><br />
+<input tabindex="1" id="author" name="author" /></p>
+
+<p><label for="email">Email Address:</label><br />
+<input tabindex="2" id="email" name="email" /></p>
+</div>
+
+
+
+<p><label for="url">URL:</label><br />
+<input tabindex="3" type="text" name="url" id="url" />
+Remember Me?
+<input type="radio" id="remember" onclick="rememberMe(this.form)" name="bakecookie" /><label for="remember">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" />
+</p>
+
+<p><label for="text">Comments:</label> <br/>
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<div align="center">
+<input type="submit" name="preview" tabindex="5" 
+    value="&nbsp;Preview&nbsp;" />
+<input style="font-weight: bold;" type="submit" name="post" 
+    tabindex="6" value="&nbsp;Post&nbsp;" />
+</div>
+</form>
+
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+if (document.comments_form.email != undefined)
+    document.comments_form.email.value = getCookie("mtcmtmail");
+if (document.comments_form.author != undefined)
+    document.comments_form.author.value = getCookie("mtcmtauth");
+if (document.comments_form.url != undefined)
+    document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth") || getCookie("mtcmthome")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+
+
+
+</div>
+</div>
+
+</body>
+</html>

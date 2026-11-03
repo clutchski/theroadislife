@@ -1,0 +1,40 @@
+html { margin-bottom: -1px; height: 100%;}
+body { margin: 0; padding: 0; color: #000; background: #222; font: 70%/1.5 Verdana, Arial, Helvetica, sans-serif; height: 100%;}
+#container { width: 758px; margin: 0 auto; padding:0; border-left: 1px solid #000; border-right: 1px solid #000; border-bottom: 1px solid #CFC9BC; background: #fff; min-height: 100%; }
+* html #container {height: 100%;}
+#header { margin:0; padding:0; width: 758px; height: 120px; }
+a #header { border: none; }
+#navcontainer { margin:0; padding: 0 20px; width:718px; height: 35px; background:#666 url(images/bg_nav.gif) repeat-x; border-bottom:1px solid #999; clear:left; overflow: hidden; }
+#navcontainer ul { border: 0; margin: 0; padding: 0; list-style-type: none; text-align: center; }
+#navcontainer ul li { display: block; float: left; text-align: center; padding: 0; margin: 0; }
+#navcontainer ul li a { border: 0; margin: 0; color: #fff; height: 28px; padding: 11px 12px; text-decoration: none; display: block; float: left; text-align: center; font: 11px/12px  Arial, Verdana, Geneva, Helvetica, sans-serif; text-transform: uppercase; word-spacing: -2px; }
+#navcontainer ul li#shopnav { float: right; }
+
+#navcontainer ul li a:hover { color: #fff; background:#111; }
+
+a img { border: none; }
+#main { padding: 10px 245px 0 30px; } 
+#main h1 { padding: 0; margin: 5px 0 10px 0; font: 22px/30px Arial, Helvetica, Geneva, Verdana, sans-serif; font-weight: normal; color:#333; }	
+#main h2 { padding: 0; margin: 20px 0 0 0; font: 1em/1.5em Arial, Helvetica, Geneva, Verdana, sans-serif; font-weight: normal; color:#333; text-transform: uppercase; }
+#main p { padding: 0 0 1em 0; margin: 0; font-size:1em;	line-height:1.7em; }	
+.post { margin-bottom: 2em; }
+.info { text-align: right; font-size:90%; margin:0; padding-bottom:5px; background: url(images/break.gif) bottom repeat-x; }
+#sidebar { float: right; width: 208px; padding: 0 0 0 10px; margin: 8px 10px 20px 0; background: url(images/sidebar.gif) left repeat-y;}	
+#footer { margin: 0 0 0 10px; padding: 0; text-align:left; color: #666; position: relative; clear: both; }
+#sidebar h3 { margin: 10px 10px 0 10px; padding: 0; color: #666; font-size: 15px; font-family: "lucida grande", Arial, Helvetica, Geneva, Verdana, sans-serif; font-weight: bold; position: relative; }
+#sidebar ul { margin: 10px;	padding: 0;	list-style: none; font-size: 0.9em;	line-height:1.2em;  }
+.spacer { border-bottom: 1px solid #CFC9BC; margin: 20px 40px; }
+.spacer hr { display: none; }
+#sidebar ul li { margin: 0.7em 0; padding: 0; }
+#sidebar .pic { border: 1px solid #CFC9BC; }
+#sidebar p { margin: 0 10px; padding: 0 0 5px 0; }
+a { text-decoration: none; color: #001192; font-weight:bold;}
+a:hover { color: #c60; }
+a:active, .error { text-decoration: none; color: #c60; }
+#sidebar a, #sidebar a:visited, #footer a, #footer a:visited { text-decoration: none; color: #001192; font-weight:bold;}
+#sidebar a:hover, #footer a:hover { color: #c60; }
+#sidebar a:active, #footer a:active { text-decoration: none; color: #EC7220; border-bottom: 1px dotted #EC7220; }
+input, textarea { font-family: Verdana, Arial, Helvetica, sans-serif; border: 1px solid #CFC9BC; margin: 10px; font-size: 11px; }
+blockquote { border: 10px solid #F7EFEF; background-color: #F7EFEF; padding: 10px; }
+.oddcomment { background-color: #fff; }
+.evencomment { background-color: #F7EFEF; }

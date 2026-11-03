@@ -1,0 +1,39 @@
+{
+  "counts": {
+    "downloaded": 253,
+    "excluded": 91,
+    "deferred": 312,
+    "failed": 22
+  },
+  "flickr_completeness": "unknown",
+  "archive_index_posts": {
+    "total": 186,
+    "statuses": {
+      "downloaded": 175,
+      "failed": 11
+    }
+  },
+  "reference_capture": "20100406044023",
+  "inventory_window": "All-date URL inventory plus detailed 2005–2011 captures",
+  "note": "Raw responses only. Downloaded does not guarantee complete post text or comments.",
+  "by_kind": {
+    "blog": {
+      "downloaded": 253,
+      "excluded": 91,
+      "failed": 22,
+      "deferred": 4
+    },
+    "blog-history": {
+      "deferred": 73
+    },
+    "external-asset": {
+      "deferred": 4
+    },
+    "flickr": {
+      "deferred": 123
+    },
+    "image": {
+      "deferred": 108
+    }
+  }
+}
