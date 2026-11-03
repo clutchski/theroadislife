@@ -1,8 +1,19 @@
 # The Road Is Life
 
-This is an archival archaeology project to restore a friend's twenty-year-old
-travelogue and turn it into a readable static site. The journal follows Ryan
-Henderson's attempt to travel around the world without flying, from 2005 to 2007.
+In 2005, my friend Ryan set off to circumnavigate the globe without taking a
+plane. He kept us all up to date on theroadislife.com, a travel blog before that
+was really a thing. At the time, I thought it was the coolest thing in the
+world and was intensely jealous of Ryan while I was back at school.
+
+In the last 20 years, lots of things happened - kids, jobs, life - and
+theroadislife.com was overrun by comment spam, fell into disrepair and fell off
+the internet.
+
+This repository is a bit of an archaeology project - to download the original
+blog from the internet archive, convert it to markdown and live on as a static
+site that feels like it did 20 years ago.
+
+## More details
 
 The original site was recovered from [the Internet Archive's April 2010 capture](https://web.archive.org/web/20100406044023/http://theroadislife.com/).
 The archived pages identify the publishing platform as Movable Type. This project

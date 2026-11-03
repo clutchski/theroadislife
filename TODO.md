@@ -1,13 +1,20 @@
-# Blog recovery TODO
+# The Road Is Life — project TODO
+
+## Current status
+
+- The recovery pass and the first Hugo site are complete. The public site is live at
+  <https://clutchski.github.io/theroadislife/>.
+- The root README now tells the project story in a more personal voice.
+- Remaining work is optional recovery of missing source material and moving the
+  domain registration/DNS to Cloudflare.
 
 ## Milestone 1: Raw archive and Markdown extraction
 
 Recover the blog, supporting pages, comments, and public Flickr photo collection
-from public sources. The raw archive and Markdown extraction are committed; a
-basic GitHub Pages site is now in progress as a separate change.
+from public sources. The raw archive and Markdown extraction are committed. The
+Hugo site is deployed through GitHub Pages.
 
-Current priority was to download raw blog responses into `extraction/raw/`. The raw capture
-pass is complete for this checkpoint: 253 raw responses are saved. Of 186 posts
+The raw capture pass saved 253 responses in `extraction/raw/`. Of 186 posts
 listed by the archive index, 175 have usable raw captures and 173 were extracted
 to Markdown. Eleven indexed posts remain unavailable, and two captured 2005 pages
 have no usable content region. See `extraction/raw/REPORT.md` and
@@ -114,6 +121,27 @@ not a recovery priority.
 - [x] Add a GitHub Actions workflow to build and publish with GitHub Pages.
 - [x] Build locally with the pinned Hugo version; verify the journal, supporting
       pages, and recovered local photo are present in the generated output.
+- [x] Publish the Hugo site through GitHub Pages; repository is public.
+- [x] Show complete posts on the home page, newest first, with compact pagination.
+- [x] Restore the original site's visual feel, header quote, intro, archives, and
+      category/tag index.
+- [x] Remove the obsolete donation pitch and Latest Position feature from the
+      published FAQ, archives, and category indexes.
+- [x] Update the root README with the project's history and purpose.
+
+## Milestone 3: Domain setup
+
+The intended setup is Cloudflare for both domain registration and authoritative
+DNS, with GitHub Pages continuing to host the site.
+
+- [ ] Confirm the current registrar and account access for `theroadislife.com`;
+      LivingDot appeared in hosting/DNS clues but is not confirmed as registrar.
+- [ ] Export or record all existing DNS entries, including mail records.
+- [ ] Add the domain to Cloudflare, import/check DNS, disable old DNSSEC if active,
+      and switch nameservers at the current registrar.
+- [ ] Transfer the domain registration to Cloudflare with the registrar unlock
+      and EPP/auth code; verify renewals and registrant contact details.
+- [ ] Point the custom domain at GitHub Pages and confirm HTTPS after DNS settles.
 
 The root `mise.toml` pins Hugo directly through mise's Hugo backend; Go is not
 needed to build the site. The Python toolchain stays in `extraction/`.
