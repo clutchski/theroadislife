@@ -26,6 +26,3 @@ There's also a lively ex-pat culture here, they spend most of they're time in a 
 
 As soon as we get a weather window, we'll be heading West again. Now sure if a stop in Fiji is in the cards or not.  
  *\*I've got some photos of the feast and Tonga in General but the conection here is too slow to get them up.*
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/108

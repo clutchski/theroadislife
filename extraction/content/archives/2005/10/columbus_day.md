@@ -17,6 +17,3 @@ As my family celebrates Thanksgiving in Canada, I'll be spending [Columbus Day](
 Until now I've been staying with friends in [Williamsburg](http://en.wikipedia.org/wiki/Williamsburg%2C_Brooklyn) (Brooklyn), playing the part of a local New Yorker and haven't yet explored the city with my tourist hat on. I expect this to change today now that Jon and Matt are headed back to Toronto and I'm moving into a hostel that'll likely be filled with other foreigners.
 
 Brian has yet to arrive (the latest word is Tuesday), which means I'll have some time on my own to see some of those NYC must-see sites most travel guides rave about. I've got my walking shoes on, an unlimited Subway pass and some free time. Let's see what I can find.
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/31

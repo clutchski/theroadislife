@@ -108,7 +108,8 @@ def post_records(manifest: dict, inventory: dict):
                 continue
             if not reached_title:
                 continue
-            if getattr(node, "name", None) == "h2" and node.get("id") == "comments":
+            # Trackbacks are external responses, not part of the author's post.
+            if getattr(node, "name", None) == "h2" and node.get("id") in {"comments", "trackbacks"}:
                 break
             if node is date_node or (getattr(node, "name", None) == "h2" and node is not title_node):
                 continue

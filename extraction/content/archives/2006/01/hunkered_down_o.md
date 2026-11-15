@@ -17,6 +17,3 @@ We´re hunkered down at the "Hotel California" right on the border of El Salvado
 This hotel, in fact this entire town, is not what I would call a travellers paradise. There are private showers and toilets in the rooms but no water comes out of any of the pipes other than the sink; Of course the sink is missing the necessary pipes to take the water away. As a result, everything splashes onto the bathroom floor. We can´t complain though, since hitting the Pacific Coast there has been very little infrastructure of any kind. I doubt it´ll be any better in El Salvador.
 
 The scenery is spectacular and people are more than friendly, often running out onto the road to shake our hands or to cheer us on. As soon as the tire is ready to go, we´ll spend our remaining Quetzales on water and head into El Salvador... hopefully toward some beaches.
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/69

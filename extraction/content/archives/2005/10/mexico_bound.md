@@ -25,6 +25,3 @@ New York has been grand, we've played it well and yesterday even got a couple of
 The idea is that once we cross the border to [Mexicali](http://www.mapquest.com/maps/map.adp?formtype=address&searchtype=address&country=MX&addtohistory=&city=Mexicali), we'll get on a Mexican bus for another 10 hours or so to eventually arrive on the Pacific Coast to soak up some sun and maybe even eat at taco or two.
 
 Neither of us has any real delusions about the physical and mental hardship we're about to submit ourselves to. We'll be taken to the brink. If we make it through this, we can endure any form of public transportation. Wish us luck. We leave at 10:15pm EST tonight.
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/36
