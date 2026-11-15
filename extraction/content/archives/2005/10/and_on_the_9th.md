@@ -21,28 +21,3 @@ I could have survived all of this in good spirits, as I'm generally a happy pers
 It's a new day and while the sun isn't yet shining and we don't have a definate ride out of the city, the tide has begun to shift. The rain is forcasted to end by Sunday. Brian has arrived. Roberto, the sailor, called me because some of his crew ended up being no shows. He expressed over the phone that he would want to leave as quickly as possible once this weather clears. (i.e. Sunday or Monday). We've also moved out of the HI Hostel and into a closer, hopefully more personable one, called [Jazz on the Park](http://www.jazzonthepark.com/). Yes, things are looking up. Today is a new day.
 
 In other news, it looks like [Jon's Skee-Ball score of 540](http://www.flickr.com/photos/theroadislife/51679139/) last weekend at [ACE bar](http://travel2.nytimes.com/top/features/travel/destinations/unitedstates/newyork/newyorkcity/entertainment_details.html?vid=1002207973398) has caused a stir in the [Skee-Ball Comunity](http://teendrama.com/dens/index.php?task=more&e=280).
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/33
-
-Listed below are links to weblogs that reference [And on the 9th day it rained more, and Ryan lamented](http://www.theroadislife.com/archives/2005/10/and_on_the_9th.htm):
-
-» [whot](http://breastenhancementnow.bitacoras.com) from whot  
-breast enhancement, breast enlargement, <http://breastenhancementnow.bitacoras.com> [[Read More]](http://breastenhancementnow.bitacoras.com)
-
-Tracked on July 15, 2006 01:13 AM
-
-» [whot](http://www.bloxster.net/hoodiagordonii/) from whot  
-hoodia, hoodia gordonii, hoodia diet pills, <http://www.bloxster.net/hoodiagordonii/> [[Read More]](http://www.bloxster.net/hoodiagordonii/)
-
-Tracked on July 15, 2006 02:18 AM
-
-» [whot](http://breastenhancementplus.blogspot.com) from whot  
-breast enhancement, breast enlargement, <http://breastenhancementplus.blogspot.com> [[Read More]](http://breastenhancementplus.blogspot.com)
-
-Tracked on July 15, 2006 03:19 AM
-
-» [whot](http://penis-enlargement-no1.blogspot.com) from whot  
-penis enlargement, male enhancement <http://penis-enlargement-no1.blogspot.com> [[Read More]](http://penis-enlargement-no1.blogspot.com)
-
-Tracked on July 15, 2006 04:28 AM

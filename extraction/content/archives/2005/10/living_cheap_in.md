@@ -12,6 +12,3 @@ comments: preserved_in_raw_capture_not_extracted
 ---
 
 [![Living Cheap in NYC](http://static.flickr.com/25/53212218_f051b5981f.jpg)](http://www.flickr.com/photos/theroadislife/53212218/ "Photo Sharing")
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/35

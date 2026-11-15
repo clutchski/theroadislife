@@ -38,6 +38,3 @@ In the end it didn't really amount to much, the tires were changed the cops shif
  the same busted up bus and drove to Tulsa. We had no choice, there were no other buses coming, we were surround by Missouri wilderness.
 
 It delayed us more than 12 hours and would have put us crossing the border to Mexico in the wee hours; something we weren't prepared to do. So, in the style we're quickly becoming used to we switched plans on the fly, unfortunately our luggage didn't get the message. I'm not sure where it is. Maybe the Mexican border, maybe LA, maybe deep in the bowels of the San Diego bus station.
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/37

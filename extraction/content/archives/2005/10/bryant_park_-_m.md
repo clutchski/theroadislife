@@ -22,6 +22,3 @@ Google has recently put in a bid to provide free [wi-fi to the entire city of Sa
 Yesterday I mentioned that I was planning to do a little walking on my own to see the city. When I said a 'little' I'd envisioned a few hours at the most. What I didn't imagine was that I'd walk from 103rd street all the way down to [Battery Park](http://en.wikipedia.org/wiki/Battery_Park_%28New_York%29), then back up to Times Square (42nd st.) I'm certainly no expert in NYC geography but I'm pretty sure this works out to over 200 city blocks.
 
 Uh oh. Here comes the rain. The trouble with free outdoor wi-fi is that computers don't work well in the rain. I have to go. I apologize if this entry is full of typos and gramatical errors... let it rain, let it rain, let it rain.
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/32

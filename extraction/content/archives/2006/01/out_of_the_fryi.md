@@ -24,6 +24,3 @@ The next closest town with any hope of a bank was further than we could go that 
 El Salvador is most definitely 'off the beaten track'. I personally don't know a single person who's travelled here. [Surfers](http://www.wavehunters.com/elsalvador/elsal_surf.asp) do, but I don´t know any. We seem to have the country to ourselves... us and the locals. This makes it a difficult place to travel at times. This is, of course is generally a good thing as far as I'm concerned; it provides endless opportunity for misadventure. For all adventure is actually misadventure with a positive spin.
 
 We're still not firing on all cylinders. Breakdowns continue to plague us and we seem to be taking turns at illness; Willie is better but Brian has fallen. He's complaining of a sore throat and is running a slight fever. Our plan is to rest here in La Libertad for another day before fighting our way up and into the mountains toward San Salvador, the capital.
-
-TrackBack URL for this entry:  
-http://www.theroadislife.com/cgi-bin/mt/mtb.cgi/71
