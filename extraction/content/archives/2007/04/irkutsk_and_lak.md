@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20101022125211id_/http://www.theroa
 source_capture_timestamp: "20101022125211"
 source_sha256: "4923ffcb22342ab202d8355f895cdb886f0cad6f9e4d3ef5819b82e8fa6acef5"
 images:
-  - "http://farm1.static.flickr.com/218/470700049_9687d13d76_m.jpg"
+  - "https://farm1.static.flickr.com/218/470700049_9687d13d76_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![IMG_3255](http://farm1.static.flickr.com/218/470700049_9687d13d76_m.jpg)](http://www.flickr.com/photos/theroadislife/470700049/ "Photo Sharing")  
+[![IMG_3255](https://farm1.static.flickr.com/218/470700049_9687d13d76_m.jpg)](http://www.flickr.com/photos/theroadislife/470700049/ "Photo Sharing")  
   
 IRKUSTK, RUSSIA - Growing up on the Great Lakes one gets a lot of propaganda regarding how big, and how great they are. 'Tis true, they are some of the biggest lakes in the world. However the banana shaped Lake Baikal holds more water in it that all 5 of the great lakes combined. More than 1.6km deep it actually holds 1/5th of the worlds supply of unfrozen fresh water. Surrounded my mountains and cliffs, and in the middle of Siberia it is a pristine natural playground with abundant and unique wildlife - including it's own species of freshwater seal - and crystal clear water with visibility of up to 40m. I would love to be back here sometime other than spring time, as the winter ice roads are closed yet the ice isn't quite off the lake yet.
 

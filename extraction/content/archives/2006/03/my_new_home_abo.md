@@ -9,11 +9,11 @@ source_capture_timestamp: "20170407014603"
 source_sha256: "98a0f3a33515acceceffe0db04ae9ea077b14f83527e86b9121d5ede92a3803e"
 recovery_method: "aggregate archive copy"
 images:
-  - "http://static.flickr.com/52/120868611_faed72e29f_m.jpg"
+  - "https://static.flickr.com/52/120868611_faed72e29f_m.jpg"
 comments: not_in_aggregate_capture
 ---
 
-[![IMG_0665[1]](http://static.flickr.com/52/120868611_faed72e29f_m.jpg)](http://www.flickr.com/photos/theroadislife/120868611/ "Photo Sharing")  
+[![IMG_0665[1]](https://static.flickr.com/52/120868611_faed72e29f_m.jpg)](http://www.flickr.com/photos/theroadislife/120868611/ "Photo Sharing")  
   
 DAVID, PANAMA - I haven´t been idle. Within 24 hours of my last post, I had been aboard no less than 3 ocean going yachts. And had succeeded in securing passage on a German boat transiting the Panama Canal. Yep, things were moving along quickly in Panama City. Maybe too quickly.
 

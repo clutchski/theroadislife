@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200927012524id_/http://www.theroa
 source_capture_timestamp: "20200927012524"
 source_sha256: "1d9d1200af087ef2456b805e28be2c1171ad1750f0401e2fe63d83d7f1d52544"
 images:
-  - "http://static.flickr.com/84/237436646_10fd49ae8b_m.jpg"
+  - "https://static.flickr.com/84/237436646_10fd49ae8b_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Alexis and Troy](http://static.flickr.com/84/237436646_10fd49ae8b_m.jpg)](http://www.flickr.com/photos/theroadislife/237436646/ "Photo Sharing")  
+[![Alexis and Troy](https://static.flickr.com/84/237436646_10fd49ae8b_m.jpg)](http://www.flickr.com/photos/theroadislife/237436646/ "Photo Sharing")  
   
 GOLD COAST, AUSTRALIA - I wanted to quickly thank everybody who's purchased one of our [T-Shirts](http://www.theroadislife.com/shop.htm). When we first started selling them, we had no idea that they'd be such a hit. Jon has been working round-the-clock, he tells me, to get them out to those of you that have ordered one.
 

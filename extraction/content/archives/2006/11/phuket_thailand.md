@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200921095514id_/http://www.theroa
 source_capture_timestamp: "20200921095514"
 source_sha256: "71e283e06984d91a7fe95a72cbc796d51e979065499e06b9a589c7cd2c3db22a"
 images:
-  - "http://static.flickr.com/122/294324665_4837b459d7_m.jpg"
+  - "https://static.flickr.com/122/294324665_4837b459d7_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![IMG_0702[1]](http://static.flickr.com/122/294324665_4837b459d7_m.jpg)](http://www.flickr.com/photos/theroadislife/294324665/ "Photo Sharing")  
+[![IMG_0702[1]](https://static.flickr.com/122/294324665_4837b459d7_m.jpg)](http://www.flickr.com/photos/theroadislife/294324665/ "Photo Sharing")  
   
 PHUKET, THAILAND - I picked Phuket as our first destination in Thailand for two reasons; it was close and I'd heard of it. I'd had this vision that Thailand was full of secluded and laid back beaches. I had visions of clear water and hammocks dancing through my dreams.
 

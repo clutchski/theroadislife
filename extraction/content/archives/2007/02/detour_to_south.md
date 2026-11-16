@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20070210161253id_/http://www.theroa
 source_capture_timestamp: "20070210161253"
 source_sha256: "fcbbdbdd92e1aa94818ea170e4a3d656db38233c5e46e64930500478add0f4af"
 images:
-  - "http://farm1.static.flickr.com/153/382437856_de380a3854_m.jpg"
+  - "https://farm1.static.flickr.com/153/382437856_de380a3854_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Yellow Sea](http://farm1.static.flickr.com/153/382437856_de380a3854_m.jpg)](http://www.flickr.com/photos/theroadislife/382437856/ "Photo Sharing")  
+[![Yellow Sea](https://farm1.static.flickr.com/153/382437856_de380a3854_m.jpg)](http://www.flickr.com/photos/theroadislife/382437856/ "Photo Sharing")  
   
 BEIJING, CHINA - There are a few difficulties that I can't seem to get past:
 

@@ -8,9 +8,9 @@ source_capture: "https://web.archive.org/web/20100307063700id_/http://www.theroa
 source_capture_timestamp: "20100307063700"
 source_sha256: "bf43334e3690c49d9ed7903f327d1659440cc54385ac55ce10b5e066982519fd"
 images:
-  - "http://static.flickr.com/28/49558376_ba586c4e95_t.jpg"
-  - "http://static.flickr.com/26/49535727_b44aa0d7db_t.jpg"
-  - "http://static.flickr.com/29/49540177_1a2d593723_t.jpg"
+  - "https://static.flickr.com/28/49558376_ba586c4e95_t.jpg"
+  - "https://static.flickr.com/26/49535727_b44aa0d7db_t.jpg"
+  - "https://static.flickr.com/29/49540177_1a2d593723_t.jpg"
 ---
 
 # Frequently Asked Questions
@@ -103,9 +103,9 @@ Our route was determined by the opportunities we encountered along the way. We h
 ## **What are you bringing with you?**
 
   
-[![All You Need For A Trip Around The World](http://static.flickr.com/28/49558376_ba586c4e95_t.jpg)](http://www.flickr.com/photos/theroadislife/49558376/ "Photo Sharing")
-[![Clothes to Bring Around the World](http://static.flickr.com/26/49535727_b44aa0d7db_t.jpg)](http://www.flickr.com/photos/theroadislife/49535727/ "Photo Sharing")
-[![Gadgets and Stuff - To Bring Around the World](http://static.flickr.com/29/49540177_1a2d593723_t.jpg)](http://www.flickr.com/photos/theroadislife/49540177/ "Photo Sharing")
+[![All You Need For A Trip Around The World](https://static.flickr.com/28/49558376_ba586c4e95_t.jpg)](http://www.flickr.com/photos/theroadislife/49558376/ "Photo Sharing")
+[![Clothes to Bring Around the World](https://static.flickr.com/26/49535727_b44aa0d7db_t.jpg)](http://www.flickr.com/photos/theroadislife/49535727/ "Photo Sharing")
+[![Gadgets and Stuff - To Bring Around the World](https://static.flickr.com/29/49540177_1a2d593723_t.jpg)](http://www.flickr.com/photos/theroadislife/49540177/ "Photo Sharing")
   
   
 Before I left, I took a few photos of what I was bringing along, however we quickly realized that we could dump some of our gear with no ill effect. As soon as we realized we wouldn't use it; we left it behind. This combined with natural attrition (i.e. losing and breaking stuff) makes it nearly impossible to archive what I'm actually travelling with as it's constantly in flux.

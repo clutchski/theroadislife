@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20060117074853id_/http://www.theroa
 source_capture_timestamp: "20060117074853"
 source_sha256: "88cb1e45626bc33ddec532861a4d404e102b6298d1fc24cc6eeb7892b8eb0e9e"
 images:
-  - "http://static.flickr.com/38/86908656_d24edb00b4_m.jpg"
+  - "https://static.flickr.com/38/86908656_d24edb00b4_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![The Beach of La Libertad](http://static.flickr.com/38/86908656_d24edb00b4_m.jpg)](http://www.flickr.com/photos/theroadislife/86908656/ "Photo Sharing")  
+[![The Beach of La Libertad](https://static.flickr.com/38/86908656_d24edb00b4_m.jpg)](http://www.flickr.com/photos/theroadislife/86908656/ "Photo Sharing")  
   
 ... and into the lap of luxury. Well not luxury as in five star accommodation. We still don't have toilet seats, hot showers, air conditioning or rooms without other living things sneaking around under the beds. Nevertheless there are days I feel like a king. Thus far in El Salvador, except for one hot and hungry night on a beach, we've stayed in walled compounds. In Playa El Zonte we had the place entirely to ourselves for two nights. [Picture it](http://www.flickr.com/photos/theroadislife/86907795/): an open concept terrace facing a lush, green garden spotted with palm trees and a small but refreshing pool as a centre piece. The only others able to penetrate this paradise were the family that lived there and ran the place. They were, at times, almost too eager to attend to our needs. Whether it was cutting down coconuts for us to drink out of, or cooking up giant spaghetti meals... two days of feasting and drinking and lounging cost each of us nearly $20 USD. Wow.
 

@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407003457id_/http://www.theroa
 source_capture_timestamp: "20170407003457"
 source_sha256: "a753212699c3f23a0bce858795109e577a12536feab3485de374e9ad4dc890ac"
 images:
-  - "http://static.flickr.com/65/170187944_59f9d10edd_m.jpg"
+  - "https://static.flickr.com/65/170187944_59f9d10edd_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Blithe Spirit Moored in Tahaa](http://static.flickr.com/65/170187944_59f9d10edd_m.jpg)](http://www.flickr.com/photos/theroadislife/170187944/ "Photo Sharing")  
+[![Blithe Spirit Moored in Tahaa](https://static.flickr.com/65/170187944_59f9d10edd_m.jpg)](http://www.flickr.com/photos/theroadislife/170187944/ "Photo Sharing")  
   
 TAHAA, FRENCH POLYNESIA - Things have changed dramatically since finding our luggage. Brian has decided to fly back to Canada in order to pursue some potentially lucrative money-making options for the summer. He's promised to rejoin the trip as soon as possible, I on the other hand am determined to soldier onward despite the costs involved. I'm drooling over the prospect of finding work in Australia or New Zealand in the next few months.
 

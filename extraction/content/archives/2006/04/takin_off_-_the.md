@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170406194914id_/http://www.theroa
 source_capture_timestamp: "20170406194914"
 source_sha256: "7d0991e190e543ec08fc0ba09a285be2655acadd958c6077fc857908511113b1"
 images:
-  - "http://static.flickr.com/38/123875176_42dced1890_m.jpg"
+  - "https://static.flickr.com/38/123875176_42dced1890_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Takin' Off - getting ready for just that](http://static.flickr.com/38/123875176_42dced1890_m.jpg)](http://www.flickr.com/photos/theroadislife/123875176/ "Photo Sharing")  
+[![Takin' Off - getting ready for just that](https://static.flickr.com/38/123875176_42dced1890_m.jpg)](http://www.flickr.com/photos/theroadislife/123875176/ "Photo Sharing")  
   
 DAVID, PANAMA - She´s a Cheoy Lee 44; that is, she was built by Cheoy Lee shipyards in Hong Kong, 1979 and is 44ft long. If you look at the picture closely, you´ll see that she is a Ketch, that is she has two masts. Her name is "Takin' Off". She´s registered in Hayman Island, Australia. Not only is she relatively long along the water, she´s hefty and sturdy as far as modern cruising yachts go. I´ve heard her described by Dominic, a British ex-pat who seems to know something about everything nautical, as 'a good boat, she could use some paint and maybe a wash.' His observation seems to be the consensus around here; that is, she´s seaworthy but a little run down and tired as far as aesthetics is concerned.
 

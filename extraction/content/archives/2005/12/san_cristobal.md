@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407080320id_/http://www.theroa
 source_capture_timestamp: "20170407080320"
 source_sha256: "0b95d3cdb2491ff4ef9e2cd9bcf13c515bcc0d9f4b3da0a772799aac0067f295"
 images:
-  - "http://static.flickr.com/15/69674694_8536765599_m.jpg"
+  - "https://static.flickr.com/15/69674694_8536765599_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Zapatista](http://static.flickr.com/15/69674694_8536765599_m.jpg)](http://www.flickr.com/photos/theroadislife/69674694/ "Photo Sharing")  
+[![Zapatista](https://static.flickr.com/15/69674694_8536765599_m.jpg)](http://www.flickr.com/photos/theroadislife/69674694/ "Photo Sharing")  
   
   
 So it seems some of the best of Mexico may have been saved for last. Or at least maybe. As we slept or stared into the darkness, the coach wound up and through the [Sierra Madres]( http://en.wikipedia.org/wiki/Sierra_Madre_del_Sur); carrying us from the warmth of Zipolite to [San Cristóbal De Las Casas]( http://en.wikipedia.org/wiki/San_Cristobal_de_las_Casas) - the coldest `damn` city in Mexico.

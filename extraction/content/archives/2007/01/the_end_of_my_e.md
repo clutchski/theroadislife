@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200926233111id_/http://www.theroa
 source_capture_timestamp: "20200926233111"
 source_sha256: "a8c608e2ccba1f3f030b6d284992cdc55b14fa6e5bd34b755e620c7b6e42c8c1"
 images:
-  - "http://farm1.static.flickr.com/127/373281917_a1457e1c50_m.jpg"
+  - "https://farm1.static.flickr.com/127/373281917_a1457e1c50_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![The Bartender](http://farm1.static.flickr.com/127/373281917_a1457e1c50_m.jpg)](http://www.flickr.com/photos/theroadislife/373281917/ "Photo Sharing")  
+[![The Bartender](https://farm1.static.flickr.com/127/373281917_a1457e1c50_m.jpg)](http://www.flickr.com/photos/theroadislife/373281917/ "Photo Sharing")  
   
 HANOI, VIETNAM - If I had to guess, I'd say that the average price for a pint of beer on planet earth is about $1 USD. I've seen more expensive beer and I've seen cheaper, but I've never seen it priced as low as I did last night.
 

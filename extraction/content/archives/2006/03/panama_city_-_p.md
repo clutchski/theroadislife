@@ -9,7 +9,7 @@ source_capture_timestamp: "20170407014603"
 source_sha256: "98a0f3a33515acceceffe0db04ae9ea077b14f83527e86b9121d5ede92a3803e"
 recovery_method: "aggregate archive copy"
 images:
-  - "http://static.flickr.com/35/118780526_564396cc0d_m.jpg"
+  - "https://static.flickr.com/35/118780526_564396cc0d_m.jpg"
 comments: not_in_aggregate_capture
 ---
 
@@ -17,7 +17,7 @@ comments: not_in_aggregate_capture
 >
 > Simon Bolivar, 1826
 
-[![IMG_0616[1]](http://static.flickr.com/35/118780526_564396cc0d_m.jpg)](http://www.flickr.com/photos/theroadislife/118780526/ "Photo Sharing")  
+[![IMG_0616[1]](https://static.flickr.com/35/118780526_564396cc0d_m.jpg)](http://www.flickr.com/photos/theroadislife/118780526/ "Photo Sharing")  
   
 PANAMA CITY, PANAMA - We finished our trip with as much style as can be mustered in the pouring rain, stopping just long enough at the peak of the
 [Bridge of the Americas](http://en.wikipedia.org/wiki/Bridge_of_the_Americas) 

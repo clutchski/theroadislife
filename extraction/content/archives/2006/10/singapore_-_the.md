@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170406224837id_/http://www.theroa
 source_capture_timestamp: "20170406224837"
 source_sha256: "79f879541cc304dcee956dc91cb1c65d7f664efbedec4a8e5fabbaa024e8638c"
 images:
-  - "http://static.flickr.com/117/275143485_668ac80b39_m.jpg"
+  - "https://static.flickr.com/117/275143485_668ac80b39_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![](http://static.flickr.com/117/275143485_668ac80b39_m.jpg)](http://www.flickr.com/photos/theroadislife/275143485/ "Photo Sharing")  
+[![](https://static.flickr.com/117/275143485_668ac80b39_m.jpg)](http://www.flickr.com/photos/theroadislife/275143485/ "Photo Sharing")  
   
 SINGAPORE - The Statue spitting water is of a Merlion: a sort of fish/lion that guards the city and is supposed to make a great photo with the skyline in the background.
 

@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200925183433id_/http://www.theroa
 source_capture_timestamp: "20200925183433"
 source_sha256: "c4d6e1706b26bbc426d987c8f308ab764967b9d828830a3b5980fdaaa0e29cb4"
 images:
-  - "http://static.flickr.com/87/224043714_5bbd3a5942_m.jpg"
+  - "https://static.flickr.com/87/224043714_5bbd3a5942_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Road Trip - Route](http://static.flickr.com/87/224043714_5bbd3a5942_m.jpg)](http://www.flickr.com/photos/theroadislife/224043714/ "Photo Sharing")  
+[![Road Trip - Route](https://static.flickr.com/87/224043714_5bbd3a5942_m.jpg)](http://www.flickr.com/photos/theroadislife/224043714/ "Photo Sharing")  
   
 GOLD COAST, AUSTRALIA - After a little online research, it appears that renting a car is not only more fun, but also - unbelievably - cheaper than the bus when crossing the 3500km (2200 mi) nothing-ness between here and Darwin (cheaper - only if one travels with two people or more). Actually, I'm certain the cost of outback gasoline might tip the balance, but still, the price comparison is close enough for my book-keeping. And besides, a road trip is better than a bus trip any day. [Trust me](http://www.theroadislife.com/archives/2005/10/greyhound_bus_c.htm).
 

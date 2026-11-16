@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407024631id_/http://www.theroa
 source_capture_timestamp: "20170407024631"
 source_sha256: "deb4cc82966b96babf69478e29e8273702e393e6cc2de31f79517941aee15c92"
 images:
-  - "http://farm1.static.flickr.com/201/443241831_8737595d04_m.jpg"
+  - "https://farm1.static.flickr.com/201/443241831_8737595d04_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Hazy Days](http://farm1.static.flickr.com/201/443241831_8737595d04_m.jpg)](http://www.flickr.com/photos/theroadislife/443241831/ "Photo Sharing")  
+[![Hazy Days](https://farm1.static.flickr.com/201/443241831_8737595d04_m.jpg)](http://www.flickr.com/photos/theroadislife/443241831/ "Photo Sharing")  
   
 SHANGHAI, CHINA - The Ferry from Osaka took more than 50 hours but went without incident. Our accommodation was comfortable and clean and I was lucky enough to have a handful of other English speaking passengers. The crew put us all in the same dormitory style cabin which made the trip pass faster than my previous crossing from China to Korea. With very little English language entertainment on board, the few foreigners were a lifesaver.
 

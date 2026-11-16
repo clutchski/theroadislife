@@ -9,11 +9,11 @@ source_capture_timestamp: "20170407015644"
 source_sha256: "8f86976bd3a1a41d274f6285f71baf4ca0bbc9e4836482d07a88ffa376ba7006"
 recovery_method: "aggregate archive copy"
 images:
-  - "http://static.flickr.com/53/108823968_d8bfc2e9cf_m.jpg"
+  - "https://static.flickr.com/53/108823968_d8bfc2e9cf_m.jpg"
 comments: not_in_aggregate_capture
 ---
 
-[![Ometepe](http://static.flickr.com/53/108823968_d8bfc2e9cf_m.jpg)](http://www.flickr.com/photos/theroadislife/108823968/ "Photo Sharing")  
+[![Ometepe](https://static.flickr.com/53/108823968_d8bfc2e9cf_m.jpg)](http://www.flickr.com/photos/theroadislife/108823968/ "Photo Sharing")  
   
 ISLA DE OMETEPE, NICARAGUA - I woke up this morning with a fearsome volcano staring down at me and realized that Nicaragua, of all the places we've visited, most resembles that old Disney cartoon *The Land Before Time*. Immediately upon crossing into Nicaragua our horizon became filled with steaming peaks and we've yet to find a vantage point that doesn't include a volcano as it's chief point of reference.
 

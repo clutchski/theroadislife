@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20100420185508id_/http://www.theroa
 source_capture_timestamp: "20100420185508"
 source_sha256: "366928607705c1f016b365932a1338bc2e1da41433cd3365b05b81fdc4d76be2"
 images:
-  - "http://farm1.static.flickr.com/158/355667192_e283b66899_m.jpg"
+  - "https://farm1.static.flickr.com/158/355667192_e283b66899_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Cambodian Highway](http://farm1.static.flickr.com/158/355667192_e283b66899_m.jpg)](http://www.flickr.com/photos/theroadislife/355667192/ "Photo Sharing")  
+[![Cambodian Highway](https://farm1.static.flickr.com/158/355667192_e283b66899_m.jpg)](http://www.flickr.com/photos/theroadislife/355667192/ "Photo Sharing")  
   
 SIEM REAP, CAMBODIA - One of my New Years resolutions this year has been to pick up my travelling pace a little. My money won't last forever and there's still a lot of ground to cover between Southeast Asia and Canada. Half a world to be exact.
 

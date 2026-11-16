@@ -7,13 +7,13 @@ source_capture: "https://web.archive.org/web/20070819001435id_/http://www.theroa
 source_capture_timestamp: "20070819001435"
 source_sha256: "b3d61e1bddfcc9eb2c776fc56e9432391e466bb1031b3e1bc38ce2aba7342161"
 images:
-  - "http://static.flickr.com/53/138677568_3af2de813e_m.jpg"
+  - "https://static.flickr.com/53/138677568_3af2de813e_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
 *\*If you´re reading this it means that I set this post up correctly to appear automatically. We're still sailing and hopefully by now, clear of the Galapagos Island and well on our way to the Marquesas. The Internet is a wonderful thing.*
 
-[![Shirt - Close Up](http://static.flickr.com/53/138677568_3af2de813e_m.jpg)](http://www.flickr.com/photos/theroadislife/138677568/ "Photo Sharing")  
+[![Shirt - Close Up](https://static.flickr.com/53/138677568_3af2de813e_m.jpg)](http://www.flickr.com/photos/theroadislife/138677568/ "Photo Sharing")  
   
 INTERNATIONAL WATERS - Since the inception of this site, there have been requests for me to make T-Shirts available for sale. I'd considered it before but realized quickly that I wouldn´t be able to manage selling t-shirts from dingy little 3rd world Internet cafes along the way. Postcards are difficult enough. Still, I kept the idea stored in the recesses of my mind as something I'd do one day; I'd even gone as far as putting up a dead link on the horizontal navigation bar called 'shop' with the idea that I´d get around to it sooner or later. Of course, anybody who's ever clicked that link would have found nothing on the other end... until now.
 

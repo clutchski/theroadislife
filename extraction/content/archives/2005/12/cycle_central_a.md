@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407020600id_/http://www.theroa
 source_capture_timestamp: "20170407020600"
 source_sha256: "b10d301ad71099eb59f0abbe68f49eb21e250617033f599c030710c293fdee3d"
 images:
-  - "http://static.flickr.com/6/76976532_33f4e8b435_m.jpg"
+  - "https://static.flickr.com/6/76976532_33f4e8b435_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Central America](http://static.flickr.com/6/76976532_33f4e8b435_m.jpg)](http://www.flickr.com/photos/theroadislife/76976532/ "Photo Sharing")  
+[![Central America](https://static.flickr.com/6/76976532_33f4e8b435_m.jpg)](http://www.flickr.com/photos/theroadislife/76976532/ "Photo Sharing")  
   
 Even from the beginning, this trip has been marketed and presented as a sailing trip around the world. Though anybody who's read the small print or been following along thus far knows that in nearly 3 months of travel, we have yet to set sail. So far we've travelled most of the five thousand miles to Antigua, Guatemala via bus, with a few ferries, trains, mini-buses and pick-up trucks in the mix.
 

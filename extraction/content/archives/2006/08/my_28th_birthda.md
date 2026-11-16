@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200923192300id_/http://www.theroa
 source_capture_timestamp: "20200923192300"
 source_sha256: "11e1608d936f7466bb1302c749d2b76e5d0769cf6d061421b1d70f8e0f758a97"
 images:
-  - "http://static.flickr.com/92/208577377_8bd429a9e1_m.jpg"
+  - "https://static.flickr.com/92/208577377_8bd429a9e1_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Sydney Harbour Sunset](http://static.flickr.com/92/208577377_8bd429a9e1_m.jpg)](http://www.flickr.com/photos/theroadislife/208577377/ "Photo Sharing")  
+[![Sydney Harbour Sunset](https://static.flickr.com/92/208577377_8bd429a9e1_m.jpg)](http://www.flickr.com/photos/theroadislife/208577377/ "Photo Sharing")  
   
 SYDNEY, AUSTRALIA - Unless something unforeseen happens in the next 24 hours, it looks like I'll have survived the cursed 27th year. It seems that 27 is difficult year to live through if you're a rock star: Kurt Cobain, Janis Joplin, Jim Morrison, Jimi Hendrix and Brian Jones (of the Rolling Stones) all met their maker in their [27th year](http://en.wikipedia.org/wiki/27_Club). The fact that this phenomen is unique to rock stars may mean that I had nothing to worry about all along. Still, one can't be too cautious.
 

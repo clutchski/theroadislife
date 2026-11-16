@@ -7,14 +7,14 @@ source_capture: "https://web.archive.org/web/20200920145919id_/http://www.theroa
 source_capture_timestamp: "20200920145919"
 source_sha256: "05b4428e427534030352c10d9f4e24ab4e854e2b35c006418d343c41455d39e8"
 images:
-  - "http://static.flickr.com/26/49535727_b44aa0d7db_m.jpg"
-  - "http://static.flickr.com/29/49540177_1a2d593723_m.jpg"
+  - "https://static.flickr.com/26/49535727_b44aa0d7db_m.jpg"
+  - "https://static.flickr.com/29/49540177_1a2d593723_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Clothes to Bring Around the World](http://static.flickr.com/26/49535727_b44aa0d7db_m.jpg)](http://www.flickr.com/photos/theroadislife/49535727/ "Photo Sharing")
+[![Clothes to Bring Around the World](https://static.flickr.com/26/49535727_b44aa0d7db_m.jpg)](http://www.flickr.com/photos/theroadislife/49535727/ "Photo Sharing")
 
-Personal possessions either break or disappear on a pretty steady basis if your name happens to be Ryan Henderson or Brian O'Neill. (Willie's track record thus far has been impeccable). I know, stuff breaks and gets lost no matter who you are, but our attrition rate is sky-high, something we can't keep up with now that neither of us is actually[![Gadgets and Stuff - To Bring Around the World](http://static.flickr.com/29/49540177_1a2d593723_m.jpg)](http://www.flickr.com/photos/theroadislife/49540177/ "Photo Sharing")  
+Personal possessions either break or disappear on a pretty steady basis if your name happens to be Ryan Henderson or Brian O'Neill. (Willie's track record thus far has been impeccable). I know, stuff breaks and gets lost no matter who you are, but our attrition rate is sky-high, something we can't keep up with now that neither of us is actually[![Gadgets and Stuff - To Bring Around the World](https://static.flickr.com/29/49540177_1a2d593723_m.jpg)](http://www.flickr.com/photos/theroadislife/49540177/ "Photo Sharing")  
   
  earning money. Ahh but such is life; nothing stays the same. Never. I understand and accept it for the most part, and truth be told, no single item I'm travelling with is irreplaceable. Prohibitively expensive; Yes, but not irreplaceable.
 

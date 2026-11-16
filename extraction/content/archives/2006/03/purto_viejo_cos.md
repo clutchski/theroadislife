@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20110116035455id_/http://www.theroa
 source_capture_timestamp: "20110116035455"
 source_sha256: "81fa003e6e9d41d1da0ac0c8014abc862f253b6bd9fcaf613e2815f6d19f4f9c"
 images:
-  - "http://static.flickr.com/48/111084142_56cc929f24_m.jpg"
+  - "https://static.flickr.com/48/111084142_56cc929f24_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![IMG_0405[1]](http://static.flickr.com/48/111084142_56cc929f24_m.jpg)](http://www.flickr.com/photos/theroadislife/111084142/ "Photo Sharing")  
+[![IMG_0405[1]](https://static.flickr.com/48/111084142_56cc929f24_m.jpg)](http://www.flickr.com/photos/theroadislife/111084142/ "Photo Sharing")  
   
 PUERTO VIEJO, COSTA RICA - 'Necessity is the mother of invention'. Or motivation in our case. After the sights, sounds, and people we met in Nicaragua kept us in the country much longer than anticipated, Ryan and I sat down to do some math. Numbers crunched, we came to the desperate realization that in 17 days we would have to cover nearly as many kilometers as we had done in the previous two months combined. Seventeen days and I would be catching a plane from Panama City for a brief sojourn back to Canada for a [medical school](http://www.nosm.ca/) interview. Travelling a the speed required was clearly possible, yet having a deadline, let alone knowing where we are going or what we are doing every day when we wake up in the morning, wasn't something either of us had much familiarity with.  
   

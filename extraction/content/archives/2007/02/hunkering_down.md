@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407015014id_/http://www.theroa
 source_capture_timestamp: "20170407015014"
 source_sha256: "34deb2269895398ce2d254d58cb28d49a701c0e09dd304bab55db4eb14a3b873"
 images:
-  - "http://farm1.static.flickr.com/187/387286007_30c8f5e223_m.jpg"
+  - "https://farm1.static.flickr.com/187/387286007_30c8f5e223_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![IMG_2483](http://farm1.static.flickr.com/187/387286007_30c8f5e223_m.jpg)](http://www.flickr.com/photos/theroadislife/387286007/ "Photo Sharing")  
+[![IMG_2483](https://farm1.static.flickr.com/187/387286007_30c8f5e223_m.jpg)](http://www.flickr.com/photos/theroadislife/387286007/ "Photo Sharing")  
   
 BUSAN, SOUTH KOREA - So the slow boat from China turned out to be far more [civilized](http://www.flickr.com/photos/theroadislife/387281030/in/set-72157594518697263/) than my booking agent had led me to believe. The bamboo matt was in fact a plush, [curtained berth](http://www.flickr.com/photos/theroadislife/387280348/in/set-72157594518697263/) and the (185m) ship was full of places to wander and get stared at by school children and adults alike.
 

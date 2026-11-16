@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200923203405id_/http://www.theroa
 source_capture_timestamp: "20200923203405"
 source_sha256: "aeaa9a66c036fe82be3da269dc39964cf1651dd1e055ec7a806800085e5b713e"
 images:
-  - "http://static.flickr.com/1/129518790_11043fb0b8_m.jpg"
+  - "https://static.flickr.com/1/129518790_11043fb0b8_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Shake Down Cruise](http://static.flickr.com/1/129518790_11043fb0b8_m.jpg)](http://www.flickr.com/photos/theroadislife/129518790/ "Photo Sharing")  
+[![Shake Down Cruise](https://static.flickr.com/1/129518790_11043fb0b8_m.jpg)](http://www.flickr.com/photos/theroadislife/129518790/ "Photo Sharing")  
   
 DAVID, PANAMA - It was never in the cards for us to leave Panama on the 15th, despite our best intentions. All three of us overlooked the fact that Saturday, April 15th happens to fall smack dab in the middle of the biggest holiday in all of Central America. Easter is a time for Customs and Immigration officials to keep a low profile. Hardware stores lock their doors and virtually all commerce grinds to a halt.
 

@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200923184232id_/http://www.theroa
 source_capture_timestamp: "20200923184232"
 source_sha256: "755e70d6009cf6d73b541f6264b948867dfe720fb3f64345efaa2dd77d747916"
 images:
-  - "http://static.flickr.com/31/103587979_dd6c9efa82_m.jpg"
+  - "https://static.flickr.com/31/103587979_dd6c9efa82_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![­Grow­ing a Beard](http://static.flickr.com/31/103587979_dd6c9efa82_m.jpg)](http://www.flickr.com/photos/theroadislife/103587979/ "­Photo Shar­ing")
+[![­Grow­ing a Beard](https://static.flickr.com/31/103587979_dd6c9efa82_m.jpg)](http://www.flickr.com/photos/theroadislife/103587979/ "­Photo Shar­ing")
 
 GRANADA, NICARAGUA - Lèon turned out to be quite an easy place to lose ourselves in. It was not only cursed with cheap accommodation and food, but also nearly all-night bars, good people and cheap rum. Like San Diego, Zipolite and Utila, the city was difficult to make short work of. This time at least we had a mission driving us ahead…
 

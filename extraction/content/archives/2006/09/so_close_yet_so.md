@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407015423id_/http://www.theroa
 source_capture_timestamp: "20170407015423"
 source_sha256: "ac858b6f8f3145eab0f1d09ca2c70e4e73588d5e865e68d3e9beb6b007fc8fc5"
 images:
-  - "http://static.flickr.com/102/250901967_c664b4a602_m.jpg"
+  - "https://static.flickr.com/102/250901967_c664b4a602_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![oceania](http://static.flickr.com/102/250901967_c664b4a602_m.jpg)](http://www.flickr.com/photos/theroadislife/250901967/ "Photo Sharing")  
+[![oceania](https://static.flickr.com/102/250901967_c664b4a602_m.jpg)](http://www.flickr.com/photos/theroadislife/250901967/ "Photo Sharing")  
   
 DARWIN, AUSTRALIA - From where I sit, here in Darwin, I'm actually closer to the capitals of three other countries than to the capital of Australia. The closest being Dili (East Timor); a mere 400 miles from here. Can you guess the other two?
 

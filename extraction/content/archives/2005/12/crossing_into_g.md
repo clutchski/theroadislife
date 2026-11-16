@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407020002id_/http://www.theroa
 source_capture_timestamp: "20170407020002"
 source_sha256: "7d2b10d9f22c902efd8bf1201417f779e1fa41df258f702d7682b51d354b4bb8"
 images:
-  - "http://static.flickr.com/20/71617169_d09445f455_m.jpg"
+  - "https://static.flickr.com/20/71617169_d09445f455_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Crossing into Guatemala](http://static.flickr.com/20/71617169_d09445f455_m.jpg)](http://www.flickr.com/photos/theroadislife/71617169/ "Photo Sharing")  
+[![Crossing into Guatemala](https://static.flickr.com/20/71617169_d09445f455_m.jpg)](http://www.flickr.com/photos/theroadislife/71617169/ "Photo Sharing")  
   
 Here is where we get National Geographic. I'd heard that the border crossing we were taking was 'a minor crossing', but being a veteran of an infinite number of Windsor/Detroit crossings meant that I'd imagined something at least a little busier. It's quite possible that we were the only people to cross at Frontera Corozal that day. The guy in the picture drove us from the Mexican side 30 minutes up river to a small shanty town called Bethel, where we scrambled up a mud bank and onto a dusty dirt road.... Guatemala.
 

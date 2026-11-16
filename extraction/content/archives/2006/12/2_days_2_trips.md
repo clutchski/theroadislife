@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407015706id_/http://www.theroa
 source_capture_timestamp: "20170407015706"
 source_sha256: "8f4b74c352b99356e0596a17f61729309db9fbc6a46be9f7e04c678ecfaf849d"
 images:
-  - "http://static.flickr.com/99/317036812_8c4ebc5ed4_m.jpg"
+  - "https://static.flickr.com/99/317036812_8c4ebc5ed4_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![No Fun](http://static.flickr.com/99/317036812_8c4ebc5ed4_m.jpg)](http://www.flickr.com/photos/theroadislife/317036812/ "Photo Sharing")  
+[![No Fun](https://static.flickr.com/99/317036812_8c4ebc5ed4_m.jpg)](http://www.flickr.com/photos/theroadislife/317036812/ "Photo Sharing")  
   
 VANG VIENG, LAOS - Some countries have excellent medical facilities, some countries don't. The fact that Laos is a communist, war-torn, poverty stricken backwater means that it falls clearly into the latter group. Which, of course, is why I'm very glad that this x-ray isn't of my hand.
 

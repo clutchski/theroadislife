@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200920150700id_/http://www.theroa
 source_capture_timestamp: "20200920150700"
 source_sha256: "e8ae9ff74bafac12f36d35d1006b864cdb953824c13ed4450155e22d1d84f396"
 images:
-  - "http://farm1.static.flickr.com/56/121483751_94942bd0fd_m.jpg"
+  - "https://farm1.static.flickr.com/56/121483751_94942bd0fd_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![St. Patricks Day in Panama](http://farm1.static.flickr.com/56/121483751_94942bd0fd_m.jpg)](http://www.flickr.com/photos/theroadislife/121483751/ "Photo Sharing")  
+[![St. Patricks Day in Panama](https://farm1.static.flickr.com/56/121483751_94942bd0fd_m.jpg)](http://www.flickr.com/photos/theroadislife/121483751/ "Photo Sharing")  
   
 GIMHAE, SOUTH KOREA - Over on this side of the planet, in the future, it's already St. Patricks day. For reasons that I can't even explain myself, I've been hording this ratty old green t-shirt (pictured) for a full year now. I'm pretty sure I bought this gem at a thrift store in Guatemala for less than $1USD.
 

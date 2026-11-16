@@ -9,11 +9,11 @@ source_capture_timestamp: "20200921085905"
 source_sha256: "adacbd1cf6b7166b199131daa9abc7036e380f0b4d8f70f8c30d6f145f9d126f"
 recovery_method: "aggregate archive copy"
 images:
-  - "http://static.flickr.com/1/189197802_46feeb51bc_m.jpg"
+  - "https://static.flickr.com/1/189197802_46feeb51bc_m.jpg"
 comments: not_in_aggregate_capture
 ---
 
-[![Tank](http://static.flickr.com/1/189197802_46feeb51bc_m.jpg)](http://www.flickr.com/photos/theroadislife/189197802/ "Photo Sharing")  
+[![Tank](https://static.flickr.com/1/189197802_46feeb51bc_m.jpg)](http://www.flickr.com/photos/theroadislife/189197802/ "Photo Sharing")  
   
 NOUMEA, NEW CALEDONIA - Our guide book calls this place "The Paris of The Pacific", but, in my opinion it more closely resembles "The Apartide of The Pacific". The local natives ([Kanaks](http://en.wikipedia.org/wiki/Kanaks)) have been trying, unsuccessfully and sometimes violently, for independence from France for many years now. The reality is that the territory is resource rich and France won't give it away without a fight. In fact this morning, as part of the French national holiday, [Bastille Day](http://en.wikipedia.org/wiki/Bastille_day), we took in a genuine French Military parade (pictured above) complete with tanks and attack helicopters. It's sole purpose seeming to be to remind the Kanaks who's the boss in these parts. It was quite a spectacle.
 

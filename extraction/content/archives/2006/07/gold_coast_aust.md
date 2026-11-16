@@ -9,11 +9,11 @@ source_capture_timestamp: "20200927010445"
 source_sha256: "50e05f203f01e2f94e0cb9aec9cbfa47b4ad794943740b0a407ad9218beff4bc"
 recovery_method: "aggregate archive copy"
 images:
-  - "http://static.flickr.com/69/198843177_8dbf3cb18a_m.jpg"
+  - "https://static.flickr.com/69/198843177_8dbf3cb18a_m.jpg"
 comments: not_in_aggregate_capture
 ---
 
-[![Flying Fish](http://static.flickr.com/69/198843177_8dbf3cb18a_m.jpg)](http://www.flickr.com/photos/theroadislife/198843177/ "Photo Sharing")  
+[![Flying Fish](https://static.flickr.com/69/198843177_8dbf3cb18a_m.jpg)](http://www.flickr.com/photos/theroadislife/198843177/ "Photo Sharing")  
   
 BRISBANE, AUSTRALIA - Two days ago we limped into Australia, broken, a little bruised, but not beaten; certainly not beaten. The fact that I've made it here represents a big milestone for me. Since sailing out of Panama 3 1/2 months ago, I've managed to cross the worlds biggest Ocean, logging 8400 NM (15,000km) in the process. I've visited 5 different countries and 9 Pacific islands, most of which I'd never heard of a year ago. I've seen more sunrises during this crossing than I'd seen in my lifetime.
 

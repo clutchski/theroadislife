@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407015239id_/http://www.theroa
 source_capture_timestamp: "20170407015239"
 source_sha256: "a01cae9b029f4ea2ed7a385f1866555f2a3d639c9bef43364177d68681022ec5"
 images:
-  - "http://static.flickr.com/51/138621337_5a150fa493_m.jpg"
+  - "https://static.flickr.com/51/138621337_5a150fa493_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![North Seymour (SCUBA Diving)](http://static.flickr.com/51/138621337_5a150fa493_m.jpg)](http://www.flickr.com/photos/theroadislife/138621337/ "Photo Sharing")  
+[![North Seymour (SCUBA Diving)](https://static.flickr.com/51/138621337_5a150fa493_m.jpg)](http://www.flickr.com/photos/theroadislife/138621337/ "Photo Sharing")  
   
 GALAPAGOS, ECUADOR - While Brians attempts at 'dancing' underwater with a pair of sea lions were made less than graceful due to a thick wetsuit and cumbersome SCUBA gear, I kept cranking neck to keep an eye on the small cave, less than three metres away, that housed no less than four white tip sharks. They say they´re harmless but, I´m not exactly sure who 'they' is and in my eye these sharks looked menacing enough to warrant at least some of my attention..
 

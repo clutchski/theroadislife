@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200925192552id_/http://www.theroa
 source_capture_timestamp: "20200925192552"
 source_sha256: "fad84eee9a635bfd8b8b767cd188f33704b243dc0dbad9823bffda37603d4584"
 images:
-  - "http://static.flickr.com/92/248702344_276dbb3891_m.jpg"
+  - "https://static.flickr.com/92/248702344_276dbb3891_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Nothing To See Here](http://static.flickr.com/92/248702344_276dbb3891_m.jpg)](http://www.flickr.com/photos/theroadislife/248702344/ "Photo Sharing")  
+[![Nothing To See Here](https://static.flickr.com/92/248702344_276dbb3891_m.jpg)](http://www.flickr.com/photos/theroadislife/248702344/ "Photo Sharing")  
   
 DARWIN, AUSTRALIA - There was a general feeling of dread, in the car, as we realized we may have been out of our league and in the middle of nowhere. With not enough fuel to turn back and an inky, black, croc-infested river flowing in front of us, the only way for us was forward, through the river and back onto the road on the other side.
 

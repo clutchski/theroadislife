@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200925202527id_/http://www.theroa
 source_capture_timestamp: "20200925202527"
 source_sha256: "7fbf77270f439b2b6e32a61537b28f5d52753b3dfc57bd830a23360137a8cfda"
 images:
-  - "http://static.flickr.com/115/309399870_28b832a25c_m.jpg"
+  - "https://static.flickr.com/115/309399870_28b832a25c_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Intrepid Trekkers](http://static.flickr.com/115/309399870_28b832a25c_m.jpg)](http://www.flickr.com/photos/theroadislife/309399870/ "Photo Sharing")  
+[![Intrepid Trekkers](https://static.flickr.com/115/309399870_28b832a25c_m.jpg)](http://www.flickr.com/photos/theroadislife/309399870/ "Photo Sharing")  
   
 CHANG MAI, THAILAND - Puking out of the back of the truck as we made our way into the mountains wasn't an ideal way to break the ice with our newly formed trekking group, but it worked. Despite waking up early that morning with what seemed to me to be a fatal case of food poisoning, I'd chosen to go along on the trek. It wasn't until several hours later, as I trudged through the jungle, that I started to worry; every attempt to get either food or fluid into my body was violently rejected my stomach. I was growing weak and dehydrating fast, and here I was, hiking further and further from modern medical help.
 
