@@ -15,18 +15,18 @@ images:
 
 # Frequently Asked Questions
 
-[What exactly is the point of this site?](#1)  
-[Why no air travel?](#2)  
-[How are you going to get across the Oceans?](#3)  
-[How long will it take?](#4)  
-[Who are you travelling with?](#5)  
-[What is your route?](#6)  
-[What are you bringing with you?](#7)  
-[How are you going to update this site while travelling?](#8)  
-[How much money do you have?](#10)  
-[Are you planning to make money on the way?](#11)  
-[Does this website make money?](#12)  
-[Can I help out at all?](#13)  
+[What exactly is the point of this site?](#what-exactly-is-the-point-of-this-site)  
+[Why no air travel?](#why-no-air-travel)  
+[How are you going to get across the Oceans?](#how-are-you-going-to-get-across-the-oceans)  
+[How long will it take?](#how-long-will-it-take)  
+[Who are you travelling with?](#who-are-you-travelling-with)  
+[What is your route?](#what-is-your-route)  
+[What are you bringing with you?](#what-are-you-bringing-with-you)  
+[How are you going to update this site while travelling?](#how-are-you-going-to-update-this-site-while-travelling)  
+[How much money do you have?](#how-much-money-do-you-have)  
+[Are you planning to make money on the way?](#are-you-going-to-make-money-on-the-way)  
+[Does this website make money?](#does-this-website-make-money)  
+[Can I help out at all?](#can-i-help-out-at-all)  
   
   
 
@@ -34,7 +34,7 @@ images:
 
   
 
-Well, it's the personal website of [Ryan Henderson](http://www.theroadislife.com/about.htm). I created it as a means for me to provide regular updates on my attempt to circumnavigate the world without the use of air travel. It's a spot for friends and family to stop by periodically to see what I'm up to and where I've been, without being subjected to mass emails and inboxes clogged with giant photos. I left on October 1st 7th 2005; I'm not sure when I'll return.
+Well, it's the personal website of [Ryan Henderson](/pages/about/). I created it as a means for me to provide regular updates on my attempt to circumnavigate the world without the use of air travel. It's a spot for friends and family to stop by periodically to see what I'm up to and where I've been, without being subjected to mass emails and inboxes clogged with giant photos. I left on October 1st 7th 2005; I'm not sure when I'll return.
 
   
 
@@ -83,7 +83,7 @@ Willie's plan is to stay with us at least until the Spring of 2006, before retur
 
   
 
-This plan isn't my own. [Brian O'Neill](http://www.theroadislife.com/about.htm) is coming along and
+This plan isn't my own. [Brian O'Neill](/pages/about/) is coming along and
 Willie Paul, a friend from home, caught up with us in Mexico City for a 3-month stint. Of course were also always meeting travellers along the way and seem to have at least one or two others rounding off our intrepid crew at any given time.
 
 *\*Brian ended up flying home from Tahiti for a summer of earning money and his sisters wedding. He promises to rejoin the trip sometime in October, 2006.*
