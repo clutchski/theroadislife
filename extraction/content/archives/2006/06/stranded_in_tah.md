@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20070818220839id_/http://www.theroa
 source_capture_timestamp: "20070818220839"
 source_sha256: "f8fc1a7ac8270eedfa9f3d5888c52d9caab8d5af8c3efd750beb049323965a46"
 images:
-  - "http://static.flickr.com/56/163170429_4874edabab_b.jpg"
+  - "https://static.flickr.com/56/163170429_4874edabab_b.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![IMG_1029[1]](http://static.flickr.com/56/163170429_4874edabab_b.jpg)](http://www.flickr.com/photos/theroadislife/163170429/ "Photo Sharing")  
+[![IMG_1029[1]](https://static.flickr.com/56/163170429_4874edabab_b.jpg)](http://www.flickr.com/photos/theroadislife/163170429/ "Photo Sharing")  
   
 PAPEETE, TAHITI - It's been more than 6 weeks since I've accessed the internet. A lot has happended since, including another 41 days at sea and a solid week in the remote, but profoundly beautiful Marquesan Island of Hiva Oa.
 

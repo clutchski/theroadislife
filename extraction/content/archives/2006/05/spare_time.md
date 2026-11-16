@@ -7,13 +7,13 @@ source_capture: "https://web.archive.org/web/20070818121004id_/http://www.theroa
 source_capture_timestamp: "20070818121004"
 source_sha256: "3478e57eb6edf273d92d6b1b07125f26238151f9eed2903c49b02fa533e74989"
 images:
-  - "http://static.flickr.com/48/135970379_417ecf66d5_m.jpg"
+  - "https://static.flickr.com/48/135970379_417ecf66d5_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
 *\*This post was written by Brian before leaving the Galapagos. It's been set up to publish automatically. We are, presumably, still at sea, slowly making our way to French Polynesia (Marquesas).*
 
-[![Brian](http://static.flickr.com/48/135970379_417ecf66d5_m.jpg)](http://www.flickr.com/photos/theroadislife/135970379/ "Photo Sharing")  
+[![Brian](https://static.flickr.com/48/135970379_417ecf66d5_m.jpg)](http://www.flickr.com/photos/theroadislife/135970379/ "Photo Sharing")  
   
 SOMEWHERE IN INTERNATIONAL WATERS - Because the little dramatic moments of mechanical failure make for more exciting posts and emails, we tend to focus more on them than the actual day to day ins and outs of this whole sailing venture. We most commonly fail to highlight the fact that the boat, in essence, steers herself. With a steady wind and the autopilot engaged, course adjustments generally happen once every few hours. We occasionally have the pleasure of easing or tightening a few sheets, or even tacking the boat - but again rarely.   
   

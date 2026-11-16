@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20100629055147id_/http://www.theroa
 source_capture_timestamp: "20100629055147"
 source_sha256: "d20e438935575fb78d141efc75ddbdcd2c2aa4c5c31476c4db67e6a371d6f240"
 images:
-  - "http://static.flickr.com/87/274468380_203745aefd_m.jpg"
+  - "https://static.flickr.com/87/274468380_203745aefd_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![The Crew](http://static.flickr.com/87/274468380_203745aefd_m.jpg)](http://www.flickr.com/photos/theroadislife/274468380/ "Photo Sharing")  
+[![The Crew](https://static.flickr.com/87/274468380_203745aefd_m.jpg)](http://www.flickr.com/photos/theroadislife/274468380/ "Photo Sharing")  
   
 SINGAPORE - We were more than 400 km south of Australia, somewhere in the Southern Ocean, weathering a strong gale. Giant waves were regularly coming over the bow and no one could venture outside. Even though the ship was pitching and rolling more violently than any of the crew could remember - the, always cheery, Filipino crew managed to drag out their Karaoke machine and the Polish officers started on their vodka shots and I tried 'em both. It didn't seem as strange as it sounds when one of the crew suddenly appeared in drag; his red dress allegedly a requirement for anybody celebrating a birthday at sea.
 

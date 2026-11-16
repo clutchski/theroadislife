@@ -7,13 +7,13 @@ source_capture: "https://web.archive.org/web/20200923200218id_/http://www.theroa
 source_capture_timestamp: "20200923200218"
 source_sha256: "2790ed9f35b171ca64d8643279c421585be5968854db27a6c08d8715f1feff73"
 images:
-  - "http://static.flickr.com/6/69674691_59c7e6256c_m.jpg"
+  - "https://static.flickr.com/6/69674691_59c7e6256c_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
 *\*I'm headed to Montreal later this morning, and rather than actually put effort into creating a post, I thought I'd provide a flashback to warmer times. This entry was written by Caroline more than a month ago while we were still traipsing through the jungles of Chiapas, Mexico. For me this is as easy as cut and paste...*
 
-[![Waterfall - Agua Azul (Chiapas)](http://static.flickr.com/6/69674691_59c7e6256c_m.jpg)](http://www.flickr.com/photos/theroadislife/69674691/ "Photo Sharing")  
+[![Waterfall - Agua Azul (Chiapas)](https://static.flickr.com/6/69674691_59c7e6256c_m.jpg)](http://www.flickr.com/photos/theroadislife/69674691/ "Photo Sharing")  
   
 From the Zapatista stronghold of San Cristobal de las Casas we battled the bus route to the incredible waterfalls at Agua Azul, and were truly glad we bothered. Although the sun wasn't even out to enhance the vivid turquoise of the river, it was obvious the place hadn't been named "Blue Water" for nothing. Stretching through miles of lush Mexican jungle, the tropical pools are separated by brilliant white waterfalls, and by the time we grabbed our bathing suits we pretty much had the place to ourselves. After a dip in one of the pools and a quick lesson in barrel rolling (that's a swift water flood and river rescue technique, FYI), we decided it was dinner time and settled ourselves into a restaurant.
 

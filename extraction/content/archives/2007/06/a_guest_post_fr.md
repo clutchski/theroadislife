@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20100822150536id_/http://www.theroa
 source_capture_timestamp: "20100822150536"
 source_sha256: "e5e6a36d676b5520f7ab2355a0ecd52660a2fc16b940b0d33be7cd257b3f7103"
 images:
-  - "http://farm2.static.flickr.com/1056/525155684_c5692b8d8b_m.jpg"
+  - "https://farm2.static.flickr.com/1056/525155684_c5692b8d8b_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Ryan and Jon](http://farm2.static.flickr.com/1056/525155684_c5692b8d8b_m.jpg)](http://www.flickr.com/photos/theroadislife/525155684/ "Photo Sharing")  
+[![Ryan and Jon](https://farm2.static.flickr.com/1056/525155684_c5692b8d8b_m.jpg)](http://www.flickr.com/photos/theroadislife/525155684/ "Photo Sharing")  
   
 AMSTERDAM, THE NETHERLANDS - Tonight is Ryan and I's last night together. He leaves in the morning to London by train and I leave Sunday aboard an airplane for Toronto. We'll make the most of it. So far Amsterdam has been very good to us.
 

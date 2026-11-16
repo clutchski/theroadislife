@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20090129144611id_/http://theroadisl
 source_capture_timestamp: "20090129144611"
 source_sha256: "8b52e3ec00d4d7e4e910e3a1e4cdef2c04fe45ed839109fb1c40de12509e66fb"
 images:
-  - "http://farm2.static.flickr.com/1131/534573700_58b2355b76_o.jpg"
+  - "https://farm2.static.flickr.com/1131/534573700_58b2355b76_o.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Queen Mary 2](http://farm2.static.flickr.com/1131/534573700_58b2355b76_o.jpg)](http://www.flickr.com/photos/theroadislife/534573700/ "Photo Sharing")  
+[![Queen Mary 2](https://farm2.static.flickr.com/1131/534573700_58b2355b76_o.jpg)](http://www.flickr.com/photos/theroadislife/534573700/ "Photo Sharing")  
   
 THE ATLANTIC OCEAN - I'd really intended to write a post from London. But with only two full days in the city I was occupied nearly every moment that I was there. I'll say that it was a great time and it's a place that I would love to return to. It's one of the bigger-than-life cities of the world like Tokyo, New York, Moscow and probably Paris. A city that's cosmopolitan nature makes most others seem small; A great place to live provided you can earn the wage. I did however, miss posting about London by a couple days and it's already fading into the distance as I'm currently sailing for New York City.
 

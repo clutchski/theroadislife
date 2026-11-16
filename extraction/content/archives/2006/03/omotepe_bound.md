@@ -9,11 +9,11 @@ source_capture_timestamp: "20170407015644"
 source_sha256: "8f86976bd3a1a41d274f6285f71baf4ca0bbc9e4836482d07a88ffa376ba7006"
 recovery_method: "aggregate archive copy"
 images:
-  - "http://static.flickr.com/42/107281584_42c17fa57c_m.jpg"
+  - "https://static.flickr.com/42/107281584_42c17fa57c_m.jpg"
 comments: not_in_aggregate_capture
 ---
 
-[![Good People - All of Them](http://static.flickr.com/42/107281584_42c17fa57c_m.jpg)](http://www.flickr.com/photos/theroadislife/107281584/ "Photo Sharing")  
+[![Good People - All of Them](https://static.flickr.com/42/107281584_42c17fa57c_m.jpg)](http://www.flickr.com/photos/theroadislife/107281584/ "Photo Sharing")  
   
 SAN JUAN DEL SUR - NICARAGUA, We don't have much time. If we move with just a little more *gusto* than usual there's a chance we'll make the last ferry out the volcanic [Isla De Ometepe](http://en.wikipedia.org/wiki/Ometepe). It's just past noon and after a very groggy start we've only travelled 14km. 50 more to go; in what is promising to be a strong headwind and a consitent, but slight, climb.
 

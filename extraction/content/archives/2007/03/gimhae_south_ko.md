@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407074944id_/http://www.theroa
 source_capture_timestamp: "20170407074944"
 source_sha256: "944508854f429e8e985d8ebfae8879dca32e22117d28fbb96f50a686bcfe51cd"
 images:
-  - "http://farm1.static.flickr.com/127/407496551_174b2e6da6_m.jpg"
+  - "https://farm1.static.flickr.com/127/407496551_174b2e6da6_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Put him in the oven!](http://farm1.static.flickr.com/127/407496551_174b2e6da6_m.jpg)](http://www.flickr.com/photos/theroadislife/407496551/ "Photo Sharing")  
+[![Put him in the oven!](https://farm1.static.flickr.com/127/407496551_174b2e6da6_m.jpg)](http://www.flickr.com/photos/theroadislife/407496551/ "Photo Sharing")  
   
 GIMHAE, SOUTH KOREA - I always knew a trip around the world would place me in situations I never would have dreamed up. It's all part of the game; the chance for new life experiences, both good and bad. Korea hasn't been a derailment of my goal so much as a hiccup along the road. I must say though, I never would have imagined my life would take this turn.
 

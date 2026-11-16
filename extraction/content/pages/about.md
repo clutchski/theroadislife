@@ -8,12 +8,12 @@ source_capture: "https://web.archive.org/web/20090609170606id_/http://www.theroa
 source_capture_timestamp: "20090609170606"
 source_sha256: "b7edf052315e6f69b9523be92bddcadee68a0b8ee90a26b5640ad600bdae4556"
 images:
-  - "http://static.flickr.com/87/237404839_1f1db2714a.jpg"
-  - "http://static.flickr.com/88/237467971_b810ee097b.jpg"
-  - "http://static.flickr.com/96/237605301_1783d8325f.jpg"
+  - "https://static.flickr.com/87/237404839_1f1db2714a.jpg"
+  - "https://static.flickr.com/88/237467971_b810ee097b.jpg"
+  - "https://static.flickr.com/96/237605301_1783d8325f.jpg"
 ---
 
-[![CroppedBuddha](http://static.flickr.com/87/237404839_1f1db2714a.jpg)](http://www.flickr.com/photos/theroadislife/237404839/ "Photo Sharing")
+[![CroppedBuddha](https://static.flickr.com/87/237404839_1f1db2714a.jpg)](http://www.flickr.com/photos/theroadislife/237404839/ "Photo Sharing")
   
 
 # About Ryan
@@ -39,7 +39,7 @@ Upon returning to Canada he worked, and secretly enjoyed, a job at a giant inves
 Brian O’Neill was the only other member of the ‘summer camp pact’ who could be convinced to go through with it. The others, while still good friends of both Ryan and Brian, weren’t able to leave their established lives as easily for this adventure.
 
   
-[![Briancropped](http://static.flickr.com/88/237467971_b810ee097b.jpg)](http://www.flickr.com/photos/theroadislife/237467971/ "Photo Sharing")
+[![Briancropped](https://static.flickr.com/88/237467971_b810ee097b.jpg)](http://www.flickr.com/photos/theroadislife/237467971/ "Photo Sharing")
   
 
 # About Brian
@@ -56,7 +56,7 @@ He's traveled with Ryan all the way from New York City to Tahiti, before flying 
 It remains to be seen whether or not he'll rejoin the trip in the future. Here's to hoping so.
 
   
-[![Jon](http://static.flickr.com/96/237605301_1783d8325f.jpg)](http://www.flickr.com/photos/theroadislife/237605301/ "Photo Sharing")
+[![Jon](https://static.flickr.com/96/237605301_1783d8325f.jpg)](http://www.flickr.com/photos/theroadislife/237605301/ "Photo Sharing")
   
 
 # About Jonathan

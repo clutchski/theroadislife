@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200925190042id_/http://www.theroa
 source_capture_timestamp: "20200925190042"
 source_sha256: "af027cb2e36b01bb9c00c3e691a922ae77945627ba31eef7d99e311ae8592875"
 images:
-  - "http://static.flickr.com/33/49209549_99ea5f8e66_m.jpg"
+  - "https://static.flickr.com/33/49209549_99ea5f8e66_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Ryan and Brian - Sailing](http://static.flickr.com/33/49209549_99ea5f8e66_m.jpg)](http://www.flickr.com/photos/theroadislife/49209549/ "Photo Sharing")  
+[![Ryan and Brian - Sailing](https://static.flickr.com/33/49209549_99ea5f8e66_m.jpg)](http://www.flickr.com/photos/theroadislife/49209549/ "Photo Sharing")  
   
   
 Over the last few days we've been in contact with [The Sudbury Star](http://www.thesudburystar.com/webapp/sitepages/), a local newspaper that may be doing a story on our trip. It wasn't until they asked for a picture of Brian and I together that I realized that there are very few pics of us in the same frame, at least that I'm aware of. The one you see is what my mother was able to dig up on some very short notice. It was taken a couple years ago at [John Island](http://www.johnisland.ymca.ca/) and has the added bonus of having a sailing theme! However, I'm pretty sure we'll need a more substatial boat than the one pictured.

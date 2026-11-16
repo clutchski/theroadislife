@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200923180353id_/http://www.theroa
 source_capture_timestamp: "20200923180353"
 source_sha256: "2a8adc9f3ec28003447d4d06b8a6370699ca9cefc6f21349a94d5efa7b35c124"
 images:
-  - "http://static.flickr.com/46/130805643_fc622f68db_m.jpg"
+  - "https://static.flickr.com/46/130805643_fc622f68db_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Pilot Chart](http://static.flickr.com/46/130805643_fc622f68db_m.jpg)](http://www.flickr.com/photos/theroadislife/130805643/ "Photo Sharing")  
+[![Pilot Chart](https://static.flickr.com/46/130805643_fc622f68db_m.jpg)](http://www.flickr.com/photos/theroadislife/130805643/ "Photo Sharing")  
   
 DAVID PANAMA - This is something I must have spent several thousand hours day-dreaming about over the course of my life. It blows my mind to actually stop to realize that I'm doing it. I don´t really even know how I got this far, I just started telling everybody it would happen. We set a date and when the time came I left my job, moved my furniture into storage and just did it; one step at a time.
 

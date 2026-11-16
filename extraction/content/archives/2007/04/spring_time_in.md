@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170406215711id_/http://www.theroa
 source_capture_timestamp: "20170406215711"
 source_sha256: "3b2ff138fadcbc4b31044181e84545a4e3a72019ef0c5c1e32323fb7b6998c5a"
 images:
-  - "http://farm1.static.flickr.com/175/464987673_4fb3e49056_m.jpg"
+  - "https://farm1.static.flickr.com/175/464987673_4fb3e49056_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Snowy Ger](http://farm1.static.flickr.com/175/464987673_4fb3e49056_m.jpg)](http://www.flickr.com/photos/theroadislife/464987673/ "Photo Sharing")  
+[![Snowy Ger](https://farm1.static.flickr.com/175/464987673_4fb3e49056_m.jpg)](http://www.flickr.com/photos/theroadislife/464987673/ "Photo Sharing")  
   
 ULAANBAATAR, MONGOLIA - I'm having a lot of trouble thinking of something to write here. It's funny 'cause the last 6 days will probably be among the most memorable of this entire trip. I'd never really dreamed of visiting Mongolia, it just sort of ended up along the path toward Europe.
 

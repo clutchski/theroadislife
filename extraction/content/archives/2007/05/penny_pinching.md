@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20100823232219id_/http://www.theroa
 source_capture_timestamp: "20100823232219"
 source_sha256: "6dbe0705544c670991c376cfa2db51ae2bbd4dd0edcbb99ba97d35e2856a9d69"
 images:
-  - "http://farm1.static.flickr.com/202/520358742_9b9bc797ef_m.jpg"
+  - "https://farm1.static.flickr.com/202/520358742_9b9bc797ef_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Cologne Cathedral](http://farm1.static.flickr.com/202/520358742_9b9bc797ef_m.jpg)](http://www.flickr.com/photos/theroadislife/520358742/ "Photo Sharing")  
+[![Cologne Cathedral](https://farm1.static.flickr.com/202/520358742_9b9bc797ef_m.jpg)](http://www.flickr.com/photos/theroadislife/520358742/ "Photo Sharing")  
   
 COLOGNE, GERMANY - When the ticket agent at the train station in Berlin quoted us the fare for the the 4 hour journey to Cologne as 180€, my wallet shrieked. I´d heard that trains in Germany were expensive, but this was more than I´d bargained for considering that I almost went from Beijing to Moscow for that amount.
 

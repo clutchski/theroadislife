@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20070819001430id_/http://www.theroa
 source_capture_timestamp: "20070819001430"
 source_sha256: "b905cc571fbb08c52bacdf83b4d0a23b2be8f6f8c0b4ae4e5c0845a18157f5af"
 images:
-  - "http://static.flickr.com/53/136974327_4fff01eeee_m.jpg"
+  - "https://static.flickr.com/53/136974327_4fff01eeee_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Takin' Off (From The Stern)](http://static.flickr.com/53/136974327_4fff01eeee_m.jpg)](http://www.flickr.com/photos/theroadislife/136974327/ "Photo Sharing")  
+[![Takin' Off (From The Stern)](https://static.flickr.com/53/136974327_4fff01eeee_m.jpg)](http://www.flickr.com/photos/theroadislife/136974327/ "Photo Sharing")  
   
 GALAPAGOS, ECUADOR - We've been here now for 6 days; long enough to see some sights, make necessary repairs and re provision the boat. Today we sail for the [Marquesas](http://en.wikipedia.org/wiki/Marquesas) Archipelago, a remote part of French Polynesia famous, in recent history, as being the site for the 4th series of [Survivor](http://www.cbs.com/primetime/survivor4/marquesas/marquesas.php) on CBS (you know, the one with 'Boston Rob'). At 3000 nm (5600 km), this will be the biggest stretch of Ocean we´ll encounter on our trip around the world.
 

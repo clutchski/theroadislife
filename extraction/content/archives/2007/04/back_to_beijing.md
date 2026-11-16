@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200925192052id_/http://www.theroa
 source_capture_timestamp: "20200925192052"
 source_sha256: "a747947794cd1af69c47242c1abc9a7eb909590a3a92aa671c6f7e849c571bd4"
 images:
-  - "http://farm1.static.flickr.com/202/448104760_f8ba47fd22_m.jpg"
+  - "https://farm1.static.flickr.com/202/448104760_f8ba47fd22_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![The Biggest Little City Ever](http://farm1.static.flickr.com/202/448104760_f8ba47fd22_m.jpg)](http://www.flickr.com/photos/theroadislife/448104760/ "Photo Sharing")  
+[![The Biggest Little City Ever](https://farm1.static.flickr.com/202/448104760_f8ba47fd22_m.jpg)](http://www.flickr.com/photos/theroadislife/448104760/ "Photo Sharing")  
   
 BEIJING, CHINA - The haze cleared to reveal what I'm certain is the worlds most amazing skyline ([especially at night](http://www.flickr.com/photos/eneko123/296444611/)) around the same time that the Russians issued me a visa. For a few brief, shining hours in Shanghai, all was right in the world. After more than two months of waiting: I'd gotten what I was looking for. Within a few hours I was on another overnight train bound for Beijing.
 

@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407080307id_/http://www.theroa
 source_capture_timestamp: "20170407080307"
 source_sha256: "98243f2359cefed85426373f257e208ed0342206f3dcedc698684a0999b512b1"
 images:
-  - "http://static.flickr.com/35/72878747_c6aa87fc86_m.jpg"
+  - "https://static.flickr.com/35/72878747_c6aa87fc86_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Caroline's Birthday - Rio Dulce](http://static.flickr.com/35/72878747_c6aa87fc86_m.jpg)](http://www.flickr.com/photos/theroadislife/72878747/ "Photo Sharing")  
+[![Caroline's Birthday - Rio Dulce](https://static.flickr.com/35/72878747_c6aa87fc86_m.jpg)](http://www.flickr.com/photos/theroadislife/72878747/ "Photo Sharing")  
   
 Despite around 200 decibels of Guatemalan folk music blasting out of the speakers on the bus ride from Flores, our ears (and indeed the rest of our bodies) made it to Rio Dulce intact, to be greeted by a crowd of locals selling tours, boat trips, and everything else we didn't need right at that precise moment. We checked in to Hotel Marilu and were immediately reminded of the opening scene in [Apocalypse Now](http://www.imdb.com/title/tt0078788/), of Martin Sheen sweating it out in a hotel room in Saigon. To give you more of an sense of it, Willie commented that this type of hotel room was the exact style that he'd imagined suffering malaria in. And in Ryan's words it was, "sparsely decorated with peach-coloured walls, cracked and graffitied just a little, a ceiling fan positioned directly above a single light bulb creating a strobe effect when both were turned on. And the humidity - heavy and thick. A great place for malaria; a perfect place to die from it." Get the picture?!
 

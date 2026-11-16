@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200921094246id_/http://www.theroa
 source_capture_timestamp: "20200921094246"
 source_sha256: "a80dd8730b6f273fd4d77fe1eff088c1855e72d0ec5d8a6d333c597829d33405"
 images:
-  - "http://static.flickr.com/117/298654197_2ad1abbf8e_m.jpg"
+  - "https://static.flickr.com/117/298654197_2ad1abbf8e_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Buckets](http://static.flickr.com/117/298654197_2ad1abbf8e_m.jpg)](http://www.flickr.com/photos/theroadislife/298654197/ "Photo Sharing")  
+[![Buckets](https://static.flickr.com/117/298654197_2ad1abbf8e_m.jpg)](http://www.flickr.com/photos/theroadislife/298654197/ "Photo Sharing")  
   
 KO PHAN-NGAN, THAILAND - So I haven't been giving this site much love lately, this I know. My difficulties are two-fold.
 

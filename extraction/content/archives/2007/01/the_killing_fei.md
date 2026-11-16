@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407031714id_/http://www.theroa
 source_capture_timestamp: "20170407031714"
 source_sha256: "524bd8825f03eb2ede91f5922664985b8bc18d10dade8eb85542ad9949c379ca"
 images:
-  - "http://farm1.static.flickr.com/153/359333849_3157435a28_m.jpg"
+  - "https://farm1.static.flickr.com/153/359333849_3157435a28_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Stacked Skulls](http://farm1.static.flickr.com/153/359333849_3157435a28_m.jpg)](http://www.flickr.com/photos/theroadislife/359333849/ "Photo Sharing")  
+[![Stacked Skulls](https://farm1.static.flickr.com/153/359333849_3157435a28_m.jpg)](http://www.flickr.com/photos/theroadislife/359333849/ "Photo Sharing")  
   
 PHNOM PENH, CAMBODIA - The temples of Angkor were astounding. They were vast. They were beautiful. They were awe inspiring. Even for my templed-out senses. I put them in the same league as the Mayan ruins at Tikal and the Great Pyramids in Egypt.
 

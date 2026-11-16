@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200921110655id_/http://www.theroa
 source_capture_timestamp: "20200921110655"
 source_sha256: "f367f778fb937ccc7aa8a0686e28b9a3d938c1ebab6e7e86ec82c0698c105889"
 images:
-  - "http://farm1.static.flickr.com/176/436128551_80caefd06e_m.jpg"
+  - "https://farm1.static.flickr.com/176/436128551_80caefd06e_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![View From the Park Hyatt](http://farm1.static.flickr.com/176/436128551_80caefd06e_m.jpg)](http://www.flickr.com/photos/theroadislife/436128551/ "Photo Sharing")  
+[![View From the Park Hyatt](https://farm1.static.flickr.com/176/436128551_80caefd06e_m.jpg)](http://www.flickr.com/photos/theroadislife/436128551/ "Photo Sharing")  
   
 KYOTO, JAPAN - A weekend in Tokyo is like a weekend trip to the future. Like some ultra cool sci-fi vacation. The fashions, the lights, the gadgets and the controlled chaos of it all blew me away. I`d known going in, that it was the [biggest city](http://en.wikipedia.org/wiki/List_of_urban_areas_by_population) in the entire world. What I didn`t imagine was how apparent it would seem.
 

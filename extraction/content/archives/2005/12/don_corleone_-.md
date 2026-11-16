@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200921110320id_/http://www.theroa
 source_capture_timestamp: "20200921110320"
 source_sha256: "7369ef0d308308f511b0df0f34b097c390d3ad9f83602baf1701ee7af0e76421"
 images:
-  - "http://static.flickr.com/9/69153932_1a140cca43_m.jpg"
+  - "https://static.flickr.com/9/69153932_1a140cca43_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Room with a View - Zipolite](http://static.flickr.com/9/69153932_1a140cca43_m.jpg)](http://www.flickr.com/photos/theroadislife/69153932/ "Photo Sharing")  
+[![Room with a View - Zipolite](https://static.flickr.com/9/69153932_1a140cca43_m.jpg)](http://www.flickr.com/photos/theroadislife/69153932/ "Photo Sharing")  
   
 Zipolite is perhaps the most relaxed place on earth, and it remains my favourite place we've visited thus far. A tiny resort on the Oaxaca coast, it's so relaxed that on the western edge of the beach more than a few people are too laid back even to bother with bathing suits. But in every paradise there are sinister aspects lurking just below the surface, as Brian can attest. The sea has its various stingers, and every year the notoriously strong rip-tides inevitably drag panicked tourists to their deaths.
 

@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200921093345id_/http://www.theroa
 source_capture_timestamp: "20200921093345"
 source_sha256: "17da5732bfb692e008631cd481c29febff9f47e1f2e2d713c45aa5b28485f461"
 images:
-  - "http://farm1.static.flickr.com/149/374300747_fe2c6523d8_m.jpg"
+  - "https://farm1.static.flickr.com/149/374300747_fe2c6523d8_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Halong Bay](http://farm1.static.flickr.com/149/374300747_fe2c6523d8_m.jpg)](http://www.flickr.com/photos/theroadislife/374300747/ "Photo Sharing")  
+[![Halong Bay](https://farm1.static.flickr.com/149/374300747_fe2c6523d8_m.jpg)](http://www.flickr.com/photos/theroadislife/374300747/ "Photo Sharing")  
   
 HANOI, VIETNAM - After spending the last 3 days out on a packaged tour of Halong Bay, I'm back in the city gathering up my visa, train tickets and changing money. I leave for China tonight aboard a 50 hour non-stop train from Hanoi to Bejing.
 

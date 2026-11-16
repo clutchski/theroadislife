@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20120204132742id_/http://www.theroa
 source_capture_timestamp: "20120204132742"
 source_sha256: "ef5ffac6296d758b7f9cc095e9526e58603b5008d36f06e1c1707c7397e3c134"
 images:
-  - "http://static.flickr.com/34/65379733_d93ca3bd7a.jpg"
+  - "https://static.flickr.com/34/65379733_d93ca3bd7a.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Teotithuacan - Main Street](http://static.flickr.com/34/65379733_d93ca3bd7a.jpg)](http://www.flickr.com/photos/theroadislife/65379733/ "Photo Sharing")
+[![Teotithuacan - Main Street](https://static.flickr.com/34/65379733_d93ca3bd7a.jpg)](http://www.flickr.com/photos/theroadislife/65379733/ "Photo Sharing")
 
 This city was abandoned and in ruins even while the Aztecs flourished. In fact nobody even knows the name of it; Teotihuacan is simply what the Aztecs called it. My Aztec is rusty but I think it means 'The Place Where Men Became Gods'. We went, but honestly, I don't feel any different.
 

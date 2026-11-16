@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407025444id_/http://www.theroa
 source_capture_timestamp: "20170407025444"
 source_sha256: "93ceea3493d0a216ff3b5833c446c2a9df5fc0b57b47ce112a4cf1f26ea00b94"
 images:
-  - "http://static.flickr.com/37/74854060_e72bba8872_m.jpg"
+  - "https://static.flickr.com/37/74854060_e72bba8872_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Guatemalan Kids](http://static.flickr.com/37/74854060_e72bba8872_m.jpg)](http://www.flickr.com/photos/theroadislife/74854060/ "Photo Sharing")  
+[![Guatemalan Kids](https://static.flickr.com/37/74854060_e72bba8872_m.jpg)](http://www.flickr.com/photos/theroadislife/74854060/ "Photo Sharing")  
   
 At least part of the point of travelling around the world with no real plan is for unexpected and random things to happen. We've certainly been places and done things that I wouldn't have fathomed 90 days ago. In fact, I've been meaning to post some of these strange and wonderful experiences to this site but as of late, have been admitedly negligent.
 

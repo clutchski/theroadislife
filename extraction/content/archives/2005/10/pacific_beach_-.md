@@ -7,13 +7,13 @@ source_capture: "https://web.archive.org/web/20200921104049id_/http://www.theroa
 source_capture_timestamp: "20200921104049"
 source_sha256: "402388fb04156b0eed223bcd9c7f1db42b33b44c8ea6fbc8200bde0063730666"
 images:
-  - "http://static.flickr.com/31/55808472_1fb0018f2a_m.jpg"
+  - "https://static.flickr.com/31/55808472_1fb0018f2a_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
 **Day 19**
 
-[![Sunset on the Pacific](http://static.flickr.com/31/55808472_1fb0018f2a_m.jpg)](http://www.flickr.com/photos/theroadislife/55808472/ "Photo Sharing")  
+[![Sunset on the Pacific](https://static.flickr.com/31/55808472_1fb0018f2a_m.jpg)](http://www.flickr.com/photos/theroadislife/55808472/ "Photo Sharing")  
   
 This the kinda place that can reel you in for good. It's a place that makes you forget about all the wars and hurricanes ripping the world apart. Somewhere to lose yourself for months, or years, if you let it.
 

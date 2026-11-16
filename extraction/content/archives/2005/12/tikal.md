@@ -9,11 +9,11 @@ source_capture_timestamp: "20200927004311"
 source_sha256: "86da928cc08b0ecf227ecd2bcd2a27970f88250a97d82641913d85280ad2c4ac"
 recovery_method: "aggregate archive copy"
 images:
-  - "http://static.flickr.com/34/71826025_5ce59af211.jpg"
+  - "https://static.flickr.com/34/71826025_5ce59af211.jpg"
 comments: not_in_aggregate_capture
 ---
 
-[![Tikal](http://static.flickr.com/34/71826025_5ce59af211.jpg)](http://www.flickr.com/photos/theroadislife/71826025/ "Photo Sharing")
+[![Tikal](https://static.flickr.com/34/71826025_5ce59af211.jpg)](http://www.flickr.com/photos/theroadislife/71826025/ "Photo Sharing")
 
 There's nothing quite like a sprawling ancient city to make you squirm under the weight of history on your shoulders. There are plenty of cities out there that can do it to you, they don't have to be Mayan. I've been to [Egypt](http://en.wikipedia.org/wiki/Great_Pyramid) and felt it all along the Nile River. I bet there are some doozies in Cambodia and I'm sure [Machu Picchu](http://en.wikipedia.org/wiki/Machu_Pichu) in Peru has a similar effect as [Monte Alban](http://en.wikipedia.org/wiki/Monte_Alban) in Oaxaca did.
 

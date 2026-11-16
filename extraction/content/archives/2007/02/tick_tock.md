@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20100628154520id_/http://www.theroa
 source_capture_timestamp: "20100628154520"
 source_sha256: "af9cbe4a5c45161a0a772d51eb031543e323883c5f34a3d9f2f141c90d52ba3b"
 images:
-  - "http://farm1.static.flickr.com/133/395280689_b19f123e06_o.jpg"
+  - "https://farm1.static.flickr.com/133/395280689_b19f123e06_o.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![TheRoadisWork](http://farm1.static.flickr.com/133/395280689_b19f123e06_o.jpg)](http://www.flickr.com/photos/theroadislife/395280689/ "Photo Sharing")  
+[![TheRoadisWork](https://farm1.static.flickr.com/133/395280689_b19f123e06_o.jpg)](http://www.flickr.com/photos/theroadislife/395280689/ "Photo Sharing")  
   
 GIMHAE, SOUTH KOREA - I just realized it's been a full week since I last posted. Time flies when nothing exciting happens. The difficulty of course is that I'm completely stalled here while I wait for a new passport. I'm simply not doing exciting things.
 

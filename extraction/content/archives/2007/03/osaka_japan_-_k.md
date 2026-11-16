@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200927011727id_/http://www.theroa
 source_capture_timestamp: "20200927011727"
 source_sha256: "6cc73a4a6bf35e71aa2d9cac60318f6823d078370db9b560ecfe5e21e48f2133"
 images:
-  - "http://farm1.static.flickr.com/173/438511727_d9cdc157a4_m.jpg"
+  - "https://farm1.static.flickr.com/173/438511727_d9cdc157a4_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Golden Pavillion](http://farm1.static.flickr.com/173/438511727_d9cdc157a4_m.jpg)](http://www.flickr.com/photos/theroadislife/438511727/ "Photo Sharing")  
+[![Golden Pavillion](https://farm1.static.flickr.com/173/438511727_d9cdc157a4_m.jpg)](http://www.flickr.com/photos/theroadislife/438511727/ "Photo Sharing")  
   
 OSAKA, JAPAN - Kyoto is a must see for anybody travelling to Japan. It`s the cultural centre of all that is Japanese. I took heed and made sure to include it on my whirlwind tour of Japan and now I can safely offer my opinion - and my photos.
 

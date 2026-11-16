@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170406235918id_/http://www.theroa
 source_capture_timestamp: "20170406235918"
 source_sha256: "bce9afea89d9c3bd863704ac9daf1ad650c58d28ad0224a116d9231e57ecbb56"
 images:
-  - "http://static.flickr.com/75/170187949_1ec32adc68.jpg"
+  - "https://static.flickr.com/75/170187949_1ec32adc68.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Cam and Richard](http://static.flickr.com/75/170187949_1ec32adc68.jpg)](http://www.flickr.com/photos/theroadislife/170187949/ "Photo Sharing")  
+[![Cam and Richard](https://static.flickr.com/75/170187949_1ec32adc68.jpg)](http://www.flickr.com/photos/theroadislife/170187949/ "Photo Sharing")  
   
 THE OCEAN - I got an e-mail from the boat. It's not Ryan, its his skipper Neville. It seems that they've got a little more technology than on the previous boat. Sounds like things are going well. I actually spoke with Ryan the other day before he left and he wanted to thank all of you who have sent in donations and [purchased shirts](http://www.theroadislife.com/shop.htm). -jon
 

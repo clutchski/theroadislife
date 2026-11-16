@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20110116051845id_/http://www.theroa
 source_capture_timestamp: "20110116051845"
 source_sha256: "79df6d5e1ca26a9762ab79a4a711991aa0d96085691a8ea8ed78cc04f2d16e9f"
 images:
-  - "http://static.flickr.com/40/98949207_509aacce84_m.jpg"
+  - "https://static.flickr.com/40/98949207_509aacce84_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Our Class](http://static.flickr.com/40/98949207_509aacce84_m.jpg)](http://www.flickr.com/photos/theroadislife/98949207/ "Photo Sharing")  
+[![Our Class](https://static.flickr.com/40/98949207_509aacce84_m.jpg)](http://www.flickr.com/photos/theroadislife/98949207/ "Photo Sharing")  
   
 UTILA, BAY ISLANDS, HONDURAS - When people here get the feeling that you're about to leave, they are often quick to remind us of the three lies that *everybody* tells in Utila:  
 

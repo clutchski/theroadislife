@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407015049id_/http://www.theroa
 source_capture_timestamp: "20170407015049"
 source_sha256: "0f171e08b554aa963b71fb3af25eb49ce40af8c624b2f00c6d5dfd1391506ca2"
 images:
-  - "http://static.flickr.com/76/206342623_9fdf1715c5_m.jpg"
+  - "https://static.flickr.com/76/206342623_9fdf1715c5_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Looking up the Mast](http://static.flickr.com/76/206342623_9fdf1715c5_m.jpg)](http://www.flickr.com/photos/theroadislife/206342623/ "Photo Sharing")  
+[![Looking up the Mast](https://static.flickr.com/76/206342623_9fdf1715c5_m.jpg)](http://www.flickr.com/photos/theroadislife/206342623/ "Photo Sharing")  
   
 SYDNEY, AUSTRALIA - All sailors hate whales; they live in fear of them. Everywhere I sail I hear stories, some true but most exaggerated, of yachts crashing into; or worse, being attacked.
 

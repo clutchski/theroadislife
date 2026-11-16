@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20200925202056id_/http://www.theroa
 source_capture_timestamp: "20200925202056"
 source_sha256: "e9e4d74da801a75265c8dd2de36e794707403146d4a8409adf3f1e9e0226cd7f"
 images:
-  - "http://static.flickr.com/111/294321842_7173cc985c_m.jpg"
+  - "https://static.flickr.com/111/294321842_7173cc985c_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Sunset over Koh Pangnang](http://static.flickr.com/111/294321842_7173cc985c_m.jpg)](http://www.flickr.com/photos/theroadislife/294321842/ "Photo Sharing")  
+[![Sunset over Koh Pangnang](https://static.flickr.com/111/294321842_7173cc985c_m.jpg)](http://www.flickr.com/photos/theroadislife/294321842/ "Photo Sharing")  
   
 KOH SAMUI, THAILAND - Well it took more than a week, all our effort was eventually met with success. In our intrepid search past the Starbucks, tourist markets and go-go dancers we finally stumbled upon the Thailand that people so passionately tell me about. Bungalows on the beach, with only the odd hammock supported by palm trees to block the perfect view of the sun dipping into Gulf of Thailand.
 

@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20090609155248id_/http://www.theroa
 source_capture_timestamp: "20090609155248"
 source_sha256: "74de009da09a9d01a616e811ae441aaa19941b43876bcc9c3e6fa08da12cd981"
 images:
-  - "http://farm1.static.flickr.com/148/379186733_5c393e1e40_m.jpg"
+  - "https://farm1.static.flickr.com/148/379186733_5c393e1e40_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![The Great Wall](http://farm1.static.flickr.com/148/379186733_5c393e1e40_m.jpg)](http://www.flickr.com/photos/theroadislife/379186733/ "Photo Sharing")  
+[![The Great Wall](https://farm1.static.flickr.com/148/379186733_5c393e1e40_m.jpg)](http://www.flickr.com/photos/theroadislife/379186733/ "Photo Sharing")  
   
 BEIJING, CHINA - Though I may look triumphant in this photo of me at the top of the Great Wall of China, I've been anything but since arriving in Beijing.
 

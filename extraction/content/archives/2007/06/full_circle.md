@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20100516064615id_/http://www.theroa
 source_capture_timestamp: "20100516064615"
 source_sha256: "64ff4dc6f1c9a6e01f1d93c7b4ba52016815273870dae822024044d903a8ac58"
 images:
-  - "http://farm2.static.flickr.com/1153/539031545_f6d63af6c4_m.jpg"
+  - "https://farm2.static.flickr.com/1153/539031545_f6d63af6c4_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Statue of Liberty from QM2](http://farm2.static.flickr.com/1153/539031545_f6d63af6c4_m.jpg)](http://www.flickr.com/photos/theroadislife/539031545/ "Photo Sharing")  
+[![Statue of Liberty from QM2](https://farm2.static.flickr.com/1153/539031545_f6d63af6c4_m.jpg)](http://www.flickr.com/photos/theroadislife/539031545/ "Photo Sharing")  
   
 NEW YORK, USA - Even though it was barely 5am, the promenade deck of the Queen Mary 2 was crowded with people. A couple helicopters and more than a few coast guard boats escorted us past the Statue of Liberty and into our berth on the Brooklyn side of the East River as the skyline continued to form in in the pre-dawn mist.
 

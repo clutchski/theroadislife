@@ -7,13 +7,13 @@ source_capture: "https://web.archive.org/web/20060101162839id_/http://www.theroa
 source_capture_timestamp: "20060101162839"
 source_sha256: "519bbed69d017b93fa64e725b50a354304a777d6cfc701f88bc3cec6ed52ed81"
 images:
-  - "http://static.flickr.com/32/51679141_2334822c82_m.jpg"
+  - "https://static.flickr.com/32/51679141_2334822c82_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
 **Day 6**
 
-[![Surfing at Bryant Park](http://static.flickr.com/32/51679141_2334822c82_m.jpg)](http://www.flickr.com/photos/theroadislife/51679141/ "Photo Sharing")  
+[![Surfing at Bryant Park](https://static.flickr.com/32/51679141_2334822c82_m.jpg)](http://www.flickr.com/photos/theroadislife/51679141/ "Photo Sharing")  
   
 [Bryant Park](http://www.bryantpark.org/); Come for the free Wi-Fi, stay for the urban oasis. As long as it's not raining, which is hardly ever, I'm planning to spend some time here each day, on their free wireless internet network updating this site and generally getting my daily fix.
 

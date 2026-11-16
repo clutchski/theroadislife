@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407024440id_/http://www.theroa
 source_capture_timestamp: "20170407024440"
 source_sha256: "9b2227b8924e69c5b726a992488c83332fe7f40f38b0436ec16622edc81ee706"
 images:
-  - "http://static.flickr.com/15/69674690_cd2a2d1400_m.jpg"
+  - "https://static.flickr.com/15/69674690_cd2a2d1400_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![Palenque](http://static.flickr.com/15/69674690_cd2a2d1400_m.jpg)](http://www.flickr.com/photos/theroadislife/69674690/ "Photo Sharing")  
+[![Palenque](https://static.flickr.com/15/69674690_cd2a2d1400_m.jpg)](http://www.flickr.com/photos/theroadislife/69674690/ "Photo Sharing")  
   
 After descending back out of the Madres for the umpteenth time, we were hunkered down less than 2 km from the [Las Ruinas De Palenque](http://en.wikipedia.org/wiki/Palenque) (pictured). I'd never slept out in an open hammock in a real bonafide jungle before. The guide book insisted that the rainy season was over, but the cascading water falling out of the sky took no time finding it's way through the palm leaf shelter and into my face.
 

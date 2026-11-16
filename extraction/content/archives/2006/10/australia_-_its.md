@@ -7,11 +7,11 @@ source_capture: "https://web.archive.org/web/20170407080704id_/http://www.theroa
 source_capture_timestamp: "20170407080704"
 source_sha256: "0649797be28cb99ee62cdf57a16b7315fb0f55ef03b706b89966927c3e501320"
 images:
-  - "http://static.flickr.com/122/260475104_20b8891768_m.jpg"
+  - "https://static.flickr.com/122/260475104_20b8891768_m.jpg"
 comments: preserved_in_raw_capture_not_extracted
 ---
 
-[![BV Baltrum Trader](http://static.flickr.com/122/260475104_20b8891768_m.jpg)](http://www.flickr.com/photos/theroadislife/260475104/ "Photo Sharing")  
+[![BV Baltrum Trader](https://static.flickr.com/122/260475104_20b8891768_m.jpg)](http://www.flickr.com/photos/theroadislife/260475104/ "Photo Sharing")  
   
 DARWIN, AUSTRALIA - I've finally found a boat; my ticket off this continent, though it didn't play out like I expected.
 
