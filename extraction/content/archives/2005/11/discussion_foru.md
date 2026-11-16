@@ -12,7 +12,7 @@ comments: preserved_in_raw_capture_not_extracted
 
 About a week ago there was some talk of a discussion forum. Almost immediately [Dave Ward](http://www.daveward.info/wpblog/) , a friend from my days at John Island Camp, agreed to install a free package on my server. Thanks Dave.
 
-Here´s the link to it: [Discussion Forums](http://www.theroadislife.com/forum/phpBB2/)
+Here´s the link to it: Discussion Forums
 
 I´ve held off this long before giving out the link because I wanted to figure it out first. This I haven´t done. Nevertheless anybody who´s interested can register and post to it. I´ll try to make an appearance now and then.
 

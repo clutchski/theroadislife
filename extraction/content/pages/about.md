@@ -70,6 +70,6 @@ Jon spent a lot of years living and growing up in New Jersey, but is a Canadian 
 
 While not actually travelling on this journey he's still very much part of the website; the man behind the curtain; our civilization man if you will. He stores Ryan's broken and abandoned travelling gear. Not only that, but he co-ordinates pick-ups and drop offs of said gear. If Ryan meets up with somebody who's coming from, or going to, Toronto, he'll usually have something for them to pick up or drop off. Ryan is often blissfully ignorant of the work he does for him. He's sort of an unsung hero.
 
-Most notably though, he's been responsible for the design, sale and shipping of those [t-shirts](http://www.theroadislife.com/shop.htm) you're about to purchase. He's the t-shirt man. Without him, there would be no shirts.
+Most notably though, he's been responsible for the design, sale and shipping of those t-shirts you're about to purchase. He's the t-shirt man. Without him, there would be no shirts.
 
 He also points out some of Ryan's many typos when he's feeling generous.

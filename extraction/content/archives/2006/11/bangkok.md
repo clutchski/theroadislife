@@ -17,6 +17,6 @@ BANGKOK, THAILAND - I love Bangkok. I've fallen head over heels into it's trap. 
 
 It's all here. Everything. Once you can look past the sleaze it's a spectacular city. Bangkok has all the advantages of a big city, without any of the pesky rules rules of a 1st world metropolis:
 
-Why stop for a red light when there's clearly room to squeeze through? Why travel in a car when a scooter taxi or a tuk-tuk will do? Why not dine at a [chic lounge](http://www.flickr.com/photos/theroadislife/304059137/) set up at a Shell station after the pumps close? (Reminds me of [Nicaragua](http://www.theroadislife.com/archives/2006/02/on_long_term_tr.htm)). Why breath air when Carbon Monoxide and smog is so abundant? In Bangkok anything goes. Anything.
+Why stop for a red light when there's clearly room to squeeze through? Why travel in a car when a scooter taxi or a tuk-tuk will do? Why not dine at a [chic lounge](http://www.flickr.com/photos/theroadislife/304059137/) set up at a Shell station after the pumps close? (Reminds me of [Nicaragua](/archives/2006/02/on_long_term_tr/)). Why breath air when Carbon Monoxide and smog is so abundant? In Bangkok anything goes. Anything.
 
 All that's left is for me to find that elusive "I {heart} Bangkok" t-shirt. If I don't find it this time around, I have a feeling I'll be back. This evening though, we're on another all night bus to Chang Mai in the North of Thailand. I look forward to these all night buses. They're almost cheaper than the hotels and they provide a much more comfortable atmosphere to sleep. Seriously.

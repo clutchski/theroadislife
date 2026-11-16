@@ -13,7 +13,7 @@ comments: preserved_in_raw_capture_not_extracted
 
 Over the last few days, I've been putting a lot of thought into what I want this site to actually look like. Surprisingly, I've got a lot of ideas. But again, I'm faced with the real possiblity that I could spend a lifetime trying to get the little blue globe in the banner centered over the sidebar, and still not succeed.
 
-I've decided that the best way to solve my first [barrier to entry](http://www.theroadislife.com/archives/2005/07/barriers_to_ent.htm) is to throw money at the problem and see if I can't get it to go away. I've started exploring some options to have this site professionally designed so that it looks good and stays functional. Provided I can find somebody willing to take on the task I might be able to get away without too much damage to my bankroll. Surprisingly I wasn't able to find many people willing to perform this type of service... even for money.
+I've decided that the best way to solve my first [barrier to entry](/archives/2005/07/barriers_to_ent/) is to throw money at the problem and see if I can't get it to go away. I've started exploring some options to have this site professionally designed so that it looks good and stays functional. Provided I can find somebody willing to take on the task I might be able to get away without too much damage to my bankroll. Surprisingly I wasn't able to find many people willing to perform this type of service... even for money.
 
 I did manage to find a few though:
 

@@ -22,6 +22,6 @@ There were misgivings among us as the second bull was introduced to the ring and
 
 By the time the final round began, we were glued to the action. Ryan turned to me as the over-confident matador was almost gored for the second time and asked (in his typical fashion) "what if I really like bullfighting?"
 
-The fight continued as such, bull after bull - until six dead ones were dragged out of the stadium. As the other people in the cheap seats began to take notice of us, we were continuously bombarded with wine skins and offerings of cheap beer. When it was over, we emerged glad for the experience - but had confirmed many of the misgivings we originally had regarding the sport. Ryan and I agreed to frequent no more bullfights outside of [Spain](http://www.theroadislife.com/latest.htm)...
+The fight continued as such, bull after bull - until six dead ones were dragged out of the stadium. As the other people in the cheap seats began to take notice of us, we were continuously bombarded with wine skins and offerings of cheap beer. When it was over, we emerged glad for the experience - but had confirmed many of the misgivings we originally had regarding the sport. Ryan and I agreed to frequent no more bullfights outside of Spain...
 
 -Brian

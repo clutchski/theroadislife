@@ -20,6 +20,6 @@ In 2002 I did my time. Christmas on a beach on the [Gold Coast](http://www.surfe
 
 Brian and Willie should be settling in to a 2 week binge of Spanish lessons in San Pedro on the crater lake, [Lago Atitlan](http://en.wikipedia.org/wiki/Lake_Atitlán). Brian has promised to keep us all updated with the occasional post.
 
-Christmas is about getting together with family and friends. I be landing in Toronto early this evening and plan to head out for some food and drink, before driving North tomorrow. If you're reading this there's a good chance that you know me, and if you know me, there's a good chance you live in Toronto. I have no phone, but if you have nothing better to do on a Tuesday night, check the [comments](http://www.theroadislife.com/archives/2005/12/my_flight_home.htm) on this post, I'll have picked a suitable drinking hole before 8pm.
+Christmas is about getting together with family and friends. I be landing in Toronto early this evening and plan to head out for some food and drink, before driving North tomorrow. If you're reading this there's a good chance that you know me, and if you know me, there's a good chance you live in Toronto. I have no phone, but if you have nothing better to do on a Tuesday night, check the [comments](/archives/2005/12/my_flight_home/) on this post, I'll have picked a suitable drinking hole before 8pm.
 
 I can't wait to swap beans and rice for turkey and mashed potatoes.

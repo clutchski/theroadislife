@@ -18,7 +18,7 @@ comments: preserved_in_raw_capture_not_extracted
 >
 > -Inscibed on the Statue of Liberty
 
-![](../../../../photos/ec9fef7ee6b47adc5ce13a450fb30078959913361e439c4123824ce159484ca3.jpg)
+![](/photos/ec9fef7ee6b47adc5ce13a450fb30078959913361e439c4123824ce159484ca3.jpg)
 Manhatten and her 5 buroughs can assault your senses. The night rain deepens the darkness and really gives you a sense of Delillo's
 [American magic and dread](http://www.amazon.com/exec/obidos/redirect?link_code=ur2&camp=1789&tag=theroadislife-20&creative=9325&path=http://www.amazon.com/gp/product/0812235517?v=glance&n=283155&v=glance)
 ![](http://www.assoc-amazon.com/e/ir?t=theroadislife-20&l=ur2&o=1)

@@ -14,7 +14,7 @@ comments: preserved_in_raw_capture_not_extracted
 >
 > -Douglas Adams
 
-Today is October 1st. This was to be the first symbolic day of our storied journey, but alas, it wasn't meant to be. [Brian](http://www.theroadislife.com/about.htm) is fighting to free himself from what seems to me to be endless Law and Med School applications while I'm trying to stretch this move out as long as possible in an attempt to avoid being too idle, for too long.
+Today is October 1st. This was to be the first symbolic day of our storied journey, but alas, it wasn't meant to be. [Brian](/pages/about/) is fighting to free himself from what seems to me to be endless Law and Med School applications while I'm trying to stretch this move out as long as possible in an attempt to avoid being too idle, for too long.
 
 Tomorrow should be the last of the move for me and I fully expect Brian to break free very soon. We plan to converge together here in Toronto early next week and are already taking concrete steps to get us out of Canada and on the road.
 

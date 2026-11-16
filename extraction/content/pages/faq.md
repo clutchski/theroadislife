@@ -34,7 +34,7 @@ images:
 
   
 
-Well, it's the personal website of [Ryan Henderson](/pages/about/). I created it as a means for me to provide regular updates on my attempt to circumnavigate the world without the use of air travel. It's a spot for friends and family to stop by periodically to see what I'm up to and where I've been, without being subjected to mass emails and inboxes clogged with giant photos. I left on October 1st 7th 2005; I'm not sure when I'll return.
+Well, it's the personal website of Ryan Henderson. I created it as a means for me to provide regular updates on my attempt to circumnavigate the world without the use of air travel. It's a spot for friends and family to stop by periodically to see what I'm up to and where I've been, without being subjected to mass emails and inboxes clogged with giant photos. I left on October 1st 7th 2005; I'm not sure when I'll return.
 
   
 

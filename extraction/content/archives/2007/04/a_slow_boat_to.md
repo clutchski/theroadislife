@@ -15,7 +15,7 @@ comments: preserved_in_raw_capture_not_extracted
   
 SHANGHAI, CHINA - The Ferry from Osaka took more than 50 hours but went without incident. Our accommodation was comfortable and clean and I was lucky enough to have a handful of other English speaking passengers. The crew put us all in the same dormitory style cabin which made the trip pass faster than my previous crossing from China to Korea. With very little English language entertainment on board, the few foreigners were a lifesaver.
 
-It dawned on me as I stared out at the rolling waves from my cabin aboard the ferry bound for China that I was looking out at the Pacific Ocean. Either the Pacific Ocean is huge, or I haven't made much progress at all on this round-the-world voyage. After all it was [October of 2005](http://www.theroadislife.com/archives/2005/10/pacific_beach_-.htm) when Brian and I first encountered the Pacific. I've been flirting with this Ocean for more than a year and a half!
+It dawned on me as I stared out at the rolling waves from my cabin aboard the ferry bound for China that I was looking out at the Pacific Ocean. Either the Pacific Ocean is huge, or I haven't made much progress at all on this round-the-world voyage. After all it was [October of 2005](/archives/2005/10/pacific_beach_-/) when Brian and I first encountered the Pacific. I've been flirting with this Ocean for more than a year and a half!
 
 In the spirit of moving on and seeing something other than the Pacific Ocean, I've started playing my usual games with the Russian Embassy. I'm banking on the rumour that the Shanghai branch is more manageable than the Beijing one.
 

@@ -18,7 +18,7 @@ So tomorrow morning I'll be shouldering my packs once again for a week (or two) 
 
 These plans, of course, are fragile at best. For now I'll find comfort in the fact that I have a passport, I have a ferry ticket and I have a [7-day rail pass](http://www.japanrailpass.net/eng/en001.html) good for anywhere in Japan.
 
-Near Tokyo, I plan to also meet up with Caroline, a travelling buddy from my Central American days, and one time [guest writer](http://www.theroadislife.com/archives/2005/11/the_softer_side.htm#comments) on this very website is living in Nagoya.
+Near Tokyo, I plan to also meet up with Caroline, a travelling buddy from my Central American days, and one time [guest writer](/archives/2005/11/the_softer_side/) on this very website is living in Nagoya.
 
 I leave tomorrow morning. First stop the Southern city of [Fukuoka](http://en.wikipedia.org/wiki/Fukuoka,_Fukuoka) on the island of Kyūshū. My mind is already filled with Bullet Trains, Sushi, Cellphones and Samarai.
 
