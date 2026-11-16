@@ -30,4 +30,4 @@ That's it. It's that easy. In my case it worked out to two easily carried bags. 
 
 Tomorrow will be a trial run for me as I'll be making my way over to Sudbury (2hrs) to board a bus down to Toronto (5.5hrs), which is officially where we want to leave from, and return to.
 
-I plan to provide a breakdown of what I'm bringing and what I've decided to leave behind in the [FAQ](http://www.theroadislife.com/faq.htm) section very soon.
+I plan to provide a breakdown of what I'm bringing and what I've decided to leave behind in the [FAQ](/pages/faq/) section very soon.

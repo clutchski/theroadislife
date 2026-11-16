@@ -21,4 +21,4 @@ With the help of my old roommate, Jon we can now sell T-Shirts. He´s done the l
 
 We've decided to go for quality over quantity. At the price of $30 CDN per shirt, I can't even afford one. The reason for the price is simply a function of the cost to us. We've committed to using only the highest quality shirts along with tough, well done custom-cut fuzzy iron-on lettering. The logo won't wash off and the actual shirt should be good for at least a couple trips around the world. All our shirts are made by American Apparel, a clothing manufacturer notable for it's insistence on being sweatshop free.
 
-If you´d like more detail or to actually buy a Shirt for yourself click the '[Shop](http://www.theroadislife.com/shop.htm)' button on the menu.
+If you´d like more detail or to actually buy a Shirt for yourself click the 'Shop' button on the menu.

@@ -16,7 +16,7 @@ So far, on this trip, I've been the recipient of innumerable acts of kindness; b
 
 Take my present situation as an example: I'm writing this post from a free Internet connection in a free apartment I now have all to myself. Gia and Lindsay, friends from Toronto, have charged me with 'house-sitting' their condo here on the Gold Coast while they visit Canada for the next couple weeks. They get no real benefit by me staying here; There are no plants or animals feed. Essentially they've just given me free reign of their home. All the while, there are people at home who are storing my junk, forwarding my mail, helping me with this website.
 
-On my birthday, in Sydney, Cameron - my crewmate and friend from [Blithe Spirit](http://www.theroadislife.com/archives/2006/06/so_long_brian_h.htm) - rounded up a bunch of his own friends to take me out on the town. I'd never met most of them until that night, yet there they were, celebrating along side me and doing their best to make me feel welcome.
+On my birthday, in Sydney, Cameron - my crewmate and friend from [Blithe Spirit](/archives/2006/06/so_long_brian_h/) - rounded up a bunch of his own friends to take me out on the town. I'd never met most of them until that night, yet there they were, celebrating along side me and doing their best to make me feel welcome.
 
 I could go on, but I think you get the point. If not, this is it: While governments around the world are amassing billions and trillions of dollars in debt, I'm wandering around the world amassing a different sort of debt: Karma debt. My Karma deficit is huge and getting bigger by the minute. I'm indebted to hundreds (maybe thousands) of people.
 

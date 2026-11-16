@@ -18,7 +18,7 @@ comments: preserved_in_raw_capture_not_extracted
 > -Warren Zevon
 
 It's been more than a couple days since I've posted. I can explain. We've been into some serious adventure. Well, mis-adventure; but as far as I can tell both words mean the same thing; that is, all adventure is actually mis-adventure. If you
-[remember](http://www.theroadislife.com/archives/2006/01/out_of_the_fryi.htm#comments)
+[remember](/archives/2006/01/out_of_the_fryi/)
 , my memory for hardship is short. This episode is already being filed away in my mind as an experience rather than ordeal. It all cumulated in an unplanned trip to the Canadian Embassy in Tegucigalpa, the capital of Honduras and a couple visits to the local police. The first visit being a bust because they didn´t have paper... or a typewriter (we needed a report). No paper, just guns on a desk.
 
 We left El Salvador without a hitch. The night spent in lockdown on the border at the old slaughterhouse recently converted into a hotel (the meat hooks on the wall were a dead giveaway) for wayward travellers like us was much nicer than the hotel from the previous night which, judging by the signage in the rooms was much more accustomed to renting rooms by the hour. Either way, it didn't matter, as long as there was a place to rest my head that was out of the sun I was content. I'd been enduring nearly two weeks of heaches, diareaha, fever and occasional puking. Cycling nearly 100km each day in more than 40 degrees of heat wasn't helping my condition and wasn't making for much fun either. Still, it was better for each new day to have a different horizon; The world is big and I didn't want to spend any more time than was necessary sweating it out in some crappy hotel. No we were headed for the promised land.

@@ -12,7 +12,7 @@ comments: preserved_in_raw_capture_not_extracted
 
 GALAPAGOS, ECUADOR - Last night, as the sun was set over the [Galapagos](http://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands) islands, Seal Lions and Giant floating turtles welcomed our boat to the village of Puerto Ayora where we promptly went ashore for a celebratory meal and drink.
 
-On my [map](http://www.theroadislife.com/latest.htm "Latest Position") of the world, it´s obvious that this first leg, is a very small step across a very large ocean, but I can´t help but feel that this landfall is more significant than the miles suggest. There is no turning back now, we´ve taken that first giant leap offshore.
+On my map of the world, it´s obvious that this first leg, is a very small step across a very large ocean, but I can´t help but feel that this landfall is more significant than the miles suggest. There is no turning back now, we´ve taken that first giant leap offshore.
 
 As far as having fair winds and following seas though, we´ll have to wait until we break from here toward the Marquesas with the trade winds. We faced headwinds nearly every single day as we muscled our way down to the equator and we weren't without our share of mechanical challenges along the way. Including overheated engines and blown starter motors. Nothing we couldn´t handle.
 

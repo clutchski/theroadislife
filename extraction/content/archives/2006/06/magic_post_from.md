@@ -13,7 +13,7 @@ comments: preserved_in_raw_capture_not_extracted
 
 [![Cam and Richard](https://static.flickr.com/75/170187949_1ec32adc68.jpg)](http://www.flickr.com/photos/theroadislife/170187949/ "Photo Sharing")  
   
-THE OCEAN - I got an e-mail from the boat. It's not Ryan, its his skipper Neville. It seems that they've got a little more technology than on the previous boat. Sounds like things are going well. I actually spoke with Ryan the other day before he left and he wanted to thank all of you who have sent in donations and [purchased shirts](http://www.theroadislife.com/shop.htm). -jon
+THE OCEAN - I got an e-mail from the boat. It's not Ryan, its his skipper Neville. It seems that they've got a little more technology than on the previous boat. Sounds like things are going well. I actually spoke with Ryan the other day before he left and he wanted to thank all of you who have sent in donations and purchased shirts. -jon
 
 *From the boat:*
 
