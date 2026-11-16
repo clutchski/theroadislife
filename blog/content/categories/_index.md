@@ -8,7 +8,7 @@ Browse recovered entries by place and topic.
 
 ## Categories
 
-- [Austraila](#austraila) (19)
+- [Australia](#australia) (19)
 - [Cambodia](#cambodia) (2)
 - [Canada](#canada) (7)
 - [China](#china) (5)
@@ -38,7 +38,7 @@ Browse recovered entries by place and topic.
 - [USA](#usa) (12)
 - [Vietnam](#vietnam) (6)
 
-## Austraila {#austraila}
+## Australia {#australia}
 
 - [Goodbye Australia](../archives/2006/10/goodbye_austral/)
 - [\\"Plan B\\" Becomes \\"Plan A\\"](../archives/2006/10/australia_-_its/)
