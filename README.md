@@ -18,7 +18,7 @@ were missing or incomplete. Flickr photos remain linked externally, and comments
 haven't been collected separately. The original [Internet Archive capture](https://web.archive.org/web/20100406044023/http://theroadislife.com/)
 identifies the publishing platform as Movable Type.
 
-The site is live at <https://clutchski.github.io/theroadislife/>. Raw captures,
+The site is live at <https://theroadislife.ca/>. Raw captures,
 recovery tools, Markdown, and photos are in `extraction/`; the Hugo site is in
 `blog/`. See [`TODO.md`](TODO.md) for remaining work.
 
