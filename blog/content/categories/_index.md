@@ -41,7 +41,7 @@ Browse recovered entries by place and topic.
 ## Austraila {#austraila}
 
 - [Goodbye Australia](../archives/2006/10/goodbye_austral/)
-- [\\"Plan B\\" Becomes \\"Plan A\\"](../archives/2006/10/australia_-_its/)
+- ["Plan B" Becomes "Plan A"](../archives/2006/10/australia_-_its/)
 - [Getting to Asia Plan B: Cargo Ship](../archives/2006/09/getting_to_asia/)
 - [So Close, Yet So Far Away](../archives/2006/09/so_close_yet_so/)
 - [For Now, I Walk Alone - Video](../archives/2006/09/for_now_i_walk/)
